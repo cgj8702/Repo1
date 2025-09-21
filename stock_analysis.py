@@ -26,10 +26,20 @@ def price_at(i):
     return stock_prices[i - 1]
 
 
-# def price_at(x):
-# answer = {}
+def max_price(a, b):
+    mx = 0
+    for i in range(a, b + 1):
+        mx = max(mx, price_at(i))
+    return mx
 
 
-# max_price(a, b)
+def min_price(a, b):
+    mn = price_at(a)
+    for i in range(a, b + 1):
+        mn = min(mn, price_at(i))
+    return mn
 
-# min_price(a, b)
+
+print(max_price(1, 15))
+print(min_price(5, 10))
+print(price_at(3))
