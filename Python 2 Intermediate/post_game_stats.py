@@ -24,26 +24,30 @@ player_list = [
     },
 ]
 
-
-for i in player_list:
-    names = i['name']
-
-
-names_list = [i['name'] for i in player_list]
-
-# names = [player["name"] for player in player_list]
-
-# print('Players\' names:', end=" ")
-# for i in player_list:
-#    print(i['name'], sep=",", end="")
+pat = player_list[0]
+mar = player_list[1]
+trav = player_list[2]
 
 
-# print(pat['position'])
-# print(mar['position'])
-# print(trav['position'])
+for player in player_list:
+    name = player['name']
+    position = player['position']
+    print(f'{name} plays {position}')
 
-# trav['touchdowns'] = 1
-# print(trav['touchdowns'])
+print()
+print('Players\' positions:')
 
-# avg_touchdowns = int((pat['touchdowns'] + mar['touchdowns'] + trav['touchdowns']) / 3)
-# print(avg_touchdowns)
+for player in player_list:
+    print(player['position'])
+
+pat['touchdowns'] = 5
+print()
+print('Update:', pat['name'], 'now has', pat['touchdowns'], 'touchdowns')
+print()
+
+total_touchdowns = int((pat['touchdowns'] + mar['touchdowns'] + trav['touchdowns']))
+print('Total touchdowns:', total_touchdowns)
+num_players = len(player_list)
+print('Divided by', num_players, 'players equals...')
+avg_touchdowns = int(total_touchdowns / num_players)
+print('Average touchdowns:', avg_touchdowns)
