@@ -46,10 +46,9 @@ try:
         EC.element_to_be_clickable((By.PARTIAL_LINK_TEXT, "Free to read"))
     )
     free_to_read_link.click()
-    print("Clicked on 'Free to read online'.")
+    print("Clicked on 'Free to read'.")
 
-    # --- STEP 2: THIS IS THE NEW, CRITICAL PART ---
-    # First, wait for the *new page's title* to appear. This confirms the page has loaded.
+    # --- STEP 2: Wait for the toc's title to appear ---
     toc_header_locator = (By.XPATH, "//h2[text()='Table of Contents']")
     print("Waiting for the Table of Contents page to load...")
     WebDriverWait(driver, 10).until(
