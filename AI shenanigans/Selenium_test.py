@@ -1,8 +1,9 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException  # Make sure this is imported
+from selenium.common.exceptions import TimeoutException
 import os
 import time
 from weasyprint import HTML
@@ -24,7 +25,17 @@ def clean_filename(title):
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 merger = PdfMerger()
 pdf_paths = []
-driver = webdriver.Chrome()
+
+# Create an Options object
+chrome_options = Options()
+
+# Add the headless argument
+chrome_options.add_argument(
+    "--headless=new"
+)  # Use "--headless=new" for modern Chrome versions
+
+# Initialize the WebDriver with the headless options
+driver = webdriver.Chrome(options=chrome_options)
 
 try:
     # --- STEP 1: Navigate to the homepage and click the link ---
@@ -86,6 +97,9 @@ try:
 
     merger.write(FINAL_PDF)
     print(f"✅ Done! Final PDF saved as: {FINAL_PDF}")
+
+    os.remove(OUTPUT_DIR)
+    print(f"... and cleaned up {OUTPUT_DIR} 🧹🗑️")
 
 except TimeoutException as e:
     # This will catch the error and give us much better debugging info
