@@ -221,7 +221,7 @@ class HannibalParser:
 
     def extract_scene_metadata(self, heading):
         """Extracts location, time, and mental state from sluglines."""
-        meta = {"is_dream": False, "is_flashback": False, "time": "UNKNOWN", "location": "UNKNOWN"}
+        meta = {"is_dream": False, "is_flashback": False, "time": "UNKNOWN", "location": "UNKNOWN", "pov": None, "characters_present": []}
         heading_upper = heading.upper()
 
         if any(x in heading_upper for x in ["DREAM", "NIGHTMARE", "HALLUCINATION", "DREAMSCAPE", "FEVERISH", "IN HIS MIND"]):
@@ -234,6 +234,13 @@ class HannibalParser:
             if re.search(rf"\b{t}\b", heading_upper):
                 meta["time"] = t
                 break
+
+        if "POV" in heading_upper or "POINT OF VIEW" in heading_upper or "THROUGH THE EYES" in heading_upper:
+            meta["pov"] = "Specific POV"
+        else:
+            meta["pov"] = None
+
+        meta["characters_present"] = []
 
         loc = re.sub(r"^[A-Z]*\d+[A-Z]*\s+", "", heading_upper) 
         loc = re.sub(r"\s+[A-Z]*\d+[A-Z]*\.?$", "", loc)
@@ -251,22 +258,29 @@ class HannibalParser:
         if not clean: return "EMPTY", ""
         leading = len(raw_line) - len(raw_line.lstrip())
 
-        # 1. CHARACTER NAMES (Handles S3 NOW/RETRO prefixes)
+        # 1. SLUGLINES (Prioritize to catch indented scene headers)
+        # Standard INT./EXT. headers
+        if any(x in clean for x in ["INT.", "EXT.", "I/E", "UNDERWATER", "REALITY", "IN HIS MIND", "IN THE", "UNDEFINED LOCATION"]):
+            return "SLUGLINE", clean
+        
+        # Numbered Scene Headers (e.g. "13 ELISE NICHOLS' BEDROOM")
+        # Pattern: Leading number, whitespace, uppercase text, optional trailing number
+        # Must be uppercase to avoid numbered dialogue or lists
+        if clean.isupper() and re.match(r"^\d+\s+[A-Z]", clean):
+             return "SLUGLINE", clean
+
+        # 2. CHARACTER NAMES (Handles S3 NOW/RETRO prefixes)
         if leading >= 25 and clean.isupper() and not clean.startswith("("):
             if not any(clean.startswith(x) for x in ["A ", "THE ", "EXTREME ", "AN "]):
                 name_base = re.sub(r"^(?:RETRO|NOW)-", "", clean)
                 if name_base not in self.PROMOTION_BLACKLIST and len(clean.split()) <= 4:
                     return "CHARACTER", re.sub(r"\(.*?\)", "", clean).strip()
 
-        # 2. DIALOGUE & PARENTHETICALS
+        # 3. DIALOGUE & PARENTHETICALS
         if 8 <= leading < 30:
             if clean.startswith("(") and clean.endswith(")"):
                 return "PARENTHETICAL", clean
             return "DIALOGUE", clean
-
-        # 3. SLUGLINES
-        if any(x in clean for x in ["INT.", "EXT.", "I/E", "UNDERWATER", "REALITY", "IN HIS MIND", "IN THE", "UNDEFINED LOCATION"]):
-            return "SLUGLINE", clean
 
         return "ACTION", clean
 
@@ -283,7 +297,7 @@ class HannibalParser:
         episode_id = os.path.basename(pdf_path).replace(".pdf", "")
         
         # Initialize START scene with valid defaults to pass validation
-        default_meta = {"is_dream": False, "is_flashback": False, "time": "UNKNOWN", "location": "UNKNOWN", "episode": episode_id}
+        default_meta = {"is_dream": False, "is_flashback": False, "time": "UNKNOWN", "location": "UNKNOWN", "episode": episode_id, "pov": None, "characters_present": []}
         current_scene = {"heading": "START", "metadata": default_meta, "content": []}
         active_speaker = None
         dialogue_buffer = []
@@ -312,15 +326,25 @@ class HannibalParser:
                         flush_dialogue()
                         current_scene["content"] = self.clean_scene_content(current_scene["content"])
                         if current_scene["content"]:
+                            # ChromaDB Requirement: Flatten list to single string
+                            current_scene["content"] = "\n".join(current_scene["content"])
                             scenes.append(current_scene)
                         
-                        new_meta = self.extract_scene_metadata(content)
+                        # Clean heading: Remove leading/trailing scene numbers (e.g. "1", "A25")
+                        # Regex targets distinct alphanumeric blocks usually found in script margins
+                        clean_heading = re.sub(r"^[A-Z]*\d+[A-Z]*\s+", "", content).strip()
+                        clean_heading = re.sub(r"\s+[A-Z]*\d+[A-Z]*$", "", clean_heading).strip()
+                        
+                        new_meta = self.extract_scene_metadata(clean_heading)
                         new_meta["episode"] = episode_id
-                        current_scene = {"heading": content.strip(), "metadata": new_meta, "content": []}
+                        current_scene = {"heading": clean_heading, "metadata": new_meta, "content": []}
                     
                     elif l_type == "CHARACTER":
                         flush_dialogue()
                         active_speaker = self.clean_text(content)
+                        # Add to duplicates check
+                        if active_speaker and active_speaker not in current_scene["metadata"]["characters_present"]:
+                            current_scene["metadata"]["characters_present"].append(active_speaker)
                         
                     elif l_type == "DIALOGUE":
                         clean_line = self.clean_text(content)
@@ -344,7 +368,10 @@ class HannibalParser:
 
         flush_dialogue()
         current_scene["content"] = self.clean_scene_content(current_scene["content"])
-        if current_scene["content"]: scenes.append(current_scene)
+        if current_scene["content"]: 
+            # ChromaDB Requirement: Flatten list to single string output
+            current_scene["content"] = "\n".join(current_scene["content"])
+            scenes.append(current_scene)
         return scenes
 
 def process_file(filename):
