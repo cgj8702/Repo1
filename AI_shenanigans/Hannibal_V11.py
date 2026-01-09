@@ -1,0 +1,261 @@
+import re
+import os
+import json
+import pdfplumber
+from tqdm import tqdm
+
+# --- CONFIGURATION ---
+SCRIPTS_FOLDER = "C:/Users/carly/Documents/Coding/episode_scripts/"
+OUTPUT_FOLDER = "C:/Users/carly/Documents/Coding/Hannibal_memories/"
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+class HannibalParser:
+    def __init__(self):
+        # ==========================================
+        # 1. THE "NUKE" LIST (Whole Line Killers)
+        # ==========================================
+        self.WHOLE_LINE_KILLERS = [
+            "CONTINUED", "OMITTED", "ACT ONE", "ACT TWO", "ACT THREE", "ACT FOUR", 
+            "ACT FIVE", "ACT SIX", "TEASER", "END OF SHOW", "END OF ACT", 
+            "END OF TEASER", "END OF EPISODE", "THE END", "FINAL SHOOTING SCRIPT", 
+            "FINAL DRAFT", "Collated", "WHITE REVISIONS", "BLUE", "PINK", "YELLOW", 
+            "GREEN", "GOLDENROD", "WHITE", "REVERSE ANGLE", "CLOSE-UP", "NEW ANGLE", 
+            "HIGH ANGLE", "POP WIDE", "ON THE FLOOR", "POST CREDITS", "END OF SEASON THREE!",
+            "A PIXELATED DARKNESS", "THE TELEPHONE MATRIX", "THE MOUTHPIECE", 
+            "A STILL OF WILL GRAHAM", "A SIGN", "UTTER DARKNESS", "A RECORD NEEDLE", 
+            "A RIBBON OF CELLULOID", "A SPINNING SPROCKET WHEEL", "A RADIANT VISION",
+            "A FULL MOON", "A HALF MOON", "A MOON-SHAPED HOLE", "A SMASHED MIRROR",
+            "A BLOCK OF WOOD", "A CRACKLING FIRE", "A BUBBLING SOUP POT", "THE ATTIC",
+            "A FOOT", "THE NECK STUMP", "GOLDEN GATES", "A VOTIVE CANDLE",
+            "A SHIFTING, FLUTTERING ORANGE LIGHT", "THE CITY FOUNTAIN", 
+            "A TRANSPARENT VESSEL", "THE DRAGON'S WINGS", "A CAGE"
+        ]
+
+        # ==========================================
+        # 2. DYNAMIC KILLERS (Regex)
+        # ==========================================
+        self.DYNAMIC_KILLERS = [
+            # S3 specific mechanical/primal sounds
+            r"^\s*(?:FWUM|CLICK|BLAM|WHOOSH|CRASH|BANG|SMASH|KLANG|K’CHUK|RING|PLIP|WHAM|P’KEE|PFFT|KLAXON|BUZZ|P'KEET|SHLUCK|PWUM|PLOP|ZAP|SHUNK|FWOOM|SCRITCH|KA-CHOO|BING-BONG|K-SHH+|FWUMMP|THWUB|KERSHICK|SLKGHHH|WHACK|THUNK|BARP|P-KEE|CH-CHUNK|WOOMPF)(?:\.|\s)*$",
+            # Repeating SFX patterns
+            r"^\s*(?:SLAM|CHOP|PLIP|PWUM|FWUP|BANG|THWUB|BLEEP|EEK)(?:[-\.\s]+(?:SLAM|CHOP|PLIP|PWUM|FWUP|BANG|THWUB|BLEEP|EEK))+\s*$",
+            r"^\s*FADE (?:IN|OUT|TO|THROUGH):?",
+            r"^\s*(?:CUT|SMASH CUT|BACK|MATCH CUT|TIME CUT|QUICK POP|SMASH BACK|HARD CUT|FLASH CUT|QUICK MATCH CUT|SWIPE) TO:?",
+            r"^\s*DISSOLVE TO:?",
+            r"^\s*(?:WIDENING|REVERSING|PUSHING|PULLING|PANNING|TILTING|TRACKING|CRANE|DOLLY)\b",
+            # Footer filtering
+            r"HANNIBAL\s+Ep\.\s+#\d+.*",
+            r"\d{2}/\d{2}/\d{2}\s+\d+\.?\s*$",
+            r"^\s*\d+\.\s*$"
+        ]
+
+        # ==========================================
+        # 3. THE "SNIPER" LIST (Partial Removers)
+        # ==========================================
+        self.PARTIAL_REMOVERS = [
+            "(CONT'D)", "(CONT’D)", "(cont'd)", "(cont’d)", "(V.O.)", "(O.S.)", "(O.C.)",
+            "(pre-lap)", "(into phone)", "(then)", "(MORE)", "(stunned)", "(whispers)",
+            "(calling out)", "(intense)", "(pointing)", "(distorted, dreamlike)",
+            "(re: the food)", "(re: the herbs)", "(re: the picture)", "(re: the lens)",
+            "(re: the pigs)", "(re: the lunchbox)", "(re: the thermos)",
+            "(not bitchy)", "(smiles and it's lovely)", "(almost inaudible)", "...", 
+            "we --", "We are--", "we are--", "we are --", "We are --",
+            "A CHYRON tells us", "A CHYRON", "RE-USE EP 101", "PRESENT", "FLASHBACK",
+            "OMNISCIENT P.O.V.", "WILL’S P.O.V.", "WILL'S P.O.V.", "GEORGIA’S P.O.V.",
+            "LONE MAN’S P.O.V.", "ABIGAIL’S P.O.V.", "JACK'S P.O.V.", "WILL’S FEVERISH P.O.V.",
+            "ALANA’S POV", "INTERCUT WITH:", "WILL IS HALLUCINATING.", "STOCK FOOTAGE",
+            "WILL GRAHAM'S BED", "THE SHADOWY TREES", "FIRELIGHT", "FLASH FORWARD",
+            "A PENDULUM", "RETRO-WILL", "RETRO-HANNIBAL", "NOW-WILL", "THE MIRROR",
+            "REALITY", "DREAM STATE", "MATCH TO:", "TRANSITION TO:", "SWIPE TO BLACK."
+        ]
+
+        self.PROMOTION_BLACKLIST = [
+            "HOBBS", "GRAHAM", "LECTER", "CRAWFORD", "BLOOM", "KATZ", "ZELLER", "PRICE", "LOUNDS",
+            "GIDEON", "CHILTON", "LASS", "SUTCLIFFE", "MADCHEN", "BOYLE", "BUDISH", "SUMMERS",
+            "CARRUTHERS", "SHELL", "STAG", "PENDULUM", "WINSTON", "DOE", "PILLS", "LABEL", "GUN",
+            "REVEAL", "CAMERA", "CLOSE ON", "ON WILL", "ON HANNIBAL", "ON JACK", "ON ALANA",
+            "A GLASS OF WATER", "THE ALARM CLOCK", "A PICTURE", "THE MORGUE",
+            "A SEA URCHIN", "A BEAUTIFUL PIECE", "A TASTEFULLY-ORNATE", "A LARYNGOSCOPIC VIEW",
+            "THE STRING SECTION", "THE MISSING INTESTINES", "A KITCHEN CENTRIFUGE",
+            "A SNOWY SKY", "A HORRIBLE EYE", "A PAIR OF EYES", "THE BED OVERTURNS",
+            "A RAINBOW TROUT", "UNDER THE BED", "A ROW OF CORN", "THE HUMAN MURAL",
+            "THE MISSING LEG", "A BEAUTIFUL PLATE", "A SUDDEN PIERCING", "A SLOW SWINGING",
+            "THE WENDIGO MAN STAG", "A CUT-GLASS PERFUME", "A BOILING FROTH", "A MAN'S ANGUISHED EYE",
+            "A MAN'S FACE", "A PANEL TRUCK", "A SUDDEN LOUD BARKING", "A RIVULET OF BLOOD",
+            "A BOOK COVER", "A CAR'S FRONT WHEEL", "A HONEY BEE", "A MAN'S CORPSE",
+            "A SMOKE-BLACKENED FACE", "A BLUE SPARK", "A SOFT GOLDEN GLEAM", "A PADDED ENVELOPE",
+            "THE BUTCHER BLOCK", "THE MAIN TELESCOPE", "THE REVERSE SIDE", "THE LABYRINTH",
+            "A HARD, SOMBER CHORD", "A SOMBER REFRAIN", "A RECENTLY-DUG GRAVE", "A LONG BONE",
+            "A SHEET-COVERED BODY", "A PEN SCRAWLS", "A HARPSICHORD NOTE", "A HUGE BONFIRE",
+            "A HUNCHED, POWERFUL SILHOUETTE", "SPLAYED PAWS", "A FLASH OF CLAWS", "A FLASH OF FANGS",
+            "A DISTORTED MAN", "A SINGLE BRIGHT OBJECT", "A DISEMBODIED VOICE", "A FANGED RESIN MUZZLE",
+            "THE DIRE WOLF CRANIUM", "A SHADOW GROWS FAST", "A RIFLE", "A SHEATHED FILLET KNIFE",
+            "A WAX PAPER-WRAPPED PACKAGE", "THE SUCKLING PIG", "AN INDUSTRIAL FREEZER",
+            "A DESK", "A RACK OF LARGE GLASS", "A ROBIN", "A RAT", "AN INTENSE YOUNG MAN",
+            "A CAR'S FRONT WHEEL", "A PARTY CROWD", "A BEAUTIFUL WOMAN", "A RUSHING TAP",
+            "AN EMPTY CHAIR", "A POLICE CONSTABLE", "A CCTV CAMERA", "A DYING MAN",
+            "A MAN IN HER SHOWER", "A TRUCK'S FRONT WHEEL", "A FALLING TEACUP", "SNOW",
+            "SPOTS OF BLOOD", "THE WILDIGO", "A DOOR", "SHARDS OF PORCELAIN", "A WHITE SHEET",
+            "THE BODY'S BACK", "THE DOCTOR'S NEEDLE TIP", "A FINAL LENGTH OF THREAD",
+            "DUST MOTES", "CASTLE LECTER", "MISCHA LECTER", "A SEVERED ARM", "A HANDFUL OF SALT",
+            "A PRECISION KITCHEN BLADE", "A PLATTER OF SKEWERS", "A BOTTLE OF WINE",
+            "A SCOLD'S BRIDLE", "A BODY OF WATER", "A SNAIL", "A BURLAP SACK", "PHEASANT MEAT",
+            "A CONTACT LENS", "A LAYER OF MAKEUP", "A SAUCER OF BLOOD", "A WINE BOTTLE",
+            "A WINEGLASS", "A TRANSPARENT VESSEL", "A FULL MOON", "A HALF MOON",
+            "A MOON-SHAPED HOLE", "A GLASS CUTTER", "A SMASHED MIRROR", "A BATHROOM GLASS",
+            "A TELEPHONE", "A TELEPHONE RECEIVER", "TRAIN TRACKS", "TRAIN CARS",
+            "A FIREFLY LARVA", "A RIPPLE OF WATER", "THE COLLAR", "THE TIE",
+            "A BUBBLING SOUP POT", "A SCRIM OF CHEESECLOTH", "A CLEAR ASPIC", "A PENCIL",
+            "A PENCIL SKETCH", "A STREAM OF COFFEE", "THE WOODCARVING", "A STRIP OF LIGHT",
+            "A VENTILATOR", "THE EEL", "A TRUCK'S FRONT WHEEL", "A SAUCER OF BLOOD",
+            "A MEDICINE VIAL", "AN EXTERNAL FIXATION", "A METAL SIGN", "THE NIGHT SKY",
+            "A PIXELATED DARKNESS", "THE MOUTHPIECE", "A STILL OF WILL", "A VASE",
+            "A PROJECTOR LENS", "A SCREEN", "A COLORLESS VISTA", "THE YELLOW PADDED ENVELOPE",
+            "A SINGLE LIP", "THE CITY FOUNTAIN", "A RIBBON OF CELLULOID", "A SPINNING SPROCKET",
+            "A MATCH", "A BURNING MATCH HEAD", "A BODY HOIST", "A BLACK WOMAN", "A SHADOW",
+            "A MASK", "A VEHICLE'S ENGINE", "THE CLOCK", "A BOTTLE OF AMMONIA", "A TRIPOD",
+            "THE VIDEO CAMERA", "A COFFIN", "A FUNERAL DIRECTOR", "A BUCK KNIFE BLADE",
+            "THE MAJESTIC TATTOO", "THE ALTAR", "A LONE DIVA", "A LURID NEW YORK POST",
+            "A CHUNK OF MASONRY", "A SAUCER OF BLOOD", "A GREAT LEDGER", "A CLIPPING"
+        ]
+
+    def clean_text(self, text):
+        """Standardizes text and removes dialogue artifacts including S3 specific notes."""
+        for item in self.PARTIAL_REMOVERS:
+            text = text.replace(item, "")
+        # Remove bracketed/parenthesized notes (e.g., (NOTE: pickup from Ep 301))
+        text = re.sub(r"\((?:NOTE|subtitled|on screen|louder|croaking|into phone|sucks teeth|preparing).*?\)", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"\(\s*\)", "", text)
+        return text.strip()
+
+    def transform_observation(self, text):
+        """Converts camera/focus cues into narrative observations."""
+        match = re.search(r"^(?:OFF|ON)\s+([A-Z0-9\s\-\'’\.!]+)(.*)", text, re.IGNORECASE)
+        if match:
+            target = match.group(1).strip().title()
+            desc = match.group(2).strip().strip(",.- ")
+            if not desc:
+                return f"[Observation: Focus on {target}]"
+            return f"[Observation: {target} reacts: {desc}]"
+        
+        if text.upper().startswith("REVEAL"):
+            return "We see " + text[6:].strip()
+        return text
+
+    def extract_scene_metadata(self, heading):
+        """Extracts location, time, and mental state from sluglines."""
+        meta = {"is_dream": False, "is_flashback": False, "time": "UNKNOWN", "location": "UNKNOWN"}
+        heading_upper = heading.upper()
+
+        if any(x in heading_upper for x in ["DREAM", "NIGHTMARE", "HALLUCINATION", "DREAMSCAPE", "FEVERISH", "IN HIS MIND"]):
+            meta["is_dream"] = True
+        if any(x in heading_upper for x in ["FLASHBACK", "MEMORY", "EARLIER", "YEARS LATER"]):
+            meta["is_flashback"] = True
+
+        times = ["DAY", "NIGHT", "MORNING", "EVENING", "DAWN", "DUSK", "TWILIGHT", "PREDAWN", "SUNSET"]
+        for t in times:
+            if re.search(rf"\b{t}\b", heading_upper):
+                meta["time"] = t
+                break
+
+        loc = re.sub(r"^[A-Z]*\d+[A-Z]*\s+", "", heading_upper) 
+        loc = re.sub(r"\s+[A-Z]*\d+[A-Z]*\.?$", "", loc)
+        loc = re.sub(r"^(?:INT\.|EXT\.|I/E|INT/EXT)\s+", "", loc)
+        
+        for noise in ["- DAY", "- NIGHT", "- MORNING", "- EVENING", "RESUMING", "CONTINUOUS", "PRESENT", "FLASHBACK", "TWILIGHT"]:
+            loc = loc.replace(noise, "")
+        
+        meta["location"] = loc.strip(" -")
+        return meta
+
+    def get_line_type(self, raw_line):
+        """Determines line type via indentation and keywords."""
+        clean = raw_line.strip()
+        if not clean: return "EMPTY", ""
+        leading = len(raw_line) - len(raw_line.lstrip())
+
+        # 1. CHARACTER NAMES (Handles S3 NOW/RETRO prefixes)
+        if leading >= 25 and clean.isupper() and not clean.startswith("("):
+            if not any(clean.startswith(x) for x in ["A ", "THE ", "EXTREME ", "AN "]):
+                name_base = re.sub(r"^(?:RETRO|NOW)-", "", clean)
+                if name_base not in self.PROMOTION_BLACKLIST and len(clean.split()) <= 4:
+                    return "CHARACTER", re.sub(r"\(.*?\)", "", clean).strip()
+
+        # 2. DIALOGUE & PARENTHETICALS
+        if 8 <= leading < 30:
+            if clean.startswith("(") and clean.endswith(")"):
+                return "PARENTHETICAL", clean
+            return "DIALOGUE", clean
+
+        # 3. SLUGLINES
+        if any(x in clean for x in ["INT.", "EXT.", "I/E", "UNDERWATER", "REALITY", "IN HIS MIND", "IN THE", "UNDEFINED LOCATION"]):
+            return "SLUGLINE", clean
+
+        return "ACTION", clean
+
+    def is_junk_line(self, text):
+        clean = text.strip()
+        if any(k in clean for k in self.WHOLE_LINE_KILLERS): return True
+        for pattern in self.DYNAMIC_KILLERS:
+            if re.search(pattern, text, re.IGNORECASE): return True
+        return False
+
+    def parse_pdf(self, pdf_path):
+        scenes = []
+        current_scene = {"heading": "START", "metadata": {}, "content": []}
+        active_speaker = None
+        dialogue_buffer = []
+
+        def flush_dialogue():
+            nonlocal active_speaker, dialogue_buffer
+            if active_speaker and dialogue_buffer:
+                speech = " ".join(dialogue_buffer).strip()
+                if speech:
+                    current_scene["content"].append(f"{active_speaker}: \"{speech}\"")
+            active_speaker = None
+            dialogue_buffer = []
+
+        with pdfplumber.open(pdf_path) as pdf:
+            for page in pdf.pages[1:]:
+                text_content = page.extract_text(layout=True)
+                if not text_content: continue
+                
+                for line in text_content.split("\n"):
+                    if self.is_junk_line(line): continue
+                    l_type, content = self.get_line_type(line)
+                    
+                    if l_type == "SLUGLINE":
+                        flush_dialogue()
+                        if current_scene["content"]:
+                            scenes.append(current_scene)
+                        current_scene = {"heading": content.strip(), "metadata": self.extract_scene_metadata(content), "content": []}
+                    
+                    elif l_type == "CHARACTER":
+                        flush_dialogue()
+                        active_speaker = self.clean_text(content)
+                        
+                    elif l_type == "DIALOGUE":
+                        dialogue_buffer.append(self.clean_text(content))
+                        
+                    elif l_type == "PARENTHETICAL":
+                        if active_speaker:
+                            dialogue_buffer.append(f"[{content.strip('()').lower()}]")
+                            
+                    elif l_type == "ACTION":
+                        flush_dialogue()
+                        action = self.transform_observation(self.clean_text(content))
+                        if action: current_scene["content"].append(action)
+
+        flush_dialogue()
+        if current_scene["content"]: scenes.append(current_scene)
+        return scenes
+
+if __name__ == "__main__":
+    parser = HannibalParser()
+    if os.path.exists(SCRIPTS_FOLDER):
+        pdf_files = [f for f in os.listdir(SCRIPTS_FOLDER) if f.endswith(".pdf")]
+        for filename in tqdm(pdf_files):
+            data = parser.parse_pdf(os.path.join(SCRIPTS_FOLDER, filename))
+            output_filename = os.path.join(OUTPUT_FOLDER, os.path.splitext(filename)[0] + "_memory.json")
+            with open(output_filename, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=4)
