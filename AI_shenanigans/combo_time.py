@@ -9,7 +9,10 @@ SCRIPTS_FOLDER = "C:/Users/carly/Documents/Coding/episode_scripts/"
 OUTPUT_FOLDER = "C:/Users/carly/Documents/Coding/Hannibal_chunks/"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
+# User's Title/Unit Regex (Untouched)
 UNIT = r"(?=.*\d)[A-Z0-9]+(?:-[A-Z0-9]+)?"
+
+# Uppercase words that are NEVER character names
 STRICT_BLACKLIST = [
     "TEASER",
     "ACT ONE",
@@ -25,56 +28,164 @@ STRICT_BLACKLIST = [
     "ACT ",
 ]
 
+# ==========================================
+# 1. THE "NUKE" LIST (Whole Line Killers)
+# ==========================================
+# If these appear, the line is deleted entirely.
+WHOLE_LINE_KILLERS = [
+    "CONTINUED",
+    "OMITTED",
+    "ACT ",
+    "TEASER",
+    "END OF SHOW",
+    "END OF ACT",
+    "END OF TEASER",
+    "AIR #",
+    "PROD #",
+]
+
+# ==========================================
+# 2. THE "SNIPER" LIST (Partial Removers)
+# ==========================================
+# Grouped for organization.
+# NOTE: Duplicates are removed and sorting happens automatically below.
+
+_raw_sniper_items = [
+    # --- Dialogue Tags & Parentheticals ---
+    "(CONT'D)",
+    "(CONT’D)",
+    "(cont'd)",
+    "(cont’d)",
+    "(V.O.)",
+    "(O.S.)",
+    "(pre-lap)",
+    "(into phone)",
+    "(then)",
+    "(MORE)",
+    "...",
+    # --- Transitions ---
+    "CUT TO:",
+    "BACK TO:",
+    "POP TO:",
+    "SMASH BACK TO:",
+    "QUICK POP TO:",
+    "TIME CUT TO:",
+    "CUT TO",
+    "BACK TO",
+    # --- Camera Movements & Directions ---
+    "CAMERA POPS WIDE TO REVEAL",
+    "as CAMERA PULLS BACK TO REVEAL we are --",
+    "CAMERA PULLS BACK TO REVEAL",
+    "CAMERA PUSHES IN ON",
+    "CAMERA FINDS the car,",
+    "CAMERA TRACKS along a",
+    "CAMERA comes to REST on",
+    "CAMERA MOVES INTO",
+    "CAMERA REVEALS",
+    "and CAMERA REVEALS",
+    "CAMERA FOLLOWS",
+    "CAMERA FINDS",
+    "CAMERA INCLUDES",
+    "CAMERA comes",
+    "WIDENING, we see that",
+    "WIDENING, we find --",
+    "WIDEN TO REVEAL--",
+    "CLOSE ON -",
+    "CLOSE ON",
+    "We POP CLOSE",
+    "REVERSING,",
+    "REVEALS",
+    "PUSH",
+    "DOLLY",
+    # --- Narrative Bridges ---
+    "before we realize we are:",
+    "and we...",
+    "we --",
+    "We are--",
+    "we are--",
+    "we are --",
+    "We are --",
+    "We see",
+    "we see",
+    # --- Specific Production Artifacts ---
+    "INCLUDE THE SURROUNDING POLICE LINE",
+    "AT THE POLICE LINE",
+    "ON THE MONITOR",
+    "STOCK FOOTAGE",
+    "OMNISCIENT P.O.V.",
+    "BLACK",
+    # --- Other stupidly specific lines ---
+    "on the picture -- and Will suddenly walks into",
+    "frame",
+    "a HIGH-POWERED MICROPHONE, like a STETHOSCOPE,",
+    "held against the wall.",
+    "the thin cable of the",
+    "HIGH-POWERED MICROPHONE to its source.",
+    "EXTREME CLOSE ON - PILLS" "",
+    "The DOLLS roll and turn as they funnel from their AUTOMATED",
+    "PILL DISPENSER into a PILL BOTTLE.",
+    "CLOSE ON - A LABEL",
+    # --- Chyron Variations ---
+    "A CHYRON tells us",
+    "A CHRYON tells us",
+    "A CHYRON",
+    "A CHRYON",
+    # --- Script Header Leaks (Preventing "OFF WILL:" in prose) ---
+    "OFF WILL,",
+    "OFF Will,",
+    "OFF WILL:",
+    "OFF JACK,",
+    "OFF JACK:",
+    "ON WILL,",
+    "ON WILL:",
+    "ON JACK,",
+    "ON JACK:",
+]
+
+# --- AUTO-SORTING & DEDUPING ---
+# 1. set() removes duplicates
+# 2. sorted(key=len, reverse=True) puts Longest phrases first so they are caught before shorter substrings
+PARTIAL_REMOVERS = sorted(list(set(_raw_sniper_items)), key=len, reverse=True)
+
 
 def is_junk_line(text):
-    """Vaporizes zombie metadata and technical jargon."""
+    """
+    Checks if the line contains a 'Nuke' phrase or regex pattern.
+    STRICT CASE SENSITIVITY APPLIED.
+    """
     clean = text.strip()
     if not clean:
         return True
 
-    # 1. THE ZOMBIE LIST (If these appear ANYWHERE, line dies)
-    DESTROY_LIST = [
-        "CONTINUED",
-        "OMITTED",
-        "ACT ONE",
-        "ACT TWO",
-        "ACT THREE",
-        "ACT FOUR",
-        "ACT FIVE",
-        "END OF SHOW",
-        "END OF ACT",
-        "END OF TEASER",
-        "CUT TO",
-        "BACK TO",
-        "POP TO",
-        "AIR #",
-        "PROD #",
-        "MORE",
-        "CHYRON",
-        "We are--",
-        "We are --",
-        "SMASH BACK TO",
-        "QUICK POP TO",
-    ]
-    if any(junk in clean for junk in DESTROY_LIST):
+    # 1. Check the Nuke List (Case Sensitive)
+    nuke_pattern = "|".join(map(re.escape, WHOLE_LINE_KILLERS))
+    if re.search(nuke_pattern, clean):
         return True
 
-    # 2. HANNIBAL PRODUCTION FOOTER
-    if re.search(r"HANNIBAL\s*-\s*(?:AIR|PROD).*?#\d+", clean, re.I):
+    # 2. Hannibal Production Footer Regex (Case Sensitive)
+    if re.search(r"HANNIBAL\s*-\s*(?:AIR|PROD).*?#\d+", clean):
         return True
 
-    # 3. DIRECTORIAL JARGON
-    tech_regex = r"^\s*(?:WIDENING|REVERSING|REVEALS|PUSH|POP|FOLLOWS|CLOSE ON|ON WILL|ON HANNIBAL|ON JACK|ON CAMERA|OFF WILL|OFF HANNIBAL|OFF JACK|OFF CAMERA|INCLUDE|STOCK FOOTAGE).*$"
-    if re.match(tech_regex, clean, re.I):
-        return True
-
-    # 4. MARGIN CODES / EPISODE TITLES
-    if clean == '"Amuse-Bouche"':
+    # 3. Episode Titles & Margin Codes
+    if re.search(r"^“.*”$|^\"[A-Z].*?[a-z]\"$", clean):
         return True
     if re.match(rf"^\s*{UNIT}\.?\s*$", clean):
         return True
 
     return False
+
+
+def clean_specific_words(text):
+    """
+    Sniper function: Removes specific tags.
+    STRICT CASE SENSITIVITY APPLIED + MULTILINE SUPPORT.
+    """
+    sniper_pattern = "|".join(map(re.escape, PARTIAL_REMOVERS))
+
+    # flags=re.MULTILINE helps if the text chunk has newlines
+    cleaned_text = re.sub(sniper_pattern, "", text, flags=re.MULTILINE)
+
+    return re.sub(r" +", " ", cleaned_text).strip()
 
 
 def get_line_type(raw_line):
@@ -85,6 +196,7 @@ def get_line_type(raw_line):
     - Character Names: Deep (33+ spaces) + ALL CAPS
     """
     clean = raw_line.strip()
+    # FIX 1: Return a tuple ("EMPTY", "") instead of just string "EMPTY"
     if not clean:
         return "EMPTY", ""
 
@@ -98,8 +210,8 @@ def get_line_type(raw_line):
             return "CHARACTER", re.sub(r"\(.*?\)", "", clean).strip()
 
     # 2. DIALOGUE (Centered column + Narrow line width)
-    # Dialogue in scripts is rarely wider than 45 chars.
-    if 16 <= leading < 32 and line_width < 50:
+    if 16 <= leading < 32 and line_width < 55:
+        # FIX 2: Return tuple here too for ignored parentheticals
         if clean.startswith("(") and clean.endswith(")"):
             return "EMPTY", ""
         return "DIALOGUE", clean
@@ -110,7 +222,7 @@ def get_line_type(raw_line):
 
     # 4. ACTION (Descriptions)
     # If it's at the left OR if it's too wide to be dialogue
-    if leading < 16 or line_width >= 50:
+    if leading < 16 or line_width >= 55:
         return "ACTION", clean
 
     return "ACTION", clean
@@ -122,17 +234,17 @@ def process_script(pdf_path):
     current_scene_title = "START"
 
     active_speaker = None
-    speech_buffer = []
+    dialogue_buffer = []
 
     def flush_dialogue():
         """Saves current buffer and clears speaker state."""
-        nonlocal active_speaker, speech_buffer
-        if active_speaker and speech_buffer:
-            speech = " ".join(speech_buffer).strip()
+        nonlocal active_speaker, dialogue_buffer
+        if active_speaker and dialogue_buffer:
+            speech = " ".join(dialogue_buffer).strip()
             if speech:
                 current_scene_content.append(f'{active_speaker}: "{speech}"')
         active_speaker = None
-        speech_buffer = []
+        dialogue_buffer = []
 
     tqdm.write(f"Processing: {os.path.basename(pdf_path)}...")
 
@@ -143,14 +255,12 @@ def process_script(pdf_path):
                 continue
 
             for line in text.split("\n"):
-                # Revision markers check (The very edge of the page)
                 if "Final Shooting Script" in line or "Collated" in line:
                     continue
 
-                # 1. Kill Junk immediately
+                # 1. NUKE CHECK (Strict Case)
                 if is_junk_line(line):
-                    # Junk lines between dialogue paragraphs act as a reset
-                    if "CONTINUED" not in line.upper():
+                    if "CONTINUED" not in line:
                         flush_dialogue()
                     continue
 
@@ -174,25 +284,25 @@ def process_script(pdf_path):
                 # 3. SPEAKER BREAK
                 elif l_type == "CHARACTER":
                     flush_dialogue()
+                    content = clean_specific_words(content)
                     active_speaker = content
 
                 # 4. SPEECH COLLECTION
                 elif l_type == "DIALOGUE":
-                    speech_buffer.append(content)
+                    dialogue_buffer.append(content)
 
                 # 5. ACTION / NARRATION
                 elif l_type == "ACTION":
-                    # THE RESET: The character is done talking when prose starts
                     flush_dialogue()
+                    content = re.sub(rf"^{UNIT}\s+|\s+{UNIT}$", "", content).strip()
+                    content = clean_specific_words(content)
 
-                    # Clean margin numbers off narration
-                    cleaned_action = re.sub(
-                        rf"^{UNIT}\s+|\s+{UNIT}$", "", content
-                    ).strip()
-                    if cleaned_action and cleaned_action not in STRICT_BLACKLIST:
-                        current_scene_content.append(cleaned_action)
+                    # [ORPHAN KILLER REMOVED]
 
-    flush_dialogue()  # Last catch
+                    if content and content not in STRICT_BLACKLIST:
+                        current_scene_content.append(content)
+
+    flush_dialogue()  # Final catch
     if current_scene_content:
         chunks.append(
             {
@@ -221,4 +331,4 @@ for filename in tqdm(pdf_files, desc="Parsing Chunks"):
         for scene in data:
             f.write(f"=== {scene['heading']} ===\n{scene['content']}\n\n")
 
-print(f"\nVictory! Chunks are clean and novelized. 🦌🍷")
+print(f"\nDone! Case-sensitive cleaning complete. 🦌🍷")
