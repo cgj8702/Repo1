@@ -1,12 +1,14 @@
 import re
 import os
 import json
+import argparse
 import pdfplumber
+import concurrent.futures
 from tqdm import tqdm
 
 # --- CONFIGURATION ---
 SCRIPTS_FOLDER = "C:/Users/carly/Documents/Coding/episode_scripts/"
-OUTPUT_FOLDER = "C:/Users/carly/Documents/Coding/Hannibal_memories/"
+OUTPUT_FOLDER = os.path.join(os.getcwd(), "HANNIBAL_CHUNKS_OUTPUT")
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 class HannibalParser:
@@ -15,14 +17,16 @@ class HannibalParser:
         # 1. THE "NUKE" LIST (Whole Line Killers)
         # ==========================================
         self.WHOLE_LINE_KILLERS = [
-            "CONTINUED", "OMITTED", "ACT ONE", "ACT TWO", "ACT THREE", "ACT FOUR", 
-            "ACT FIVE", "ACT SIX", "TEASER", "END OF SHOW", "END OF ACT", 
-            "END OF TEASER", "END OF EPISODE", "THE END", "FINAL SHOOTING SCRIPT", 
-            "FINAL DRAFT", "Collated", "WHITE REVISIONS", "BLUE", "PINK", "YELLOW", 
-            "GREEN", "GOLDENROD", "WHITE", "REVERSE ANGLE", "CLOSE-UP", "NEW ANGLE", 
+            "Hannibal", "TEASER", "ACT ONE", "ACT TWO", "ACT THREE", "ACT FOUR", "ACT FIVE", "ACT SIX",
+            "END OF ACT ONE", "END OF ACT TWO", "END OF ACT THREE", "END OF ACT FOUR", "END OF ACT FIVE",
+            "END OF TEASER", "FADE IN:", "FADE OUT.", "FADE TO BLACK.", "PROLOGUE", "CUT TO:",
+            "FADE TO:", "DISSOLVE TO:", "SMASH TO:", "SMASH TO BLACK.", "MATCH CUT TO:", "TIME CUT TO:", "JUMP CUT TO:",
+            "CONTINUED", "OMITTED", "END OF SHOW", "END OF ACT", "END OF EPISODE", "THE END", "FINAL SHOOTING SCRIPT",
+            "FINAL DRAFT", "Collated", "WHITE REVISIONS", "BLUE", "PINK", "YELLOW",
+            "GREEN", "GOLDENROD", "WHITE", "REVERSE ANGLE", "CLOSE-UP", "NEW ANGLE",
             "HIGH ANGLE", "POP WIDE", "ON THE FLOOR", "POST CREDITS", "END OF SEASON THREE!",
-            "A PIXELATED DARKNESS", "THE TELEPHONE MATRIX", "THE MOUTHPIECE", 
-            "A STILL OF WILL GRAHAM", "A SIGN", "UTTER DARKNESS", "A RECORD NEEDLE", 
+            "A PIXELATED DARKNESS", "THE TELEPHONE MATRIX", "THE MOUTHPIECE",
+            "A STILL OF WILL GRAHAM", "A SIGN", "UTTER DARKNESS", "A RECORD NEEDLE",
             "A RIBBON OF CELLULOID", "A SPINNING SPROCKET WHEEL", "A RADIANT VISION",
             "A FULL MOON", "A HALF MOON", "A MOON-SHAPED HOLE", "A SMASHED MIRROR",
             "A BLOCK OF WOOD", "A CRACKLING FIRE", "A BUBBLING SOUP POT", "THE ATTIC",
@@ -121,10 +125,19 @@ class HannibalParser:
 
     def clean_text(self, text):
         """Standardizes text and removes dialogue artifacts including S3 specific notes."""
+        # Normalize smart quotes and apostrophes
+        text = text.replace("\u201c", '"').replace("\u201d", '"')
+        text = text.replace("\u2018", "'").replace("\u2019", "'")
+        
+        # Case-insensitive removal of partial removers
         for item in self.PARTIAL_REMOVERS:
-            text = text.replace(item, "")
-        # Remove bracketed/parenthesized notes (e.g., (NOTE: pickup from Ep 301))
+            text = re.sub(re.escape(item), "", text, flags=re.IGNORECASE)
+            
+        # Remove bracketed/parenthesized notes
+        text = re.sub(r"\[.*?\]", "", text)
         text = re.sub(r"\((?:NOTE|subtitled|on screen|louder|croaking|into phone|sucks teeth|preparing).*?\)", "", text, flags=re.IGNORECASE)
+        # Force remove any remaining (NOTE...) patterns that might have weird spacing or specific content not caught above
+        text = re.sub(r"\(NOTE.*?\)", "", text, flags=re.IGNORECASE)
         text = re.sub(r"\(\s*\)", "", text)
         return text.strip()
 
@@ -209,7 +222,9 @@ class HannibalParser:
         def flush_dialogue():
             nonlocal active_speaker, dialogue_buffer
             if active_speaker and dialogue_buffer:
-                speech = " ".join(dialogue_buffer).strip()
+                speech_raw = " ".join(dialogue_buffer)
+                # Clean again on the full block to catch multi-line artifacts like (NOTE...)
+                speech = self.clean_text(speech_raw).strip()
                 if speech:
                     current_scene["content"].append(f"{active_speaker}: \"{speech}\"")
             active_speaker = None
@@ -238,8 +253,9 @@ class HannibalParser:
                         dialogue_buffer.append(self.clean_text(content))
                         
                     elif l_type == "PARENTHETICAL":
-                        if active_speaker:
-                            dialogue_buffer.append(f"[{content.strip('()').lower()}]")
+                        cleaned_paren = self.clean_text(content)
+                        if active_speaker and cleaned_paren:
+                            dialogue_buffer.append(f"[{cleaned_paren.strip('()').lower()}]")
                             
                     elif l_type == "ACTION":
                         flush_dialogue()
@@ -250,12 +266,32 @@ class HannibalParser:
         if current_scene["content"]: scenes.append(current_scene)
         return scenes
 
-if __name__ == "__main__":
+def process_file(filename):
     parser = HannibalParser()
+    pdf_path = os.path.join(SCRIPTS_FOLDER, filename)
+    try:
+        data = parser.parse_pdf(pdf_path)
+        output_filename = os.path.join(OUTPUT_FOLDER, os.path.splitext(filename)[0] + "_memory.json")
+        with open(output_filename, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4)
+        return filename
+    except Exception as e:
+        print(f"Error processing {filename}: {e}")
+        return None
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Parse Hannibal Scripts")
+    parser.add_argument("--file", type=str, help="Specific PDF filename to parse (e.g., Hannibal_1x01_Aperitif.pdf)")
+    args = parser.parse_args()
+
     if os.path.exists(SCRIPTS_FOLDER):
-        pdf_files = [f for f in os.listdir(SCRIPTS_FOLDER) if f.endswith(".pdf")]
-        for filename in tqdm(pdf_files):
-            data = parser.parse_pdf(os.path.join(SCRIPTS_FOLDER, filename))
-            output_filename = os.path.join(OUTPUT_FOLDER, os.path.splitext(filename)[0] + "_memory.json")
-            with open(output_filename, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=4)
+        if args.file:
+             pdf_files = [args.file]
+             print(f"Targeting single file: {args.file}")
+        else:
+             pdf_files = [f for f in os.listdir(SCRIPTS_FOLDER) if f.endswith(".pdf")]
+             print(f"Found {len(pdf_files)} PDF files to process.")
+        
+        # Use ProcessPoolExecutor to parallelize parsing
+        with concurrent.futures.ProcessPoolExecutor() as executor:
+            list(tqdm(executor.map(process_file, pdf_files), total=len(pdf_files)))
