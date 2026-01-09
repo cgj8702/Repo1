@@ -1,9 +1,21 @@
 [
     {
         "heading": "START",
-        "metadata": {},
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "UNKNOWN",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
         "content": [
             "\"Sorbet\"",
+            "&",
+            "James Foley",
+            "\"Sorbet\"",
+            "CLICK.  A PICTURE OF A MAN IN A PEW",
+            "His tongue serves as a page marker in his Bible. CAMERA",
+            "FINDS WILL GRAHAM silhouetted by the image.",
             "WILL GRAHAM: \"The Chesapeake Ripper murders in Sounders of three. CLICK.\""
         ]
     },
@@ -13,18 +25,28 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "F.B.I. ACADEMY - LECTURE HALL"
+            "location": "F.B.I. ACADEMY - LECTURE HALL",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Will Graham stands in front of his classroom.",
             "WILL GRAHAM: \"He did his first victims in nine days.  Annapolis.  Essex.  And Baltimore. He didn't kill again for 18 months. Then there was another Sounder of three in as many days. All in Baltimore. CLICK.  CLICK. CLICK.  The REFLECTION of the CRIME SCENE PICTURES REFLECT off of Will Graham's glasses.\"",
             "WILL GRAHAM: \"I use the term Sounders because it refers to a small group of pigs. That's how he sees his victims. Not as people, not as prey. Pigs. Will turns back to the TRAINEES as he CLICKS again.\"",
             "WILL GRAHAM: \"Eleven months after the sixth victim there was a seventh. CLICK.  A PICTURE OF JEREMY OLMSTEAD As seen in the EPISODE \"ENTR\u00c9E.\" He's impaled by several tools on his workbench.\"",
-            "WILL GRAHAM: \"Two days later, the eighth is killed in his workshop. Every tool on the pegboard where they hung was used against him. As with the previous murders, organs were removed. CLICK.  A PICTURE OF THE WOUND MAN ILLUSTRATION From Hans von Gersdorff's \"Fieldbook of Wound Surgery.\"\"",
+            "WILL GRAHAM: \"Two days later, the eighth is killed in his workshop. Every tool on the pegboard where they hung was used againsthim. As with the previous murders, organs were removed. CLICK.  A PICTURE OF THE WOUND MAN ILLUSTRATION From Hans von Gersdorff's \"Fieldbook of Wound Surgery.\"\"",
             "WILL GRAHAM: \"The removal of organs and abdominal mutilations means someone with anatomical or surgical knowhow. There is a distinctive brutality. ANGLE TO INCLUDE THE ENTRANCE HALL CAMERA MOVES down the corridor, PUSHING IN ON JACK CRAWFORD. He stands at the back of the entrance, watching in the dark.\"",
             "WILL GRAHAM: \"An FBI Trainee named Miriam Lass was investigating private medical records of all the known victims when she disappeared. She is believed to be the Ripper's ninth. CLICK.  A PICTURE OF MIRIAM LASS\"",
-            "WILL GRAHAM: \"But no trace of her was found. Until recently, two years later. Her severed arm was discovered. Only because he wanted it to be. CLICK.  A PICTURE OF MIRIAM LASS' SEVERED ARM Also, as seen in the EPISODE \"ENTR\u00c9E.\" ON JACK He stands soberly in the darkness, only Will aware of him.\"",
+            "WILL GRAHAM: \"But no trace of her was found. Until recently, two years later. Her severed arm was discovered. Only because he wanted it to be. CLICK.  A PICTURE OF MIRIAM LASS'SEVERED ARM Also, as seen in the EPISODE \"ENTR\u00c9E.\" ON JACK He stands soberly in the darkness, only Will aware of him.\"",
             "WILL GRAHAM: \"True to his established pattern, the Chesapeake Ripper has remained consistently theatrical.\"",
-            "1       A LARYNGOSCOPIC VIEW OF VOCAL CHORDS      1"
+            "1       A LARYNGOSCOPIC VIEW OF VOCAL CHORDS      1",
+            "ALL EXTERNAL SOUND is muffled by the human body, leaving only",
+            "the AMBIENT NOISE of the circulatory system. The twin mucus",
+            "membranes of VOCAL CHORDS open as an INTAKE OF AIR passes",
+            "through them, then they ABRUPTLY CLOSE to hold the breath.",
+            "The VOCAL CHORDS begin to VIBRATE as air pressure builds",
+            "beneath the larynx. As the vocal folds CHOP AT THE STEADY",
+            "EXHALATION INTO a STEADY FLOW of SOUND WAVES, CAMERA is",
+            "carried out through THROAT AND MOUTH to REVEAL"
         ]
     },
     {
@@ -33,10 +55,25 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL  1"
+            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "3       A MAN'S BARE CHEST                                       3"
+            "CAMERA PULLS OUT of the SOPRANO's mouth as she portrays the",
+            "noble lady Lenora from Verdi's TROVATORE, \"Tacea la notte",
+            "placinda\" vibrating from her vocal chords.",
+            "CAMERA CONTINUES PULLING BACK OVER THE AUDIENCE to FIND THE",
+            "HANNIBAL'S EAR",
+            "As CAMERA FOLLOWS the outer ear's natural CURVE moving into",
+            "DARKNESS, each individual sound of the PERFORMANCE is dialed",
+            "up and down as every instrument, every voice is SINGLED OUT.",
+            "crinkle, enjoying the feast of sound around him.",
+            "THE STRING SECTION",
+            "Bows draw menacingly up INTO FRAME, appearing to float",
+            "briefly before SLASHING DOWN.",
+            "3       A MAN'S BARE CHEST                                       3",
+            "Freshly slashed as if by a Cellist's bow, the flesh separates",
+            "and rich blood seeps from the wound. VIOLINS reach a fever."
         ]
     },
     {
@@ -45,10 +82,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL  1"
+            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "5       AN EXPOSED THORACIC CAVITY                               5"
+            "carve the air with force and purpose. Simultaneously,",
+            "seat) sharply part their hands. As instructed, the CYMBAL",
+            "PLAYER prepares to crash instruments.",
+            "5       AN EXPOSED THORACIC CAVITY                               5",
+            "It's PULLED APART, not with an ugly crack, but with a CRASH",
+            "OF CYMBALS. VITAL ORGANS slowly swell and pulse, struggling."
         ]
     },
     {
@@ -57,10 +100,32 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL  1"
+            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "7       AN EXPOSED THORACIC CAVITY                               7"
+            "The noble lady Lenora clutches her heart as she holds her",
+            "FINAL NOTE, which she sustains over the following",
+            "7       AN EXPOSED THORACIC CAVITY                               7",
+            "A shaking LATEX GLOVED HAND wraps around the HEART, squeezing",
+            "and palpating to no apparent effect. BLOOD FLOWS unstanched",
+            "through the gloved fingers as Lenora's SUSTAINED NOTE finally",
+            "stops and we HEAR APPLAUSE ERUPT from the Opera House."
+        ]
+    },
+    {
+        "heading": "8       INT. OP\u00c9RA DE L'OUEST - MCCLUSTER HALL - NIGHT 1         8",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL  1",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "FRANKLYN FROIDEVEAUX standing and applauding next to his",
+            "friend TOBIAS BUDGE, who is neither standing nor applauding.",
+            "Franklyn can't pry his eyes off his Doctor in Blue."
         ]
     },
     {
@@ -69,9 +134,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL - LOBBY  1"
+            "location": "OP\u00c9RA DE L'OUEST - MCCLUSTER HALL - LOBBY  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "ELITE, holding court as the audience mingles and/or EXITS.",
+            "He is as sociable as Will Graham is reclusive, engaged in",
+            "conversation with a gorgeous woman in her 50s, MRS. KOMEDA,",
+            "as her husband and several other patrons look on.",
             "MRS. KOMEDA: \"It's been too long since you've\"",
             "HANNIBAL: \"Come over and I will cook for you. Froidevaux and Tobias Budge navigating the crowd toward him. He casually focuses on Mrs. Komeda as she speaks:\"",
             "MRS. KOMEDA: \"I said properly. Means dinner and the show. Have you seen him cook? It's an entire performance. He used to throw such exquisite dinner parties. You heard me.  Used to.\"",
@@ -93,15 +163,68 @@
         ]
     },
     {
+        "heading": "A13     INT. B.A.U. - HALLWAY - NIGHT 1                        A13",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "B.A.U. - HALLWAY  1",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "Jack Crawford, briefcase in hand, wearing his coat, makes his",
+            "way through the hall, distracted and haunted, but more",
+            "importantly frustrated by Will's Chesapeake Ripper Lecture.",
+            "A MUFFLED RINGING of a CELL PHONE goes initially ignored,",
+            "until Jack realizes there is no one in B.A.U. to answer it.",
+            "He stops.  Glances looking for the source, crossing into:"
+        ]
+    },
+    {
+        "heading": "B13     INT. B.A.U. - MORGUE - CONTINUOUS                      B13",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "The MUFFLED RINGING is slightly louder. Jack listens",
+            "intently as he zeroes in on the location of the RINGING.",
+            "A MORGUE DRAWER",
+            "Jack OPENS the stainless steel door and the cadaver tray",
+            "slides out REVEALING A SEVERED ARM HOLDING THE PHONE.",
+            "It's still RINGING.",
+            "CLOSE ON JACK CRAWFORD",
+            "He opens his eyes as CAMERA PULLS BACK TO REVEAL"
+        ]
+    },
+    {
         "heading": "C13     INT. JACK CRAWFORD\u2019S HOUSE - BEDROOM - NIGHT 1         C13",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "JACK CRAWFORD\u2019S HOUSE - BEDROOM  1"
+            "location": "JACK CRAWFORD\u2019S HOUSE - BEDROOM  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Jack's CELL PHONE is RINGING on his night stand. He answers:",
             "JACK CRAWFORD: \"Hello.\""
+        ]
+    },
+    {
+        "heading": "D13     EXT. ROAD - NIGHT 1                                    D13",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "ROAD  1",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "An F.B.I. C.S.I. S.U.V. barrels down the road."
         ]
     },
     {
@@ -110,9 +233,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "F.B.I. C.S.I. S.U.V.  1"
+            "location": "F.B.I. C.S.I. S.U.V.  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Will rubs the disrupted sleep out of his eyes, sitting next",
+            "to JACK CRAWFORD in the backseat, who looks like he only just",
+            "rubbed the sleep out of his own eyes. AGENTS up front.",
             "JACK CRAWFORD: \"The victim was found in his hotel room bathtub. He had requested two keys at check in.\"",
             "JACK CRAWFORD: \"No one saw a second guest come or go.  Abdominal mutilation and organ removal.\"",
             "WILL GRAHAM: \"Sounds more like an urban legend than the Chesapeake Ripper.\"",
@@ -123,7 +250,7 @@
             "JACK CRAWFORD: \"It's your bad luck to be the best.\"",
             "WILL GRAHAM: \"Expecting a few more bodies after this one?\"",
             "JACK CRAWFORD: \"If it's the Chesapeake Ripper I am.\"",
-            "WILL GRAHAM: \"Don't let the Ripper stir you up. Reason he left you Miriam Lass' arm is so he could poke you with it.\"",
+            "WILL GRAHAM: \"Don't let the Ripper stir you up. Reason he left you Miriam Lass'arm is so he could poke you with it.\"",
             "JACK CRAWFORD: \"Why not the rest of her?\"",
             "WILL GRAHAM: \"His other victims, he wanted to humiliate in death, like a public dissection. She was different.  He respected Miriam Lass.\"",
             "JACK CRAWFORD: \"Probably impressed she found him.\"",
@@ -134,14 +261,37 @@
         ]
     },
     {
+        "heading": "14      INT. HOTEL - SEVENTH FLOOR HALLWAY - NIGHT 1            14",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HOTEL - SEVENTH FLOOR HALLWAY  1",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "Will steps out of the elevator following immediately on",
+            "Jack's heels, averting his eyes from the scattered LOCAL",
+            "POLICE OFFICERS lining the hallway adjacent to ROOM 727.",
+            "Will waits outside ROOM 727 as CAMERA FOLLOWS JACK INTO:"
+        ]
+    },
+    {
         "heading": "15      INT. HOTEL - ROOM 727 - NIGHT 1 - CONTINUOUS            15",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOTEL - ROOM 727  1"
+            "location": "HOTEL - ROOM 727  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "JACK ENTERS to FIND JIMMY PRICE dusting for fingerprints,",
+            "BEVERLY KATZ combing the bed for hair and fibers, and BRIAN",
+            "ZELLER tweezing something out of a TRAIL OF BLOOD that runs",
+            "from the blood-stained bed to the bathroom in a wake of",
+            "overturned furniture -- the path of a struggle. Small FLAGS",
+            "indicate the larger PIECES OF TISSUE along the way.",
             "JACK CRAWFORD: \"Has anyone touched the body?\"",
             "BRIAN ZELLER: \"Local police behaved themselves.\"",
             "JIMMY PRICE: \"It is fairly evident the man's dead just by looking at him.\"",
@@ -156,19 +306,35 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOTEL - ROOM 727 - BATHROOM  1"
+            "location": "HOTEL - ROOM 727 - BATHROOM  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Will and Jack stare at a MAN'S BODY in the bathtub, opened",
+            "from neck to pelvis, clothes (pajama bottoms, t-shirt) are",
+            "ripped from the struggle. There is two or three inches of",
+            "blood pooled in the tub.",
             "WILL GRAHAM: \"Surgery wasn't performed here. Would have been a lot more blood. CAMERA INCLUDES Katz, Zeller and Price in the doorway.\"",
             "BEVERLY KATZ: \"If he's moving his victims, he could be performing the mutilations in the same transport.\"",
             "JIMMY PRICE: \"Find the car, find the killer. Will examines the hand of the DEAD MAN, turning the wrist so he can look under the fingernails.\"",
             "WILL GRAHAM: \"He clawed open his own sutures.\"",
             "JACK CRAWFORD: \"Somebody sew something inside of him he was trying to get out?\"",
-            "BEVERLY KATZ: \"Wasn't to get his kidney. Ripper already took it with him. Or her.\"",
+            "BEVERLY KATZ: \"Wasn't to gethis kidney. Ripper already took it with him. Or her.\"",
             "JIMMY PRICE: \"I'll say him.\"",
             "JACK CRAWFORD: \"What did he take from his chest?\"",
             "BRIAN ZELLER: \"Tried to take the heart, but was probably interrupted. It's intact. Traumatized, but intact. Will studies the open chest cavity as Jack follows Zeller, Price and Katz outside and quietly shuts the door behind them leaving Will alone. Will takes a deep breath, and as he exhales  It swings in the darkness of Will Graham's mind. FWUM. ON WILL GRAHAM - THROUGH THE NECK TO PELVIS OPENING He closes his eyes as the NECK TO PELVIS WOUND CLOSES OVER THE FRAME, taking us to DARKNESS. FWUM-FWUM.  It strums the DARKNESS. FWUM. ON WILL GRAHAM - He takes a step backward, eyes still closed as he continues to back-walk out of the bathroom into the SUITE. FWUM-FWUM. CLOSE ON - BATHTUB'S CLAWED FEET - The VICTIM's PALE, CORPSE FOOT slides out of the tub onto the floor into a POOL OF BLOOD that crawls up its leg. FWUM.\"",
-            "17      ON WILL GRAHAM - ROOM 727 -                17"
+            "17      ON WILL GRAHAM - ROOM 727 -                17",
+            "He continues to back-walk to the DOOR as the MASSIVE BLOOD",
+            "STAIN next to the bed SHRINKS AND DISAPPEARS. FWUM. FWUM.",
+            "In background, the BODY from the bathtub lies in bed. FWUM.",
+            "The PENDULUM SWINGS THROUGH FRAME and instead of seeing Mr.",
+            "Murray in the bed, he sees standing in the room",
+            "THE BLACK STAG",
+            "Will stops short and stares at it, approaching cautiously.",
+            "FWUM.  The PENDULUM SWINGS THROUGH FRAME REVEALING Will and",
+            "Mr. Murray tumble into a dresser, knock over a chair. FWUM.",
+            "The PENDULUM SWINGS once again REVEALING the BLACK STAG. It",
+            "turns and walks into the bathroom. Will follows it."
         ]
     },
     {
@@ -177,9 +343,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HOTEL - ROOM 727 - BATHROOM - WILL\u2019S P.O.V."
+            "location": "HOTEL - ROOM 727 - BATHROOM - WILL\u2019S P.O.V.",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "FWUM.  The PENDULUM SWINGS REVEALING Will as he tumbles into",
+            "the bathtub with Mr. Murray on top of him. Will sees life",
+            "fading from Mr. Murray's eyes as he goes still.",
+            "Acting quickly, Will pulls a scalpel from his bag of medical",
+            "tools. He makes an incision along Mr. Murray's chest, cracks",
+            "the sternum, and spreads the ribs, taking his heart in hand.",
             "WILL GRAHAM: \"His heart seizes. I crack the sternum spread the ribs, take his heart in my hand  Internal cardiac massage Mr. Murray dies with Will wrist-deep in his chest. THROUGH THE BLACK ANTLERS Will stands over the BODY in the tub, breathing deeply. The BLACK STAG stands in the doorway behind him approaching. ON WILL He opens his eyes and he's standing alone in the room over the dead man in the bathtub.\""
         ]
     },
@@ -189,9 +362,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOTEL - ROOM 727 - BATHROOM  1"
+            "location": "HOTEL - ROOM 727 - BATHROOM  1",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Will sits on the toilet next to the empty bathtub with the",
+            "Man's Body opened from neck to pelvis. Jack is inside the",
+            "room, Zeller, Price and Katz linger in the suite.",
             "BRIAN ZELLER: \"It's the Chesapeake Ripper.\"",
             "WILL GRAHAM: \"It's not the Ripper.\"",
             "BRIAN ZELLER: \"There are too many similarities.\"",
@@ -205,7 +382,7 @@
             "WILL GRAHAM: \"The Ripper left a victim in a church pew using his tongue as a page marker in the Bible he was holding. This isn't that.\"",
             "WILL GRAHAM: \"This is a medical student or a trainee. Someone trying to make an extra buck on a back-alley surgery and it went bad. Actively bad. Jack takes a deep breath, exhaling, disappointed.\"",
             "WILL GRAHAM: \"You'll catch the Ripper eventually.\"",
-            "JACK CRAWFORD: \"I want to catch him now. And when I do, you won't have a chance to shoot him. Because I'm going to.\"",
+            "JACK CRAWFORD: \"I want to catch him now. And when I do, you won't have a chance to shoothim. Because I'm going to.\"",
             "WILL GRAHAM: \"You can't just jack up the law and get underneath it.\"",
             "JACK CRAWFORD: \"Can't I? How do you see the Ripper, Will?\"",
             "WILL GRAHAM: \"I see him as one of those pitiful things sometimes born in hospitals. They feed it, keep it warm, yet they don't put it on the machines. They let it die. But he doesn't die.  He looks normal\""
@@ -217,7 +394,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  2"
+            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  2",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "WILL GRAHAM: \"and nobody can tell what he is. He speaks to his next patient:\"",
@@ -230,13 +408,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE  2"
+            "location": "HANNIBAL\u2019S OFFICE  2",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "silently for an uncomfortably long moment. Finally:",
             "HANNIBAL: \"Would you like to discuss our chance encounter?\"",
             "FRANKLYN: \"Wasn't all together chance. I kinda thought you'd be there, which isn't why I was there. I was there because I like that sort of thing. Just occurred to me you might, too.\"",
             "HANNIBAL: \"In fact, I do.\"",
-            "FRANKLYN: \"I was trying to get your attention. Stand within your peripheral vision but not directly in front of you.\"",
+            "FRANKLYN: \"I was trying to get your attention. Stand with in your peripheral vision but not directly in front of you.\"",
             "HANNIBAL: \"I was aware of that.\"",
             "FRANKLYN: \"I knew you were aware, even though you pretended that you weren't. It felt like you were rejecting me.\"",
             "HANNIBAL: \"It would be unethical to approach a patient or acknowledge in any way our relationship outside this room until that patient gives consent.\"",
@@ -252,7 +432,7 @@
             "HANNIBAL: \"Have you put Tobias on a pedestal?\"",
             "FRANKLYN: \"Yes and he saw a higher pedestal.\"",
             "HANNIBAL: \"I am a source of stability and clarity, Franklyn, not your friend.\"",
-            "FRANKLYN: \"I'm a great friend. I was listening to Michael Jackson last night and I burst into tears. My eyes are burning right now even talking about it. You know what I think makes me the most sad about him dying? I will never meet him.\"",
+            "FRANKLYN: \"I'm a great friend. I was listening to Michael Jackson last night and I burst into tears. My eyes are burning right now even talking about it. You know what I think makes me the most sad about him dying? I will never meethim.\"",
             "FRANKLYN: \"I feel if I had been his friend, I could have saved him from himself.\"",
             "HANNIBAL: \"In this Michael Jackson fantasy, how is your friendship returned?\"",
             "FRANKLYN: \"I just get to touch greatness.\""
@@ -264,7 +444,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM - AFTERNOON 2"
+            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM - AFTERNOON 2",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "HANNIBAL: \"Good afternoon. Please come in. CAMERA FINDS a woman in her 60's. Her name is BEDELIA.\""
@@ -276,7 +457,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HANNIBAL\u2019S OFFICE - AFTERNOON 2"
+            "location": "HANNIBAL\u2019S OFFICE - AFTERNOON 2",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "BEDELIA: \"This always goes better if I'm perfectly honest with you.\"",
@@ -310,7 +492,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  2"
+            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  2",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "HANNIBAL: \"Good evening. Please come in. CAMERA FINDS Will Graham sitting inscrutably, waiting.\""
@@ -322,7 +505,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE  2"
+            "location": "HANNIBAL\u2019S OFFICE  2",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "WILL GRAHAM: \"Have you been drinking?\"",
@@ -336,7 +520,7 @@
             "WILL GRAHAM: \"How long have you been seeing a psychiatrist?\"",
             "HANNIBAL: \"Since I chose to be a psychiatrist. What's good for the goose Will considers that a moment, then:\"",
             "WILL GRAHAM: \"So these are just conversations.\"",
-            "HANNIBAL: \"With your friend, the psychiatrist.  We do have a higher level of intimacy than the common Doctor Patient relationship. Almost as though we have a daughter together.\"",
+            "HANNIBAL: \"With your friend, the psychiatrist.  We do have a higher level ofintimacy than the common Doctor Patient relationship. Almost as though we have a daughter together.\"",
             "WILL GRAHAM: \"I don't have a lot of friends.\"",
             "HANNIBAL: \"Having a better understanding of why people do what they do doesn't make it any easier to socialize.\"",
             "WILL GRAHAM: \"Is it easy for you?\"",
@@ -351,16 +535,85 @@
         ]
     },
     {
+        "heading": "30      EXT. DESOLATE ROAD - NIGHT 2                            30",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "DESOLATE ROAD  2",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "A SEDAN chugs in fits and starts, rattling and clunking as it",
+            "finally dies, coasting to the side of the road."
+        ]
+    },
+    {
+        "heading": "31      INT. SEDAN - NIGHT 2 - CONTINUOUS                       31",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "SEDAN  2",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "ANDREW CALDWELL heaves an annoyed sigh as he attempts to re-",
+            "starthis car engine to absolutely no avail."
+        ]
+    },
+    {
         "heading": "32      EXT. DESOLATE ROAD - NIGHT 2 - CONTINUOUS               32",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "DESOLATE ROAD  2"
+            "location": "DESOLATE ROAD  2",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Andrew Caldwell gets out of his car and looks underneath.",
+            "His PUNCTURED GAS TANK is dripping the last drops of fuel.",
+            "He stands, kicks his car, screaming at the night. Then a PAIR",
+            "OF HEADLIGHTS pierce the dark as they approach. The mystery",
+            "car slows to a stop, pulling in behind Andrew Caldwell's",
+            "stalled vehicle. After a moment, HANNIBAL steps out.",
             "HANNIBAL: \"Do you need help?\"",
             "ANDREW CALDWELL: \"I must've hit a rock or something. Gouged my gas tank. Have we met before? OFF that question and Andrew's inevitable, unenviable fate\""
+        ]
+    },
+    {
+        "heading": "33      INT. BUS - EARLY MORNING 3                              33",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "MORNING",
+            "location": "BUS - EARLY MORNING 3",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "LIGHTS FLICKER ON outside the bus as the first shift of",
+            "drivers are reporting for duty. A BUS DRIVER climbs up the",
+            "stairs and stops short when she sees someone on board.",
+            "CAMERA FINDS THE SILHOUETTE OF A MAN in the back seat. Only",
+            "the SILHOUETTE OF HIS LEGS are on one side of the aisle, and",
+            "the SILHOUETTE OF HIS HEAD AND SHOULDERS is on the other.",
+            "Strung across the aisle is a thick rope ofintestine."
+        ]
+    },
+    {
+        "heading": "34      INT. HANNIBAL\u2019S HOME - KITCHEN - DAY 3                  34",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  3",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "carefully preserved HEART and KIDNEYS inside and shuts the",
+            "freezer door taking us to BLACK",
+            "ANOTHER \"FREEZER\" DOOR OPENS. This one a MORGUE DRAWER in --"
         ]
     },
     {
@@ -369,9 +622,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - MORGUE  3"
+            "location": "B.A.U. - MORGUE  3",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Andrew Caldwell under a sheet in TWO PARTS rolls out of the",
+            "freezer, next to Jason Murray, the man from the hotel room.",
+            "Beverly Katz and Brian Zeller hover over the morgue drawer as",
+            "Jimmy Price wheels out Jason Murray from his own freezer.",
+            "Will ENTERS. Zeller doesn't give him a chance to say hello.",
             "BRIAN ZELLER: \"You slammed that door in my face.\"",
             "WILL GRAHAM: \"It was more of a gentle swing.\"",
             "JIMMY PRICE: \"It actually was fairly gentle. Brian Zeller shoots them both a look before indicating the TWO HALVES of Andrew Caldwell.\"",
@@ -385,7 +644,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.A.U. - MORGUE"
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "BRIAN ZELLER: \"he took his heart\"",
@@ -398,15 +658,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.A.U. - MORGUE"
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "BRIAN ZELLER: \"which he wanted to do in the hotel but was interrupted before he could.\"",
             "WILL GRAHAM: \"Ripper wasn't in the hotel. Someone else was.\"",
-            "BRIAN ZELLER: \"You still think he was ripping that heart out to save a life?\"",
+            "BRIAN ZELLER: \"You still think he was ripping thatheart out to save a life?\"",
             "WILL GRAHAM: \"Yes. Beverly studies the crime scene photo of Andrew Caldwell, sitting across the aisle from himself.\"",
             "BEVERLY KATZ: \"The Ripper painted this picture, for sure. In big, broad strokes.\"",
-            "WILL GRAHAM: \"Could both victims' organs have been harvested for transplant?\"",
+            "WILL GRAHAM: \"Could both victims'organs have been harvested for transplant?\"",
             "JIMMY PRICE: \"Could put the organs on a ventilator long enough to coordinate the donation.\"",
             "BRIAN ZELLER: \"In the hotel both the victim's abdominal aorta and inferior vena cava -- the kidney's in-and-out for blood, were entirely removed.\"",
             "BEVERLY KATZ: \"They're like USB cables. You keep them intact for an easy reconnect.\"",
@@ -428,9 +689,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - KITCHEN  3"
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  3",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "eleven others, a simmering fragrant blossom that loses its",
+            "petals in one smooth whisk of the wooden spoon.",
+            "CAMERA FINDS Alana dicing onions, not quite as handy as",
+            "There's almost a sibling warmth to their dynamic, but",
+            "something more softly vibrates just beneath the surface.",
             "HANNIBAL: \"I've been unspeakably rude. I haven't offered you a drink. He moves to the refrigerator to retrieve a beverage.\"",
             "ALANA BLOOM: \"I appreciate beer more than wine.\"",
             "HANNIBAL: \"It's not what you appreciate. It's that you appreciate. A compromise. Beer brewed in a wine barrel. Two years.  I bottled it myself. A swig, then she swishes the beer briefly before swallowing.\"",
@@ -459,15 +726,61 @@
         ]
     },
     {
+        "heading": "A38     INT. B.A.U. - CORRIDOR - NIGHT 3                       A38",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "B.A.U. - CORRIDOR  3",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "Empty.  After hours. The door opens and Jack enters. He",
+            "takes in the silence as his eyes drift to the morgue drawers.",
+            "There's a BODY UNDER A SHEET in the BACKGROUND.",
+            "CLOSE ON JACK",
+            "As he focuses on the drawer from his dream. The same drawer",
+            "that contained Miriam's arm. In his mind, the distance sound",
+            "of her RINGING CELL PHONE filters up through the cracks in",
+            "his subconscious, then just as quickly, fades away into the",
+            "hum of the air conditioning.",
+            "WIDER",
+            "Jack turns back around, walks purposefully across the room,",
+            "toward the specific drawer that contained Miram's arm.",
+            "ON JACK",
+            "The drawer is empty.",
+            "ON JACK",
+            "THE ROOM DARKENS behind him, the BODY UNDER THE SHEET SITS",
+            "UP, the sheet sliding to the floor as the Body Stands.",
+            "CAMERA REVEALS IT IS WILL GRAHAM. Corpse gray with an",
+            "AUTOPSY Y-INCISION stitched into his chest, Will is not only",
+            "dead, but missing the same arm as Miriam.",
+            "Jack turns to see",
+            "WILL IS GONE.",
+            "The light levels are normal. It was the theater of Jack's",
+            "mind telling us his fears. As he closes the morgue drawer",
+            "CLOSE ON - ROLODEX",
+            "FINGERS walk through business cards until they find one",
+            "MICHELLE VOCALSON, CUSTOMER SERVICE.",
+            "CLOSE ON - RECIPE FILE"
+        ]
+    },
+    {
         "heading": "38      INT. HANNIBAL\u2019S HOME - KITCHEN - NIGHT 4                38",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - KITCHEN  4"
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  4",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "39      CUTTING BOARD - NIGHT 4                                 39"
+            "with his selection.",
+            "39      CUTTING BOARD - NIGHT 4                                 39",
+            "inside and shuts the freezer door taking us to BLACK",
+            "CLOSE ON - ROLODEX",
+            "find one DARRELL LEDGERWOOD, GENERAL MANAGER.",
+            "CLOSE ON - RECIPE FILE"
         ]
     },
     {
@@ -476,10 +789,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - KITCHEN  5"
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  5",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "41      CUTTING BOARD - NIGHT 5                                 41"
+            "41      CUTTING BOARD - NIGHT 5                                 41",
+            "CLOSE ON - RECIPE FILE",
+            "FINGERS walk through the recipe/business cards until they",
+            "find one CHRISTOPHER WARD, IT CONSULTANT."
         ]
     },
     {
@@ -488,10 +805,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - KITCHEN  6"
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  6",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "43      INSIDE FREEZER - NIGHT 6                                43"
+            "43      INSIDE FREEZER - NIGHT 6                                43",
+            "carefully preserved STOMACH, PANCREAS, LIVER and SPLEEN",
+            "inside and shuts the freezer door taking us to BLACK",
+            "JACK CRAWFORD",
+            "His anger and frustration barely contained."
         ]
     },
     {
@@ -500,11 +822,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "B.A.U. - MORGUE  7"
+            "location": "B.A.U. - MORGUE  7",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "OFF Jack, CAMERA PULLS BACK over the bodies displayed on two",
+            "OPEN MORGUE DRAWERS to find THREE MORE BODIES on gurneys.",
+            "Jimmy Price, Brian Zeller and Will Graham studying corpses.",
             "JIMMY PRICE: \"They're all missing different organs.  We were looking at waiting lists for a heart or kidney. Now\"",
             "A45     CUTTING BOARD                                          A45",
+            "pancreases and lungs.",
             "JIMMY PRICE'S VOICE: \"We've got kidneys, hearts, livers, stomachs, pancreases, lungs.\""
         ]
     },
@@ -514,11 +841,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.A.U. - MORGUE"
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "JIMMY PRICE: \"One of them is missing a spleen. Who the hell gets a spleen transplant?\"",
-            "C45     EXTREME - CLOSE UP - BLENDER BLADES                    C45"
+            "C45     EXTREME - CLOSE UP - BLENDER BLADES                    C45",
+            "A spleen rests on top of the blades until they WHIRL."
         ]
     },
     {
@@ -527,13 +856,27 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.A.U. - MORGUE"
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "BRIAN ZELLER: \"They graft on a little extra spleen cause of increased risk of sepsis.\"",
+            "BRIAN ZELLER: \"They graft on a little extra spleen cause ofincreased risk of sepsis.\"",
             "JIMMY PRICE: \"It was rhetorical.\"",
             "WILL GRAHAM: \"Intestines were the only thing missing from this body.\"",
             "BRIAN ZELLER: \"So either there's someone out there with Crohn's disease and short bowels or Ripper's making sausage. THE MISSING INTESTINES An open end is placed over spout of an EXTRUDER.\""
+        ]
+    },
+    {
+        "heading": "45      INT. HANNIBAL\u2019S HOME - KITCHEN - DAY                    45",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HANNIBAL\u2019S HOME - KITCHEN",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "meats into the INTESTINE CASING and indeed MAKING SAUSAGE."
         ]
     },
     {
@@ -542,7 +885,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.A.U. - MORGUE"
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "JACK CRAWFORD: \"He's selling the organs to someone.\"",
@@ -566,7 +910,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  7"
+            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  7",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "HANNIBAL: \"Good morning. Please come in.\""
@@ -578,7 +923,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE  7"
+            "location": "HANNIBAL\u2019S OFFICE  7",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
             "FRANKLYN: \"I discovered we're Cheese-Folk.  I saw you shopping for cheese. I didn't say hello because you seemed so uncomfortable last time I did.\"",
@@ -588,11 +934,27 @@
             "FRANKLYN: \"It was my gateway to cheese. A magic 8 ball you get to eat. Tobias doesn't eat dairy.\"",
             "HANNIBAL: \"Do you desire Tobias sexually?\"",
             "FRANKLYN: \"No. God, no. And I'm not being defensive. I was in a Fraternity. I tried things. Just not my brand.\"",
-            "HANNIBAL: \"You care deeply about Tobias despite differences. He's your best friend, but you're not his.\"",
+            "HANNIBAL: \"You care deeply about Tobias despite differences. He's your best friend, but you're nothis.\"",
             "FRANKLYN: \"It's sad when you say it like that.\"",
             "HANNIBAL: \"You often worry about being alone?\"",
-            "FRANKLYN: \"I worry about hurting. Being alone has a dull ache to it, doesn't it?\"",
+            "FRANKLYN: \"I worry abouthurting. Being alone has a dull ache to it, doesn't it?\"",
             "HANNIBAL: \"It can.\""
+        ]
+    },
+    {
+        "heading": "52      INT. HANNIBAL\u2019S OFFICE - NIGHT 7                        52",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HANNIBAL\u2019S OFFICE  7",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "Dr. Lecter sits at his desk, scribbling in a patient journal,",
+            "catching up on notes from the last session. He glances at",
+            "his appointment book, which has WILL GRAHAM scheduled for a",
+            "6:30 appointment -- which he evidently has missed."
         ]
     },
     {
@@ -601,9 +963,15 @@
             "is_dream": true,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "FIELD - DREAMSCAPE  7"
+            "location": "FIELD - DREAMSCAPE  7",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Will and Abigail sit at an unseen picnic table under a",
+            "starless night.",
+            "CAMERA REVEALS the table they're sitting at isn't a table at",
+            "all, but the body of the YOUNG GIRL seen in EP. 101, mounted",
+            "like a table top on the SEVERED HEAD of a TROPHY STAG.",
             "ABIGAIL: \"Dad\"",
             "WILL GRAHAM: \"Yes A DISTANT WHISPERING from the heavy sky.\"",
             "ABIGAIL: \"There's someone else here.\""
@@ -615,17 +983,20 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "F.B.I. ACADEMY - LECTURE HALL  7"
+            "location": "F.B.I. ACADEMY - LECTURE HALL  7",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "The IDENTICAL FRAME as the FIELD. Will is sitting alone at a",
+            "table covered in CRIME SCENE PHOTOS.",
             "HANNIBAL: \"Will?\"",
             "HANNIBAL: \"I've a 24-hour cancellation policy. Will immediately remembering:\"",
             "WILL GRAHAM: \"What time is it?\"",
             "HANNIBAL: \"Nearly 8 o'clock.\"",
             "WILL GRAHAM: \"I'm sorry.\"",
             "HANNIBAL: \"No apology necessary.\"",
-            "WILL GRAHAM: \"I must have fallen asleep. Was I sleepwalking?\"",
-            "HANNIBAL: \"You weren't . Your eyes were open, staring into middle-distance.\"",
+            "WILL GRAHAM: \"I musthave fallen asleep. Was I sleepwalking?\"",
+            "HANNIBAL: \"You weren't. Your eyes were open, staring into middle-distance.\"",
             "WILL GRAHAM: \"I felt like I was asleep. I need to stop sleeping altogether. Best way to avoid bad dreams.\"",
             "HANNIBAL: \"I can see why you have bad dreams.\"",
             "WILL GRAHAM: \"What do you see, Doctor?\"",
@@ -649,9 +1020,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE  7"
+            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE  7",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Beverly Katz leans across Jack Crawford to his keyboard.",
+            "Jack rolls clear as Beverly takes the keyboard and works.",
             "BEVERLY KATZ: \"I've been looking for the kill truck.  A van or S.U.V. but it was a whole lot easier than that. Beverly crouches as she calls up the F.B.I.'s VICAP system, she chooses a folder and CLICKS. A few more CLICKS and the MONITOR SCREEN fills with a FISHEYE LENS SURVEILLANCE VIDEO of AMBULANCES and FIRE ENGINES outside of an UPSCALE HOTEL.\"",
             "JACK CRAWFORD: \"What am I looking at?\"",
             "BEVERLY KATZ: \"Security camera off an ATM machine across from the hotel.\"",
@@ -670,9 +1044,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "F.B.I. ACADEMY - LECTURE HALL  7"
+            "location": "F.B.I. ACADEMY - LECTURE HALL  7",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "CAMERA FOLLOWS Jack Crawford into Will's classroom to find",
             "JACK CRAWFORD: \"Dr. Lecter. What a nice surprise.  We have a lead on the Ripper. Care to help us catch the Ripper?\"",
             "HANNIBAL: \"How could I refuse?\""
         ]
@@ -683,12 +1059,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "MEDI-NOW AMBULANCE GARAGE  8"
+            "location": "MEDI-NOW AMBULANCE GARAGE  8",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
-            "GARAGE MANAGER: \"That ambulance isn't in rotation. It hasn't been out of the shed.\"",
+            "Several bays are occupied by AMBULANCES in various stages of",
+            "repair.  Jack Crawford and Beverly flank a 40-something",
+            "Will Graham follow close behind, listening intently.",
+            "GARAGE MANAGER: \"That ambulance isn't in rotation. Ithasn't been out of the shed.\"",
             "JACK CRAWFORD: \"Surveillance footage says she has.\"",
-            "GARAGE MANAGER: \"Nobody signed her out. My road sheet has her down for repairs.\"",
+            "GARAGE MANAGER: \"Nobody signed her out. My road sheethas her down for repairs.\"",
             "JACK CRAWFORD: \"Who signed her in for repairs? He flips a page on the clip board.\"",
             "GARAGE MANAGER: \"Devon Silvestri. He's one of our part time drivers.\"",
             "WILL GRAHAM: \"Does he want to be a doctor?\"",
@@ -707,14 +1087,40 @@
         ]
     },
     {
+        "heading": "57      EXT. T.B.D. LOCATION - NIGHT 8                          57",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "T.B.D. LOCATION  8",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "The MISSING AMBULANCE sits quietly in isolation. Although",
+            "the cab is dark, a light burns brightly in the back windows.",
+            "A CIRCLE OF F.B.I. AGENTS silently tightens around the",
+            "Ambulance. SEVERAL F.B.I. S.U.V.s slowly roll up behind the",
+            "Agents.  Jack Crawford ENTERS FRAME with a shotgun.",
+            "An F.B.I. AGENT moves forward with a CROWBAR TOOL, ready to",
+            "force the Ambulance doors open on Jack's signal.",
+            "Jack gives the signal."
+        ]
+    },
+    {
         "heading": "58      INT. AMBULANCE - NIGHT 8 - CONTINUOUS INTERCUT          58",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "AMBULANCE  8 -  INTERCUT"
+            "location": "AMBULANCE  8 -  INTERCUT",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "DEVON SILVESTRI, a nervous man in his mid-to-late 20s, is mid-",
+            "surgery.  A PATIENT/VICTIM is face down on the make-shift",
+            "OPERATING TABLE, Devon Silvestri's hands inside him. The",
+            "AMBULANCE DOORS behind him SPRING OPEN TO REVEAL Jack",
+            "Crawford pointing his shotgun directly at him.",
             "JACK CRAWFORD: \"Show me your hands.\"",
             "DEVON SILVESTRI: \"I can't.\"",
             "JACK CRAWFORD: \"Show me your hands.\"",
@@ -734,9 +1140,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - KITCHEN  9"
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  9",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "THREE SOUS-CHEFs and TWO SERVERS work at a steady clip",
             "HANNIBAL: \"I have a butcher who carries sow's blood.  Centrifugate, separate the matter from the water. Creates a transparent liquid. Serve with tomatoes in suspension. Everybody will love the sweet taste. Are you sure you can't stay? wearing his coat but carrying a nice bottle of wine.\"",
             "WILL GRAHAM: \"I don't think I'd be good company.\"",
             "HANNIBAL: \"I disagree. But before you go, what came of Mr. Silvestri's donor?\"",
@@ -744,8 +1152,8 @@
             "HANNIBAL: \"Been a long time since I used a scalpel on anything but a pencil. Will considers that briefly, then asks:\"",
             "WILL GRAHAM: \"Why did you stop being a surgeon?\"",
             "HANNIBAL: \"I killed someone. More accurately, I couldn't save someone. But it felt like killing them.\"",
-            "WILL GRAHAM: \"You were an Emergency Room surgeon. It has to happen from time to time.\"",
-            "HANNIBAL: \"It happened one time too many. I transferred my passion for anatomy into the culinary arts. I fix minds instead of bodies and no one's died as a result of my therapy.\"",
+            "WILL GRAHAM: \"You were an Emergency Room surgeon. Ithas to happen from time to time.\"",
+            "HANNIBAL: \"Ithappened one time too many. I transferred my passion for anatomy into the culinary arts. I fix minds instead of bodies and no one's died as a result of my therapy.\"",
             "WILL GRAHAM: \"I should go. I've got a date with the Chesapeake Ripper.\"",
             "HANNIBAL: \"Or is it Rippers?\"",
             "WILL GRAHAM: \"Devon Silvestri was harvesting organs but not with the Chesapeake Ripper. No connection between them.\"",
@@ -754,14 +1162,35 @@
         ]
     },
     {
+        "heading": "60      INT. F.B.I. ACADEMY - JACK CRAWFORD\u2019S OFFICE - NIGHT 9  60",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "F.B.I. ACADEMY - JACK CRAWFORD\u2019S OFFICE  9",
+            "episode": "Hannibal_1x07_Sorbet"
+        },
+        "content": [
+            "CAMERA SLOWLY PUSHES IN ON Jack Crawford's back as he studies",
+            "the CRIME WALL featuring the Chesapeake Ripper's handiwork.",
+            "CAMERA CONTINUES TO PUSH IN, the wall dropping out of focus,",
+            "as Jack Crawford remains clearly in focus."
+        ]
+    },
+    {
         "heading": "A61     INT. B.A.U. - HALLWAY - NIGHT 9                        A61",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "B.A.U. - HALLWAY  9"
+            "location": "B.A.U. - HALLWAY  9",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "Jack Crawford, briefcase in hand, walks through the corridor,",
+            "not so much as a glance at the Morgue.",
+            "ON MRS. KOMEDA",
+            "She applauds elegantly, yet enthusiastically.",
             "MRS. KOMEDA: \"Bravo.\""
         ]
     },
@@ -771,9 +1200,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  9"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  9",
+            "episode": "Hannibal_1x07_Sorbet"
         },
         "content": [
+            "wine as CAMERA PULLS BACK TO REVEAL A MAGNIFICENT FEAST. 10",
+            "GUESTS, including Mr. and Mrs. Komeda, applaud at the table.",
+            "Alana Bloom is among those applauding their gracious host.",
             "HANNIBAL: \"Before we begin, you must all be warned: Nothing here is vegetarian.\""
         ]
     }

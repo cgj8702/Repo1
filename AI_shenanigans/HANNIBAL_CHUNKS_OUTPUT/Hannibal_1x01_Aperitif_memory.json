@@ -1,9 +1,60 @@
 [
     {
         "heading": "START",
-        "metadata": {},
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "UNKNOWN",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
         "content": [
-            "\"Ap\u00e9ritif\""
+            "\"Ap\u00e9ritif\"",
+            "\"Ap\u00e9ritif\"",
+            "CLOSE ON - WILL GRAHAM",
+            "A handsome, haunted man with a naive focus. REFLECTIVE LIGHT",
+            "flashes across his face, lighting up his eyes. All SOUND IS",
+            "DULLED as if his ears were blocked, the AMBIENT NOISE of",
+            "Will's circulatory system provides an organic hum. He stares",
+            "into middle-distance as CAMERA PULLS BACK TO REVEAL"
+        ]
+    },
+    {
+        "heading": "1       INT. HOME - LIVING ROOM - NIGHT                             1",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HOME - LIVING ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Arterial spray splashes a wall near a blood-soaked carpet.",
+            "Through the windows we see DOZENS OF OFFICERS and as many",
+            "POLICE CARS. A CRIME-SCENE PHOTOGRAPHER takes pictures. A",
+            "team of CORONERS remove TWO BODIES -- THERESA and THOMAS",
+            "MARLOW, both 30s/40s. A tableau of horrible violence.",
+            "Will Graham sits serenely amongst the carnage on a yoga mat.",
+            "A POLICE OFFICER and SUITED DETECTIVE herd the Crime-Scene",
+            "Photographer and the remaining team of Coroners out the door.",
+            "Will Graham takes a breath, exhales, then closes his eyes.",
+            "It swings in the darkness of Will Graham's mind, keeping",
+            "rhythm with his heart be at. FWUM.  FWUM. FWUM.",
+            "ON WILL GRAHAM",
+            "His eyes are closed. The PENDULUM is now outside his head.",
+            "It swings behind Will, wiping away in its wake the gush of",
+            "arterial spray from the wall. FWUM.  The PENDULUM swings on",
+            "the other side of the window, wiping away the OFFICERS and",
+            "POLICE CARS in front of the house. FWUM. The PENDULUM",
+            "swings across the stained carpet lifting the blood. FWUM.",
+            "The PENDULUM swings across the blood spattered SECURITY KEY",
+            "PAD and the rust-colored dried drops vanish. FWUM.",
+            "The crime scene has now been decriminalized in Will's mind.",
+            "Will Graham opens his eyes and stands, turns and walks",
+            "BACKWARDS toward the front door (which shows signs of a",
+            "violent forced entry), opening it behind him, back-stepping",
+            "outside before closing it again. CAMERA REVEALS THE DOOR IS",
+            "NOW PRISTINE, PRE-FORCED ENTRY."
         ]
     },
     {
@@ -12,9 +63,38 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOME  -  - WILL\u2019S P.O.V."
+            "location": "HOME  -  - WILL\u2019S P.O.V.",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will walks backward out the front door, across the lawn, over",
+            "the sidewalk. He is alone in the neighborhood in his P.O.V.",
+            "The Police Officers, Detectives, Coroners and Crime-Scene",
+            "Specialists all part or stand by, averting their eyes as they",
+            "intentionally avoid looking at Will Graham backwards walking",
+            "through them toward the shadowy yard across the street.",
+            "A Police Officer breaks protocol and sneaks a peek at Will.",
+            "A SUPERIOR OFFICER snaps and points at the Officer, who",
+            "quickly fixes his gaze on the ground in front of his feet.",
+            "ON WILL -",
+            "The street is empty. The PENDULUM STOPS SWINGING, snapping",
+            "into place as Will snaps into focus. He watches the quiet",
+            "house (he just back-walked out of) from across the street.",
+            "Through the partially curtained windows, he can see the",
+            "silhouettes of (still living) Theresa and Thomas Marlow.",
+            "Will watches them for a long moment, taking in their",
+            "domesticity, then walks with purpose for the front door.",
+            "OVERHEAD SHOT-",
+            "The crowd of Officers, Detectives, Coroners and Specialists",
+            "parts to allow Will Graham a direct path.",
+            "ON WILL -",
+            "He marches to the front door and VIOLENTLY KICKS IT IN. The",
+            "HOME SECURITY ALARM BLARES. Thomas Marlow rushes down the",
+            "stairs, two steps at a time, moving to intercept Will.",
+            "Will raises a TOWEL-WRAPPED ARM. Thomas realizes too late",
+            "that it's concealing a GUN. Will SHOOTS HIM TWICE THROUGH",
+            "THE NECK.  The FIRED SHOTS, ENTRY WOUNDS, EXIT WOUNDS, and",
+            "PLUMES OF TERRYCLOTH DEBRIS are all QUICK CUT SLOW MOTION.",
             "WILL GRAHAM: \"I shoot Mr. Marlow twice, severing jugulars and cartoids with near surgical precision. He will die watching me take what is his away from him. This is my design. Theresa Marlow is frantically pushing the panic code into the HOME SECURITY KEY PAD when Will SHOOTS HER expertly THROUGH THE THROAT, missing her jugular, BREAKING HER NECK and peppering the KEY BAD with blood. She drops to the floor.\"",
             "WILL GRAHAM: \"I shoot Mrs. Marlow expertly through the neck. This is not a fatal wound. The bullet misses every artery. She is paralyzed before it leaves her body. Which doesn't mean she can't feel pain. It just means she can't do anything about it. This is my design. Will finishes punching in \"OFF\" on the ALARM CODE and the BLARING HOME SECURITY ALARM is mercifully silenced. The PHONE IMMEDIATELY RINGS. Will picks it up.\"",
             "VOICE ON TELEPHONE: \"This is DDX Security. Who am I speaking with? Will hangs up the phone, breaking character as he asks:\"",
@@ -28,9 +108,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOUSE - TELEPHONE POLE  - OMNISCIENT P.O.V."
+            "location": "HOUSE - TELEPHONE POLE  - OMNISCIENT P.O.V.",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "A PHONE COMPANY REPAIRMAN has climbed to the top of the",
+            "telephone pole and is examining an open CUSTOMER SERVICE BOX.",
             "PHONE COMPANY REPAIRMAN: \"Yup.\""
         ]
     },
@@ -40,9 +123,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOME - LIVING ROOM  - WILL\u2019S P.O.V."
+            "location": "HOME - LIVING ROOM  - WILL\u2019S P.O.V.",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "As before, Will holds the land line in one hand and his own",
+            "smart phone in the other.",
             "VOICE ON TELEPHONE: \"This is DDT Security. Who am I speaking with? Will holds his SMART PHONE to the phone receiver as he watches Theresa Marlow bleed to death, paralyzed by the shot through her neck, unable to say a word. He presses a button:\"",
             "SMART PHONE THERESA: \"Theresa Marlow.\"",
             "VOICE ON TELEPHONE: \"Can you please confirm your password for security purposes.\"",
@@ -50,7 +136,7 @@
             "VOICE ON TELEPHONE: \"Thank you, Mrs. Marlow. We detected a front door alarm.\"",
             "SMART PHONE THERESA: \"Yes, that was me. That was my fault.  Sorry about that.\"",
             "VOICE ON TELEPHONE: \"Is there anyone in the house with you at this time, Mrs. Marlow?\"",
-            "SMART PHONE THERESA: \"I'm just here with my husband. It's all good. We're good.\"",
+            "SMART PHONE THERESA: \"I'm justhere with my husband. It's all good. We're good.\"",
             "VOICE ON TELEPHONE: \"Do you require any further assistance at this time?\"",
             "SMART PHONE THERESA: \"No.  Thank you so much for calling. Sorry about the false alarm. Will hangs up and looks sympathetically at Theresa Marlow.\"",
             "WILL GRAHAM: \"And this is where it gets truly horrifying for Mrs. Marlow.\""
@@ -62,11 +148,28 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - LECTURE HALL"
+            "location": "F.B.I. ACADEMY - LECTURE HALL",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
-            "WILL GRAHAM: \"Everyone has thought about killing someone one way or another. Be it your own hands or the hand of God. Now think about killing Mrs. Marlow. A SERIES OF MARLOWE HOME CRIME SCENE PICTURES are projected on the screen behind Will. - THE TRAINEES He surveys the lecture hall for social appearances. The Trainees' eyes are always OUT OF FRAME, at most we glimpse brows, lids, the occasional lash -- but never eye contact.\"",
+            "Will Graham lectures a CLASSROOM OF F.B.I. TRAINEES. A",
+            "CHRYON tells us",
+            "F.B.I. ACADEMY, QUANTICO, VIRGINIA",
+            "WILL GRAHAM: \"Everyone has thought about killing someone one way or another. Be it your own hands or the hand of God. Now think about killing Mrs. Marlow. A SERIES OF MARLOWE HOME CRIME SCENE PICTURES are projected on the screen behind Will. - THE TRAINEES He surveys the lecture hall for social appearances. The Trainees'eyes are always OUT OF FRAME, at most we glimpse brows, lids, the occasional lash -- but never eye contact.\"",
             "WILL GRAHAM: \"Why did she deserve this? Tell me your design. Tell me who you are.\""
+        ]
+    },
+    {
+        "heading": "6       INT. F.B.I. ACADEMY - HALLWAY - ON JACK CRAWFORD\u2019S BACK     6",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "F.B.I. ACADEMY - HALLWAY - ON JACK CRAWFORD\u2019S BACK",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "He walks down the corridor toward Will Graham's lecture hall."
         ]
     },
     {
@@ -75,9 +178,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - LECTURE HALL"
+            "location": "F.B.I. ACADEMY - LECTURE HALL",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "JACK CRAWFORD (weathered, austere, strongly built late 40s)",
+            "ENTERS as the TRAINEES file out of the classroom. There are",
+            "scattered SMITTEN GLANCES tossed Will Graham's direction, who",
+            "is naturally oblivious because he is actively avoiding eye-",
+            "contact with everyone, even as he warns his exiting students:",
             "WILL GRAHAM: \"The sad, dull truth of these crimes is they can usually be reduced to a male penetrative control issue. I am expecting a higher level of scrutiny. The last of the TRAINEES EXITS and Will notices he's alone in his lecture hall with the weathered, austere man.\"",
             "JACK CRAWFORD: \"Mr. Graham. Will quickly puts on a pair of glasses as Jack approaches. INCLUDE:  - JACK CRAWFORD The TOP RIM OF WILL'S GLASSES are strategically positioned to BLOCK JACK'S EYES and prevent direct eye-contact.\"",
             "JACK CRAWFORD: \"I'm Special Agent Jack Crawford. I lead the Behavioral Science Unit.\"",
@@ -101,9 +210,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY GROUNDS - QUANTICO, VIRGINIA"
+            "location": "F.B.I. ACADEMY GROUNDS - QUANTICO, VIRGINIA",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "CAMERA FOLLOWS Jack Crawford leading Will Graham across a",
+            "field of TRAINEES on a FIRING RANGE as another GROUP OF",
+            "TRAINEES in matching sweats jogs by.",
             "JACK CRAWFORD: \"Eight girls from eight different Minnesota campuses abducted in the last eight months.\"",
             "WILL GRAHAM: \"I thought there were seven.\"",
             "JACK CRAWFORD: \"There were.\"",
@@ -123,12 +236,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - JACK CRAWFORD\u2019S OFFICE"
+            "location": "F.B.I. ACADEMY - JACK CRAWFORD\u2019S OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "SENIOR PROM PORTRAIT of Elise Nichols to Will.",
             "WILL GRAHAM: \"Number eight?\"",
-            "JACK CRAWFORD: \"Elise Nichols. St. Cloud State on the Mississippi. Disappeared Friday.  Supposed to house sit for her parents over the weekend. Feed their cat. Never made it home.\"",
-            "WILL GRAHAM: \"One through seven are dead, don't you think? He's not keeping them around.  Got himself a new one.\"",
+            "JACK CRAWFORD: \"Elise Nichols. St. Cloud State on the Mississippi. Disappeared Friday.  Supposed to house sit for her parents over the weekend. Feed their cat. Never made ithome.\"",
+            "WILL GRAHAM: \"One through seven are dead, don't you think? He's not keeping them around.  Gothimself a new one.\"",
             "JACK CRAWFORD: \"We're focusing on Elise Nichols.\"",
             "WILL GRAHAM: \"They all look like Mall of America. That's a lot of wind-chaffed skin.\"",
             "JACK CRAWFORD: \"Same hair color. Same eye color. Roughly same age, height, weight. What is it about all these girls?\"",
@@ -148,24 +263,41 @@
         ]
     },
     {
+        "heading": "10      EXT. NICHOLS\u2019 HOME - NIGHT                                 10",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "NICHOLS\u2019 HOME",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Establishing.",
+            "DULUTH, MINNESOTA"
+        ]
+    },
+    {
         "heading": "11      INT. NICHOLS\u2019 HOME - LIVING ROOM - NIGHT                   11",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "NICHOLS\u2019 HOME - LIVING ROOM"
+            "location": "NICHOLS\u2019 HOME - LIVING ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
-            "MR.  NICHOLS: \"She could have gone off by herself. She was a very interior young woman.  She didn't like living in a dorm.  I could see how the pressure of school might have gotten to her. She likes trains. Maybe she just got on a train and Will Graham and Jack Crawford sit opposite Mr. and Mrs. Nichols as he trails off. Hard to convince even himself. Will continues to avoid eye contact with the Nichols.\"",
+            "Elise's PARENTS. They are sick with worry. Mr. Nichols is",
+            "rationalizing while Mrs. Nichols seems almost resigned.",
+            "MR.  NICHOLS: \"She could have gone off by herself. She was a very interior young woman.  She didn't like living in a dorm.  I could see how the pressure of school mighthave gotten to her. She likes trains. Maybe she just got on a train and Will Graham and Jack Crawford sit opposite Mr. and Mrs. Nichols as he trails off. Hard to convince even himself. Will continues to avoid eye contact with the Nichols.\"",
             "MRS. NICHOLS: \"She looks like the other girls.\"",
             "JACK CRAWFORD: \"She fits the profile.\"",
             "MR.  NICHOLS: \"Could Elise still be alive?\"",
             "JACK CRAWFORD: \"We simply have no way of knowing. A previously silent Will Graham offers an odd question:\"",
             "WILL GRAHAM: \"How's the cat?\"",
             "MRS. NICHOLS: \"What?\"",
-            "WILL GRAHAM: \"How's your cat? Elise was supposed to feed it. Was the cat weird when you came home? It didn't eat all weekend. Must have been hungry. The Nichols are initially unsure how to respond, then:\"",
+            "WILL GRAHAM: \"How's your cat? Elise was supposed to feed it. Was the cat weird when you came home? It didn't eat all weekend. Musthave been hungry. The Nichols are initially unsure how to respond, then:\"",
             "MR.  NICHOLS: \"I didn't notice.\"",
-            "WILL GRAHAM: \"He took her from here.  She got on a train. She came home. She fed the cat. And he took her. Jack doesn't hesitate to pull out his phone and dial.\"",
+            "WILL GRAHAM: \"He took her from here.  She got on a train. She came home. She fed the cat. And he took her. Jack doesn'thesitate to pull out his phone and dial.\"",
             "JACK CRAWFORD: \"The Nichols house is a crime scene. I need ERT immediately. Zeller, Katz, Jimmy Price, a photographer. The Nichols are trying to wrap their minds around the quick flurry of action and what it means to their little girl.\"",
             "WILL GRAHAM: \"Can I see your daughter's room?\"",
             "MRS. NICHOLS: \"Police were up there this morning.\""
@@ -177,16 +309,91 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "NICHOLS\u2019 HOME - ELISE NICHOLS\u2019 CLOSED BEDROOM DOOR"
+            "location": "NICHOLS\u2019 HOME - ELISE NICHOLS\u2019 CLOSED BEDROOM DOOR",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Mr. Nichols leads Will, who pulls on gloves as they approach.",
+            "Will warily eyes the CAT pawing at the door eager to go",
+            "inside.  Will stops Mr. Nichols from reaching the door knob.",
             "WILL GRAHAM: \"I'll get that. Mr. Nichols, would you put your hands in your pockets and avoid touching anything please?\"",
             "MR.  NICHOLS: \"We been in and out of here all day.\"",
             "WILL GRAHAM: \"You can hold the cat if it's easier. Mr. Nichols picks up the cat as instructed. Will wraps a gloved hand around the knob and opens the door.\"",
-            "13      ELISE NICHOLS' BEDROOM                                     13",
+            "13      ELISE NICHOLS'BEDROOM                                     13",
+            "The light from the hallway streaks across the floor and up",
+            "the wall as Will ENTERS. He stands just inside the door,",
+            "immediately noticing the OPEN WINDOW. He flicks on the light",
+            "switch, illuminating the room. He stares.",
+            "ELISE NICHOLS",
+            "She lays coffin-style in her bed, dressed in pajamas as if",
+            "she had JUST gone to sleep. The gray pallor of her skin, the",
+            "clean PUNCTURE WOUNDS visible under her pajamas, and her un-",
+            "breathing bosom are immediately evident to Will. Sadly, Mr.",
+            "Nichols fails to notice. Blinded by hope, he steps forward.",
             "MR.  NICHOLS: \"Elise? Will raises a gloved hand, stopping Mr. Nichols.\"",
             "WILL GRAHAM: \"I need you to leave the room. Realizing the worst, Mr. Nichols abruptly drops the cat. ON WILL GRAHAM Jack Crawford steps INTO FRAME, speaking quietly:\"",
             "JACK CRAWFORD: \"You're all wired. You talk it out to us when you feel like it, don't say anything when you don't feel like it. Take as long as you want. We will come in when you tell us. Will nods. Jack stands and EXITS FRAME. REFLECTIVE LIGHT flashes across Will's face, lighting up his eyes.  All SOUND IS DULLED as if his ears were blocked, the AMBIENT NOISE of Will's circulatory system provides an organic hum. CAMERA PULLS BACK TO REVEAL\""
+        ]
+    },
+    {
+        "heading": "14      INT. ELISE NICHOLS\u2019 BEDROOM - NIGHT                        14",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "ELISE NICHOLS\u2019 BEDROOM",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "The CRIME-SCENE PHOTOGRAPHER takes pictures. JIMMY PRICE",
+            "(50, solid, focused) dusts the window for fingerprints.",
+            "BEVERLY KATZ (30s, bright-eyed yet weary) combs for hairs and",
+            "fibers.  BRIAN ZELLER (early 30's, handsome) shines a light",
+            "under Elise's box spring, exposing a cracked bed board. Jack",
+            "Crawford herds Price, Katz and Zeller out the door."
+        ]
+    },
+    {
+        "heading": "15      INT. NICHOLS\u2019 HOME - BATHROOM - NIGHT                      15",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "NICHOLS\u2019 HOME - BATHROOM",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will scoops up water in his hands from the faucet in the sink",
+            "to wash down the last two Aspirin from his now empty bottle.",
+            "He splashes water on his face, dries it with his shirttail."
+        ]
+    },
+    {
+        "heading": "16      EXT. ELISE NICHOLS\u2019 BEDROOM - SECOND FLOOR WINDOW          16",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "ELISE NICHOLS\u2019 BEDROOM - SECOND FLOOR WINDOW",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will Graham has climbed out the window onto the porch roof.",
+            "He sits on the gritty shingles. He hugs his knees, his damp",
+            "shirt pressed cold across his back. He snorts the night air",
+            "to cleanse the smell of Elise Nichols death from his nose.",
+            "From his vantage point, he can see POLICE OFFICERS, POLICE",
+            "CARS and other CRIME SCENE SPECIALISTS assembled on the lawn.",
+            "Mr. and Mrs. Nichols are treated in the back of an Ambulance.",
+            "Will Graham takes a breath, exhales, then closes his eyes.",
+            "It swings in the darkness of Will Graham's mind, keeping",
+            "rhythm with his heart be at. FWUM.  FWUM. FWUM.",
+            "ON WILL GRAHAM -",
+            "He OPENS HIS EYES and he is standing outside Elise Nichols'",
+            "Bedroom Window. The neighborhood is quiet and empty. No",
+            "Police.  No Police Cars. No Ambulance.",
+            "He looks through the window glass to Elise Nichols sleeping",
+            "soundly in her bed. Will quietly opens the window."
         ]
     },
     {
@@ -195,9 +402,23 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "ELISE NICHOLS\u2019 BEDROOM  - WILL\u2019S P.O.V."
+            "location": "ELISE NICHOLS\u2019 BEDROOM  - WILL\u2019S P.O.V.",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will stands over Elise Nichols, very much alive. He watches",
+            "her for a quiet moment. Tears well in Will's eyes, then",
+            "Will bears down on Elise's chest with his knee, cracking ribs",
+            "as he simultaneously squeezes her throat shut with his hands.",
+            "It's sudden and horrible and violent. Elise is immediately",
+            "startled out of a deep sleep into terror.",
+            "Elise struggles, her face swelling with pressure, capillaries",
+            "in her skin and the whites of her eye WRINKLE and BURST.",
+            "Tears stream down her cheeks as she tries to scream but",
+            "cannot.  The bed board finally SNAPS and with it, Elise dies.",
+            "as CAMERA REVEALS Beverly Katz has not left",
+            "the room, as instructed. She's standing over Elise Nichols'",
+            "dead body, which she exposed by peeling back sheets.",
             "BEVERLY KATZ: \"You're Will Graham.\"",
             "WILL GRAHAM: \"You're not supposed to be in here.\"",
             "BEVERLY KATZ: \"You wrote the standard monograph on time of death by insect activity. She indicates her tweezers and what's between them.\"",
@@ -222,15 +443,81 @@
         ]
     },
     {
+        "heading": "B19     INT. AIRPLANE CABIN - NIGHT                               B19",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "AIRPLANE CABIN",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will PLOPS into an uncomfortable Coach Class Seat, cracks",
+            "open another Aspirin sample pack and swallows them."
+        ]
+    },
+    {
+        "heading": "19      INT. WILL GRAHAM\u2019S CAR - NIGHT                             19",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S CAR",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will PLOPS behind the steering wheel. He reaches into his",
+            "pocket and pulls out several empty Aspirin packs."
+        ]
+    },
+    {
+        "heading": "20      INT. WILL GRAHAM\u2019S CAR - CITY ROAD - NIGHT                 20",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S CAR - CITY ROAD",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will stares into middle distance as he drives, hypnotized by",
+            "the pavement unfurling ahead of him. HEADLIGHTS reflect off",
+            "of SOMETHING in the distance moving down the empty road.",
+            "Will squints over the steering wheel as he approaches the",
+            "certain SOMETHING and finally realizes what it is"
+        ]
+    },
+    {
         "heading": "21      EXT. WILL GRAHAM\u2019S CAR - CITY ROAD - NIGHT                 21",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "WILL GRAHAM\u2019S CAR - CITY ROAD"
+            "location": "WILL GRAHAM\u2019S CAR - CITY ROAD",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will slows considerably as he pulls along side A DOG. A rope",
+            "around its neck suggests it was once tied to something. No",
+            "collar, matted fur, nevertheless it trots with determination,",
+            "barely acknowledging Will as he rolls down his window.",
             "WILL GRAHAM: \"Hello. The stray Dog stops and allows Will to drive past. Will slows to a stop and gets out of his car, at which point the dog abruptly turns around and heads the opposite direction. Despite being absolutely exhausted emotionally and physically, Will gets back in his car and u-turns on the road to pursue the dog who is keeping a steady pace trotting away. Will goes around the Dog, blocking both lanes of the road ahead of it Police Car style. The Dog trots around his car in a half-circle, continuing down the road on the other side.\""
+        ]
+    },
+    {
+        "heading": "22      EXT. ROAD - NIGHT                                          22",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "ROAD",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "The Dog with the rope around its neck continues its sojourn",
+            "into the night, undeterred by anything up until this point.",
+            "CAMERA REVEALS the Dog trotting past Will sitting on his car,",
+            "unwrapping a BAG OF HOTDOGS from a 7-11 BAG. The Dog stops."
         ]
     },
     {
@@ -239,10 +526,31 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "WILL GRAHAM\u2019S CAR  - DRIVING"
+            "location": "WILL GRAHAM\u2019S CAR  - DRIVING",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will already seems lighter in spirit. He glances at the",
+            "mangy Dog securely fastened into the passenger seat and asks:",
             "WILL GRAHAM: \"What do you want from me? The Dog stares.\""
+        ]
+    },
+    {
+        "heading": "A25     EXT. WILL GRAHAM\u2019S HOUSE - PORCH - NIGHT                  A25",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE - PORCH",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "The Dog stands patiently as Will SHAVES off clumps of matted",
+            "hair with an ELECTRIC TRIMMER, tossing them in a woolly pile.",
+            "The Dog stands patiently in a tub as Will massages a SOAPY",
+            "LATHER through his furry coat and around the bald patches.",
+            "The Dog stands patiently as Will gently towel-dries and",
+            "simultaneously blow-dries him next to a SPACE HEATER."
         ]
     },
     {
@@ -251,12 +559,75 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "WILL GRAHAM\u2019S HOUSE"
+            "location": "WILL GRAHAM\u2019S HOUSE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "The Dog stands patiently in his kennel looking up at Will.",
             "WILL GRAHAM: \"Winston. This is everybody. Everybody. This is Winston. CAMERA REVEALS EIGHT FORMALLY STRAY DOGS staring at Winston in the safety of a new dog kennel. Will is a dog collector. An ALPHA DOG steps forward and growls at Winston. Will quickly corrects the aggressive mutt with a sharp look and a:\"",
             "WILL GRAHAM: \"Tsssst. Alpha steps back into line, sits, then lays down obediently.\"",
             "WILL GRAHAM: \"That's right.\""
+        ]
+    },
+    {
+        "heading": "26      INT. WILL GRAHAM\u2019S BATHROOM - SHOWER - NIGHT               26",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S BATHROOM - SHOWER",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will lets the hot water wash over him, surrounded by steam.",
+            "The steam GROWS MORE DENSE and then slowly and only slightly,",
+            "THINS REVEALING Will is now STANDING IN THE MISTY FOREST OF",
+            "THIS MIND. He is deep in thought, barely noticing the STAG",
+            "walking through the misty forest fog only 20 feet away.",
+            "SNAPPING BACK TO THE SHOWER, Will shuts off the water."
+        ]
+    },
+    {
+        "heading": "A29     INT. WILL GRAHAM\u2019S HOUSE - NIGHT                          A29",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "The entire pack is huddled together sleigh-dog style",
+            "surrounding Winston's dog kennel. Will sleeps quietly in his",
+            "bed on the other side of the room. Moonlight-cast tree",
+            "branch shadows stretch along the walls and across the",
+            "ceiling.  Then there's another breathing in the room.",
+            "Will calmly opens his eyes, holding his own breath as he",
+            "listens for the second breather. The mysterious breathing",
+            "continues as Will turns to see laying in bed next to him:",
+            "ELISE NICHOLS",
+            "She's wearing the nightie Will found her in, appearing",
+            "exactly as she did in her own bed, but now she's in his.",
+            "As Will reaches out to touch her, the ANTLER-LIKE TREE BRANCH",
+            "SHADOWS shift and stretch, piercing Elise through her wounds,",
+            "re-impaling her and pulling her into the DARKNESS.",
+            "Elise slowly recedes into the SHADOWS and disappears.",
+            "ON WILL GRAHAM",
+            "He jolts awake in his bed, soaking wet with perspiration.",
+            "Elise Nichols was lying next to him only in a dream.",
+            "His shirt and underwear cling indiscriminately as he throws",
+            "back the damp sheets and climbs out of bed. He EXITS peeling",
+            "off clothes like a wet bathing suit that then slaps to the",
+            "floor.",
+            "Will ENTERS, pulling on a dry t-shirt and underwear, lays a",
+            "beach towel down on the wet bed, then crawls inside. He",
+            "pulls the sheets back over himself, heaving a deep sigh.",
+            "UNDERWATER",
+            "SPLOOSH.  A FACE breaks the surface in a FLURRY OF BUBBLES,",
+            "sinking TOWARD CAMERA, filling THE FRAME. It's Will.",
+            "WILL GRAHAM",
+            "He stands over a sink, splashing water on his face, rattled.",
+            "CAMERA REVEAL"
         ]
     },
     {
@@ -265,9 +636,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. HEADQUARTERS - BATHROOM - NEXT DAY"
+            "location": "F.B.I. HEADQUARTERS - BATHROOM",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will pats his face dry with paper towels as Jack ENTERS,",
+            "impatient, having been looking for Will for some time.",
             "JACK CRAWFORD: \"What are you doing in here?\"",
             "WILL GRAHAM: \"I enjoy the smell of urinal cake.\"",
             "JACK CRAWFORD: \"Me, too. Lets talk. An AGENT ENTERS to use the facilities. Jack holds the door.\"",
@@ -277,15 +651,15 @@
             "JACK CRAWFORD: \"We have a better chance of catching this guy if you're in the saddle.\"",
             "WILL GRAHAM: \"I'm in the saddle. Just confused which direction I'm pointing. I don't know this kind of psychopath. Never read about him. I don't even know if he's a psychopath. He's not insensitive. He's not shallow.\"",
             "JACK CRAWFORD: \"You could tell something about him or you wouldn't've said this was an apology. What's he apologizing for?\"",
-            "WILL GRAHAM: \"Couldn't honor her. He feels bad.\"",
+            "WILL GRAHAM: \"Couldn'thonor her. He feels bad.\"",
             "JACK CRAWFORD: \"Feeling bad defeats the purpose of being a psychopath, doesn't it?\"",
             "WILL GRAHAM: \"Yes.  It does.\"",
             "JACK CRAWFORD: \"Then what kind of crazy is he?\"",
             "WILL GRAHAM: \"He couldn't show her he loved her so he put her corpse back where he killed it. Whatever crazy that is.\"",
             "JACK CRAWFORD: \"You think he loves these girls?\"",
-            "WILL GRAHAM: \"He loves one of them, and I think by association, he has some form of love for the others.\"",
-            "JACK CRAWFORD: \"There was no semen or saliva. Elise Nichols died a virgin and that corpse kept her promise.\"",
-            "WILL GRAHAM: \"That's not how he's loving them. He wouldn't disrespect them that way.  He doesn't want these girls to suffer. He kills them quickly and, to his thinking, with mercy.\"",
+            "WILL GRAHAM: \"He loves one of them, and I think by association, he has some form oflove for the others.\"",
+            "JACK CRAWFORD: \"There was no semen or saliva. Elise Nichols died a virgin and that corpse kepther promise.\"",
+            "WILL GRAHAM: \"That's nothow he's loving them. He wouldn't disrespect them that way.  He doesn't want these girls to suffer. He kills them quickly and, to his thinking, with mercy.\"",
             "JACK CRAWFORD: \"The sensitive psychopath. He risked getting caught to tuck Elise Nichols back into bed.\"",
             "WILL GRAHAM: \"He has to take the next girl soon. He knows he's going to get caught. One way or the other.\""
         ]
@@ -296,10 +670,38 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. HEADQUARTERS - HAIR AND FIBER"
+            "location": "F.B.I. HEADQUARTERS - HAIR AND FIBER",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "A small, enclosed work space in a sealed, clean room.",
+            "ON BEVERLY KATZ",
+            "She has Elise Nichols'NIGHTIE suspended from a hanger over a",
+            "table covered with white paper. Working under bright lights",
+            "in the draft-free room, she brushes the nightie with a metal",
+            "spatula, working with the wale and across it, with the nap",
+            "and against it. Something falls through the still air:",
+            "A TINY CURL OF METAL",
+            "It falls to the paper. Beverly studies it with bright eyes:",
             "BEVERLY KATZ: \"I got you. A METAL PIPE It's secured in a vise positioned against the PIPE CUTTER'S JAWS.  The cutter's knurled handle turns as a small amount of CUTTING OIL is applied to the blade, seeping over it. EXTREME CLOSE UP The cutter is rotated and the blade is tightened, cutting into the pipe, shaving curls of metal as THREADS are carved. A TINY CURL OF METAL It falls in similar fashion as it did in the crime lab. Instead of white paper, it lands on a pile of metal shavings. A CAR DOOR SHUTS and CAMERA REVEALS\""
+        ]
+    },
+    {
+        "heading": "31      EXT. CONSTRUCTION SITE - DAY                               31",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "CONSTRUCTION SITE",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "CAMERA FINDS the car, a Minnesota girl gets out. She is of",
+            "the same hair color, eye color, weight and height as Elise",
+            "Nichols and the seven young women before her.",
+            "Her name is ABIGAIL HOBBS.",
+            "She offers a small wave to the PIPE THREADER. One dirty hand",
+            "offers a small wave in return. She knows her killer."
         ]
     },
     {
@@ -308,9 +710,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY"
+            "location": "F.B.I. ACADEMY",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "CAMERA FINDS Jack Crawford walking with DR. ALANA BLOOM, a",
+            "beautiful Psychology Professor in her 30s.",
+            "F.B.I. ACADEMY, QUANTICO, VIRGINIA",
             "JACK CRAWFORD: \"Graham likes you. He doesn't think you run any mind games on him.\"",
             "ALANA BLOOM: \"I don't. I'm as honest with him as I'd be with a patient.\"",
             "JACK CRAWFORD: \"Been observing him during your guest lectures at the academy?\"",
@@ -322,7 +728,7 @@
             "JACK CRAWFORD: \"If he caught you peeking, he'd snatch down the shades?\"",
             "ALANA BLOOM: \"Normally I wouldn't even broach this, but what do you think one of Will's strongest drives is? Jack knows exactly what she's getting at.\"",
             "JACK CRAWFORD: \"Fear.  He deals with huge amounts of fear. Comes with imagination.\"",
-            "ALANA BLOOM: \"It's the price of imagination.\"",
+            "ALANA BLOOM: \"It's the price ofimagination.\"",
             "JACK CRAWFORD: \"I wouldn't put him out there if I couldn't cover him -- if I couldn't cover him eighty percent.\"",
             "ALANA BLOOM: \"I wouldn't put him out there.\"",
             "JACK CRAWFORD: \"He's out there. And I need him out there.  And I need you to make sure he's not left out there.\"",
@@ -337,9 +743,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. HEADQUARTERS - EXAMINATION ROOM"
+            "location": "F.B.I. HEADQUARTERS - EXAMINATION ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Beverly Katz and Brian Zeller hover over the examination",
+            "table as Jimmy Price continues to UNZIP the BODY BAG, all",
+            "wearing gloves, aprons and splash visors.",
             "JIMMY PRICE: \"Tried her skin for prints. Of course, nothing. We did get a hand spread off her neck.\"",
             "BEVERLY KATZ: \"Report say anything about nails?\"",
             "BRIAN ZELLER: \"Her fingernails were smudged when we took scrapings. The scrapings were where she cut her palms with them.  She never scratched him.\"",
@@ -353,9 +763,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. HEADQUARTERS - EXAMINATION ROOM"
+            "location": "F.B.I. HEADQUARTERS - EXAMINATION ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "As before. Zeller, Katz, Price continue their examination.",
             "BRIAN ZELLER: \"Other injuries were probably but not conclusively postmortem.  She wasn't gored.\"",
             "BEVERLY KATZ: \"She has lots of piercings that look like they were caused by deer antlers. I didn't say the deer was responsible for putting them there.\"",
             "WILL GRAHAM: \"She was mounted on them. Like hooks.  She may have been bled. Beverly and Jimmy glance at Will.  Brian Zeller is too distracted by his investigation of the abdominal wound.\"",
@@ -372,9 +784,27 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "DINING ROOM"
+            "location": "DINING ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "To the strains of Goldberg Variations by Bach, CAMERA CRAWLS",
+            "across a well-appointed dining room table with place settings",
+            "for one serving a beautifully prepared and ed liver.",
+            "As fork and knife respectfully cut meat",
+            "CAMERA REVEALS a handsome, professorial man in his 40s.",
+            "Erudite and as well appointed as his dining room. He cuts a",
+            "piece ofliver, skewering it with his fork before applying a",
+            "balance of garnishes with his knife. He takes a bite.",
+            "Meet HANNIBAL LECTER.",
+            "BLACK",
+            "The sound of a grown man's quiet sobbing.",
+            "ON HANNIBAL",
+            "He watches the OFF-SCREEN SOBBING MAN inscrutably for an",
+            "uncomfortably long moment, studying him.",
+            "THE SOBBING MAN",
+            "A handsome, well-groomed gent in his 30s named FRANKLYN. He",
+            "tries to find dignity in his tears as he reaches out",
             "FRANKLYN: \"Please\"",
             "FRANKLYN: \"I hate being this neurotic. Franklyn wipes his eyes and nose.\"",
             "HANNIBAL: \"If you weren't neurotic, Franklyn, you would be something much worse. CAMERA POPS WIDE TO REVEAL\""
@@ -386,9 +816,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL LECTER\u2019S OFFICE"
+            "location": "HANNIBAL LECTER\u2019S OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Immaculate, filled with antiques and artifacts and a gallery",
+            "an arm chair across from Franklyn, who gathers his emotions.",
+            "A CHRYON tells us",
+            "BALTIMORE, MARYLAND",
             "HANNIBAL: \"Our brain is designed to experience anxiety in short bursts, not the prolonged foamy lathers of duress your neuroses seem to enjoy. It's why you feel as though a lion were on the verge of devouring you. He eyes the tissue Franklyn tosses on the side table.\"",
             "HANNIBAL: \"You have to convince yourself the lion is not in the room. When it is, I assure you, you will know it. THE DOOR CRAWFORD waiting patiently on his doorstep.\"",
             "JACK CRAWFORD: \"Doctor Lecter?\"",
@@ -405,9 +840,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL LECTER\u2019S OFFICE - WAITING ROOM"
+            "location": "HANNIBAL LECTER\u2019S OFFICE - WAITING ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Jack Crawford cools his heels, idly picks up a magazine. The",
             "HANNIBAL: \"Please.  Come in.\""
         ]
     },
@@ -417,9 +854,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL LECTER\u2019S OFFICE"
+            "location": "HANNIBAL LECTER\u2019S OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "admiring his art, as the doctor follows him in.",
             "HANNIBAL: \"May I ask how this is all about me?\"",
             "JACK CRAWFORD: \"You can ask. But I do need to ask you a few questions first. Are you expecting another patient?\"",
             "HANNIBAL: \"We're all alone.\"",
@@ -430,7 +869,7 @@
             "JACK CRAWFORD: \"Incredible amount of detail. blowing the shavings off the tip to reveal its sharpness.\"",
             "HANNIBAL: \"Learned very early a scalpel cuts better points than a pencil sharpener. listens to Jack, eyes drifting to the F.B.I. Agent's jugular.\"",
             "JACK CRAWFORD: \"I understand your drawing got you an internship at Johns Hopkins. heartbeat, his nostrils flair and his eyes dilate, as he exhales a very calm observation.\"",
-            "HANNIBAL: \"I am beginning to suspect you are investigating me, Agent Crawford. An eerie stillness as if lightning were about to strike.\"",
+            "HANNIBAL: \"I am beginning to suspect you are investigating me, Agent Crawford. An eerie stillness as iflightning were about to strike.\"",
             "JACK CRAWFORD: \"You were referred to me by Alana Bloom in the psychology department at Georgetown.\"",
             "HANNIBAL: \"Most psychology departments are filled with ham radio enthusiasts and other personality-deficients. Dr. Bloom would be the exception.\"",
             "JACK CRAWFORD: \"You mentored her during her residency at John Hopkins?\"",
@@ -439,7 +878,7 @@
             "HANNIBAL: \"And?\"",
             "JACK CRAWFORD: \"Very interesting, even to a layman.\"",
             "HANNIBAL: \"A layman? So many learned fellows going about in the halls of Behavioral Science at the F.B.I. and you consider yourself a layman?\"",
-            "JACK CRAWFORD: \"I do when I'm in your company, Doctor.  I'd like you to help me with a psychological profile. CLOSE ON - WILL The FRAMES OF HIS GLASSES strategically positioned to block eye contact, yet giving the impression of looking at someone. CAMERA REVEALS\""
+            "JACK CRAWFORD: \"I do when I'm in your company, Doctor.  I'd like you to help me with a psychological profile. CLOSE ON - WILL The FRAMES OF HIS GLASSES strategically positioned to block eye contact, yet giving the impression oflooking at someone. CAMERA REVEALS\""
         ]
     },
     {
@@ -448,11 +887,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. - JACK CRAWFORD\u2019S OFFICE"
+            "location": "F.B.I. - JACK CRAWFORD\u2019S OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "A CHRYON tells us",
+            "F.B.I. Academy, Quantico, Virginia",
             "HANNIBAL: \"Tell me then, how many confessions?\"",
-            "JACK CRAWFORD: \"Twelve dozen last time I checked. None of them knew details. Until this morning. Then everyone knew details. Some genius in Duluth PD took a picture of Elise Nichols' body with their phone and shared it with a few close friends. Freddy Lounds ran it on Tattlecrime.com.\"",
+            "JACK CRAWFORD: \"Twelve dozen last time I checked. None of them knew details. Until this morning. Then everyone knew details. Some genius in Duluth PD took a picture of Elise Nichols'body with their phone and shared it with a few close friends. Freddy Lounds ran it on Tattlecrime.com.\"",
             "WILL GRAHAM: \"Tasteless.\"",
             "HANNIBAL: \"Do you have trouble with taste?\"",
             "WILL GRAHAM: \"My thoughts are often not tasty.\"",
@@ -461,7 +903,7 @@
             "HANNIBAL: \"Associations come quickly.\"",
             "WILL GRAHAM: \"So do forts.\"",
             "HANNIBAL: \"Not fond of eye contact, are you? Will unapologetically continues to avoid eye contact.\"",
-            "WILL GRAHAM: \"Eyes are distracting. You see too much.  You don't see enough. And it's hard to focus when you're thinking those whites are really white or they must have hepatitis, or is that a burst vein? So I try to avoid eyes whenever possible.\"",
+            "WILL GRAHAM: \"Eyes are distracting. You see too much.  You don't see enough. And it's hard to focus when you're thinking those whites are really white or they musthave hepatitis, or is that a burst vein? So I try to avoid eyes whenever possible.\"",
             "HANNIBAL: \"I imagine what you see and learn touches everything else in your mind.  Your values and decency are yet shocked at your associations, appalled at your dreams.  No forts in the bone arena of your skull for things you love. is not about to give him the satisfaction of knowing it.\"",
             "WILL GRAHAM: \"Whose profile are you working on?  Whose profile is he working on?\"",
             "HANNIBAL: \"I'm sorry, Will. Observing is what we do.  I can't shut mine off any more than you can shut yours off. Will doesn't appreciate the intrusion into his psyche.\"",
@@ -479,9 +921,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "MINNESOTA FIELD"
+            "location": "MINNESOTA FIELD",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "CAMERA CONTINUES PULLING BACK under the POLICE TAPE, which",
+            "Jack Crawford and Will Graham are ly stepping over.",
             "WILL GRAHAM: \"I feel like I'm dreaming.\"",
             "JACK CRAWFORD: \"The head was reported stolen last night about a mile from here.\"",
             "WILL GRAHAM: \"Just the head? Brian Zeller, Beverly Katz, and Jimmy Price are combing the immediate area for forensic evidence. Jack and Will stare as Beverly and Brian Zeller attempt to shoo the crows away.\"",
@@ -502,9 +947,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL LECTER\u2019S HOME - KITCHEN"
+            "location": "HANNIBAL LECTER\u2019S HOME - KITCHEN",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "mallet to the strains of Strauss, pounding the lungs flat.",
+            "He dabs his pinky into the raw lung tissue and tastes.",
             "HANNIBAL: \"Pre-smoked.\""
         ]
     },
@@ -514,9 +962,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "MINNESOTA FIELD"
+            "location": "MINNESOTA FIELD",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will has finally turned away to give his soul some relief.",
+            "Jack Crawford and Brian Zeller stand over the table that is",
+            "CASSIE'S BODY. Beverly Katz and Jimmy Price work nearby.",
             "WILL GRAHAM: \"Our cannibal loves women. He doesn't want to destroy them. He wants to consume them. Keep some part of them inside. This girl's killer thought she was a pig.\"",
             "JACK CRAWFORD: \"You think this is a copy cat? Will takes in the open field, considering the stage.\"",
             "WILL GRAHAM: \"I don't know. Cannibal who killed Elise Nichols had a place to do it and no interest in field Kabuki. He has a house or two, or a cabin. Something with an antler room.\"",
@@ -529,15 +981,39 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "MINNESOTA FIELD - CASSIE\u2019S DEAD BODY"
+            "location": "MINNESOTA FIELD - CASSIE\u2019S DEAD BODY",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Jack Crawford and Will Graham stare at the horrible tableau.",
             "JACK CRAWFORD: \"We're already looking at Minnesota steamfitters and plumbers and people with hunting licenses.\"",
-            "WILL GRAHAM: \"He has a daughter. Same age as the other girls. Same hair color, same eye color, same height, same weight. She's an only child. She's leaving home.  He can't stand the thought of losing her. She's his Golden Ticket.\"",
+            "WILL GRAHAM: \"He has a daughter. Same age as the other girls. Same hair color, same eye color, same height, same weight. She's an only child. She's leaving home.  He can't stand the thought oflosing her. She's his Golden Ticket.\"",
             "JACK CRAWFORD: \"What about the Copy Cat?\"",
             "WILL GRAHAM: \"An intelligent psychopath, particularly a sadist, is hard to catch.  There's no traceable motive.  There'll be no patterns. He may never kill like this again. Will turns and crosses under the POLICE TAPE, tossing back:\"",
             "WILL GRAHAM: \"Have Dr. Lecter work up a psychological profile. You seem to be impressed with his opinion.\"",
             "49      THE MISSING LUNGS - HANNIBAL LECTER'S DINING ROOM          49"
+        ]
+    },
+    {
+        "heading": "A50     EXT. WILL GRAHAM\u2019S HOUSE - FIELD - NIGHT                  A50",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE - FIELD",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will stands underneath the sky considering the stars. An",
+            "eerie moment of silence, then a subtle crunching of grass",
+            "indicates Will is not alone. He glances over to see",
+            "A RAVEN-FEATHERED STAG",
+            "It walks quietly through the meadow toward Will, who holds",
+            "his breath, taking in the surreal vision of this beast. The",
+            "RAVEN-FEATHERED STAG stops and watches Will. Then a SUDDEN",
+            "KNOCK-KNOCK-KNOCKING startles the stag and it BOLTS.",
+            "A CLOSED DOOR",
+            "It DISTORTS and COMES INTO FOCUS as KNOCK-KNOCK."
         ]
     },
     {
@@ -546,9 +1022,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "MINNEAPOLIS MOTEL ROOM"
+            "location": "MINNEAPOLIS MOTEL ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will wraps a robe around himself as he shuffles to the door",
+            "wiping the fresh sleep out of his eyes. He opens the door",
+            "a thermos and a small thermal food storage bag.",
             "HANNIBAL: \"Good morning, Will. May I come in? Will stares at him.\"",
             "WILL GRAHAM: \"Where's Crawford?\"",
             "HANNIBAL: \"Deposed in court. The adventure will be yours and mine today. May I come in? CLOSE ON SMALL TABLE A beautifully ed breakfast for two served on tupperware containers on top of place settings. Freshly\"",
@@ -581,13 +1061,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "RENT-A-CAR"
+            "location": "RENT-A-CAR",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Will throws the car into park and begins to unbuckle his seat",
             "WILL GRAHAM: \"What are you smiling about?\"",
             "HANNIBAL: \"Peeking behind the curtain. Curious how the FBI goes about its business when it isn't kicking in doors.\"",
             "WILL GRAHAM: \"We're lucky we're not doing house to house interviews. We found a little piece of metal in the clothes Elise Nichols had on. A shred from a pipe threader.\"",
-            "HANNIBAL: \"Jack Crawford wants me to make sure you're of sound mind and body to look for metal pipethreaders? Will can't help but smile himself.\"",
+            "HANNIBAL: \"Jack Crawford wants me to make sure you're of sound mind and body to look for metal pipethreaders? Will can'thelp but smile himself.\"",
             "WILL GRAHAM: \"That's between you and Jack.\"",
             "HANNIBAL: \"Must be hundreds of construction sites all over Minnesota.\"",
             "WILL GRAHAM: \"Certain kinda metal. Certain kinda pipe. Certain kinda pipe coating. So we're looking at construction sites that use that kinda pipe.\"",
@@ -596,19 +1078,35 @@
         ]
     },
     {
+        "heading": "51      EXT. CONSTRUCTION SITE - DAY                               51",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "CONSTRUCTION SITE",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "and cross toward a CAMPER TRAILER OFFICE."
+        ]
+    },
+    {
         "heading": "52      INT. CAMPER TRAILER OFFICE - DAY                           52",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "CAMPER TRAILER OFFICE"
+            "location": "CAMPER TRAILER OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "A flustered, mildly suspicious secretary named DIXIE stares",
+            "the phone in an ineffective hushed tone.",
             "DIXIE: \"Two fellas from the F.B.I. They're going through drawers now. Putting papers in file boxes. Yes. They're taking things. No.  They didn't say whe -- Yes, they can. What did you say your names were? Just then, Will finds a resignation letter of note.\"",
             "WILL GRAHAM: \"Garret Jacob Hobbs.\"",
             "DIXIE: \"One of our pipe threaders. Those are all the resignation letters. Plumbers union requires them whenever members finish a job.  I'll call you back. Dixie hangs up the phone and scoots out from around her desk.\"",
             "WILL GRAHAM: \"Did Mr. Hobbs have a daughter?\"",
-            "DIXIE: \"Might have.\"",
+            "DIXIE: \"Mighthave.\"",
             "WILL GRAHAM: \"Eighteen or nineteen, wind-chaffed? Plain but pretty? She would have auburn hair. About this tall.\"",
             "DIXIE: \"Maybe.  I don't know. I don't keep company with these people.\"",
             "HANNIBAL: \"What is it about Garret Jacob Hobbs you find so peculiar?\"",
@@ -623,10 +1121,26 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "CAMPER TRAILER OFFICE"
+            "location": "CAMPER TRAILER OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "office building to the trunk of their rental car.",
+            "scattering papers. Will and Dixie stoop to pick them up.",
             "WILL GRAHAM: \"I got it.\""
+        ]
+    },
+    {
+        "heading": "54      INT. CAMPER TRAILER OFFICE - DAY                           54",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "CAMPER TRAILER OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "CLICK, watching Dixie and Will clean up the mess he made."
         ]
     },
     {
@@ -635,9 +1149,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "HOBBS RESIDENCE - KITCHEN"
+            "location": "HOBBS RESIDENCE - KITCHEN",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "A bright, intelligent young woman, ABIGAIL HOBBS (seen",
+            "earlier), answers the PHONE her mother LOUISE (40s) and",
+            "father JACOB (40s) are preparing breakfast in the background.",
+            "Abigail is a Minnesota girl like Elise Nichols and the rest.",
+            "BLOOMINGTON, MINNESOTA",
             "ABIGAIL: \"Hello?  Just a second.  Dad.  It's for you.\"",
             "JACOB: \"Who is it?\"",
             "ABIGAIL: \"Caller i.d. said it was work. She hands Jacob the phone and he presses it to his ear.\"",
@@ -650,7 +1170,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "CAMPER TRAILER OFFICE"
+            "location": "CAMPER TRAILER OFFICE",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
             "HANNIBAL: \"Mister Garrett Jacob Hobbs?\"",
@@ -661,14 +1182,94 @@
         ]
     },
     {
+        "heading": "57      EXT. HOBBS HOUSE - DAY -- ESTABLISHING                     57",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HOBBS HOUSE  -- ESTABLISHING",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "A cozy, well-kept tracthome stands unobtrusively amongst",
+            "aesthetically similar homes. BLOOD-SPATTERED Will leans",
+            "againsthis rental car idling across the street.",
+            "A circus of AMBULANCES, PARAMEDICS, POLICE CARS and OFFICERS.",
+            "ON WILL GRAHAM",
+            "He takes a breath, exhales, then closes his eyes.",
+            "It swings in the darkness of Will's mind. FWUM. FWUM. FWUM.",
+            "ON WILL GRAHAM",
+            "His eyes are still closed. The PENDULUM is now outside his",
+            "head.  It swings in front of his eyes, wiping away the POLICE",
+            "CARS and OFFICERS. FWUM.  The PENDULUM swings across his",
+            "bloodied face and the horrible streaks of madness vanish.",
+            "Will opens his eyes."
+        ]
+    },
+    {
+        "heading": "58      EXT. HOBBS HOUSE - CAR - DAY                               58",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HOBBS HOUSE - CAR",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "The crime scene has now been decriminalized in Will's mind.",
+            "Will pops an Aspirin behind the wheel of the rental car.",
+            "Lector unbuckles his seatbelt on the passenger side. Will",
+            "thinks a moment before getting out."
+        ]
+    },
+    {
+        "heading": "59      EXT. HOBBS HOUSE - DAY - SLOWER MOTION                     59",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HOBBS HOUSE  - SLOWER MOTION",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will walks purposefully to the front door, trying his best",
+            "behind.  Will is halfway to the door when it suddenly opens:",
+            "LOUISE HOBBS",
+            "Bleeding and wheezing, she is shoved down the porch steps in",
+            "a heap, the door slamming shut behind her.",
+            "ON WILL GRAHAM",
+            "He rushes to DYING LOUISE HOBBS. Her alabaster skin in sharp",
+            "contrast to the crimson pouring out of it. Multiple wounds",
+            "puncture her torso and arms. She grasps haltingly for Will,",
+            "streaking him with her blood.",
+            "Her cold hand clutches his wrist as her body spasms. She's",
+            "already gone and Will knows this.",
+            "He pries her slick, red fingers from his wrist, trying not to",
+            "see the last flickers of pain and fear exciting her face.",
+            "THE DOOR",
+            "Will smashes into it with everything he's got. It's hard to",
+            "say whether the sickening crack was from his shoulder or the",
+            "its wood frame. He gives it a well-placed kick, and another,",
+            "splintering it little-by-little until he can stumble INSIDE.",
+            "ON HANNIBAL LECTOR",
+            "He strolls casually up the walk, barely glancing at the",
+            "lifeless body of Louise Hobbs stepping deliberately over it.",
+            "He pauses in the broken doorway, listening closely."
+        ]
+    },
+    {
         "heading": "60      INT. HOBBS HOUSE - MAIN FLOOR - DAY                        60",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOBBS HOUSE - MAIN FLOOR"
+            "location": "HOBBS HOUSE - MAIN FLOOR",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "The wild-eyed contrast to Dr. Lector, WILL GRAHAM works his",
+            "way from room to room, gun first. Adrenaline allows him to",
+            "ignore the splatters of blood defacing the walls and floors.",
             "WILL GRAHAM: \"Garret Jacob Hobbs? F.B.I. Will stops cold at the sight before him as he moves into:\""
         ]
     },
@@ -678,11 +1279,32 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOBBS HOUSE - KITCHEN"
+            "location": "HOBBS HOUSE - KITCHEN",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "Garrett Jacob Hobbs behind his DAUGHTER, ABIGAIL, slashing at",
+            "her throat. The wide-eyed girl has her weight againsthim,",
+            "chin tucked down, gasping for air.",
+            "TIME SLOWS TO A CRAWL as the SOUND YIELDS to the AMBIENT",
+            "NOISE of Will's circulatory system.",
+            "Will raises his pistol. BLAM.  BLAM.  BLAM. He fires into",
+            "Hobbs's exposed upper chest, one after another. Hobbs",
+            "doesn't go down. He keeps slashing.  Will keeps shooting.",
+            "BLAM.  BLAM.",
+            "into the kitchen, his inscrutable expression suddenly",
+            "registering genuine pity and regret as he sees:",
+            "ABIGAIL HOBBS",
+            "Her struggle to breath underscored by the WHEEZE of air",
+            "through her slashed wind-pipe. Will applies pressure to the",
+            "wounds, scooping Abigail onto his lap. He looks up to see:",
+            "GARRET JACOB HOBBS",
+            "He hisses at Will Graham through dying, jagged breath.",
             "JACOB: \"See? See? Will's eyes are glazed. He's shutting down. Behind him: ON HANNIBAL He moves swiftly to Abigail, addressing her wounds as she stares at her dying father even as her own life ebbs. Will Will doesn't look away.\"",
-            "62      BLOOD SPATTERED WILL GRAHAM                                62"
+            "62      BLOOD SPATTERED WILL GRAHAM                                62",
+            "He leans against the rental car staring at the CRIME SCENE",
+            "CIRCUS.  He watches as PARAMEDICS haul Abigail into the back",
+            "crawling in beside her as a PARAMEDIC pulls the doors shut."
         ]
     },
     {
@@ -691,11 +1313,50 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "F.B.I. ACADEMY - HALLWAY"
+            "location": "F.B.I. ACADEMY - HALLWAY",
+            "episode": "Hannibal_1x01_Aperitif"
         },
         "content": [
+            "CAMERA FOLLOWS JACK CRAWFORD down the corridor toward Will",
+            "Graham's lecture hall.",
+            "But when he gets to the door he notices instead of Will",
+            "Graham at the front of the class, it's Dr. Alana Bloom mid-",
+            "lecture.  Crawford knocks to gether attention. She crosses",
+            "to the door and opens it a crack.",
             "JACK CRAWFORD: \"Where's Graham? She considers Crawford and how to answer him best, then:\"",
             "ALANA BLOOM: \"You said he wouldn't get too close. Before Jack can respond, she as respectfully as possible closes the door in his face and returns to her lecture.\""
+        ]
+    },
+    {
+        "heading": "66      INT. HOSPITAL - CORRIDOR - MORNING                         66",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "MORNING",
+            "location": "HOSPITAL - CORRIDOR",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will walks under the horrible glare of hospital fluorescents,",
+            "passing HOSPITAL SECURITY as he rounds a corner turning into:"
+        ]
+    },
+    {
+        "heading": "67      INT. HOSPITAL - PATIENT ROOM - MORNING                     67",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "MORNING",
+            "location": "HOSPITAL - PATIENT ROOM",
+            "episode": "Hannibal_1x01_Aperitif"
+        },
+        "content": [
+            "Will ENTERS to find Abigail Hobbs integrated into an",
+            "elaborate weave oflife-saving technology. CAMERA REVEALS",
+            "sleeping in a chair next to her bed is HANNIBAL LECTER.",
+            "He's holding her hand, offering a tiny comfort.",
+            "Will Graham quietly sits in the empty chair next to Lecter",
+            "watching his unconscious care for the girl they both saved."
         ]
     }
 ]

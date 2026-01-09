@@ -31,6 +31,25 @@ def check_file(filepath):
         meta = scene.get("metadata", {})
         if not isinstance(meta, dict):
             issues.append(f"Scene {i}: Metadata is not a dict")
+        else:
+             # VALIDATE TIME
+             valid_times = ["DAY", "NIGHT", "MORNING", "EVENING", "DAWN", "DUSK", "TWILIGHT", "PREDAWN", "SUNSET", "UNKNOWN"]
+             t = meta.get("time", "UNKNOWN")
+             t = meta.get("time", "UNKNOWN")
+             if t not in valid_times:
+                 issues.append(f"Scene {i}: Invalid time '{t}'")
+             
+             # VALIDATE EPISODE
+             if "episode" not in meta or not meta["episode"]:
+                 issues.append(f"Scene {i}: Missing episode ID")
+             
+             # VALIDATE LOCATION
+             loc = meta.get("location", "")
+             if not loc:
+                 issues.append(f"Scene {i}: Empty location")
+             # Check for INT/EXT artifacts (whole words only)
+             if re.search(r"\b(?:INT|EXT|I/E)\b", loc, re.IGNORECASE):
+                 issues.append(f"Scene {i}: Location contains INT/EXT artifact: '{loc}'")
         
         # 4. Check Content
         content = scene.get("content", [])

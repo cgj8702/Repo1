@@ -1,8 +1,17 @@
 [
     {
         "heading": "START",
-        "metadata": {},
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "UNKNOWN",
+            "episode": "Hannibal_1x08_Fromage"
+        },
         "content": [
+            "\"Fromage\"",
+            "Jennifer Schuur",
+            "and",
             "\"Fromage\""
         ]
     },
@@ -12,9 +21,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "BEDELIA\u2019S HOME OFFICE - WAITING ROOM - AFTERNOON 1"
+            "location": "BEDELIA\u2019S HOME OFFICE - WAITING ROOM - AFTERNOON 1",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "The door OPENS and BEDELIA, a beautiful woman in her 40's",
+            "speaks to her patient:",
             "BEDELIA: \"Hello.  Please come in. CAMERA REVEALS her patient is HANNIBAL LECTER.\""
         ]
     },
@@ -24,7 +36,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "BEDELIA\u2019S HOME OFFICE - AFTERNOON 1"
+            "location": "BEDELIA\u2019S HOME OFFICE - AFTERNOON 1",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "BEDELIA: \"This always goes better if I'm perfectly honest with you.\"",
@@ -53,20 +66,99 @@
         ]
     },
     {
+        "heading": "3       INT. WILL GRAHAM\u2019S HOUSE - NIGHT 1                       3",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE  1",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "WILL GRAHAM lies with dogs, enjoying three fingers of juice.",
+            "The SPACE HEATER in the fireplace emits a warm halo around",
+            "the pack as Will works over the innards of the boat motor.",
+            "Will stops working, listening. He eyes the dogs, they don't",
+            "react, going about their leisure. Will returns to work.",
+            "A distant, almost imperceptible CRY. Will stops again. He",
+            "glances at the dogs, they still don't react. Another WIMPER.",
+            "Just as far away, but louder. Whatever it is, it's desperate.",
+            "Will stands, shrugs on a coat and grabs a flashlight."
+        ]
+    },
+    {
+        "heading": "4       EXT. WILL GRAHAM\u2019S HOUSE - FRONT PORCH - NIGHT 1         4",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE - FRONT PORCH  1",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "Will walks onto the front porch, closing the door so the dogs",
+            "can't follow him. He listens.  An even more frantic CRY.",
+            "Will hurries off the porch in the direction of the distress."
+        ]
+    },
+    {
+        "heading": "5       EXT. WILL GRAHAM\u2019S HOUSE - FIELD - NIGHT 1               5",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE - FIELD  1",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "Will wades into the darkness, his flashlight growing fainter.",
+            "ON WILL",
+            "The crying is more intense now. It rises and falls, growing",
+            "louder and softer as Will searches, wincing at the horrible",
+            "sound of the high-pitched, fear-induced whines.",
+            "Then a sudden quiet.",
+            "Will holds his breath, listening, shining his flashlight in",
+            "the direction of the last, sad whimper. Nothing.",
+            "He stands there a moment, unsure what to do. A discordant",
+            "CELLO NOTE strikes and we"
+        ]
+    },
+    {
+        "heading": "6       INT. CHORDOPHONE STRING SHOP - MORNING 2                 6",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "MORNING",
+            "location": "CHORDOPHONE STRING SHOP  2",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "CAMERA SLOWLY FOLLOWS the discordant sound through a densely",
+            "populated store front filled with GUITARS, SITARS, REBABS,",
+            "BASS, VIOLIN, VIOLA CELLO, MANDOLINS and HARPS.",
+            "CAMERA CONTINUES PUSHING THROUGH A NARROW DOORWAY INTO:"
+        ]
+    },
+    {
         "heading": "7       INT. CHORDOPHONE STRING SHOP - PARLOR - CONTINUOUS       7",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "CHORDOPHONE STRING SHOP - PARLOR"
+            "location": "CHORDOPHONE STRING SHOP - PARLOR",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "Behind the store front, a small room for private lessons.",
+            "ON A PRE-TEEN CELLO PLAYER",
+            "He STRIKES the discordant note and his teacher, TOBIAS (fit,",
+            "handsome, 30s) winces then politely smiles, encouraging.",
             "PRE-TEEN CELLO PLAYER: \"These strings are harder to bow than the regular ones.\"",
             "TOBIAS: \"You have to learn how to bow authentic strings to better bow strings how they're made today.\"",
             "PRE-TEEN CELLO PLAYER: \"I should be learning the easy strings first, then the hard ones.\"",
             "TOBIAS: \"No, you shouldn't.\"",
             "PRE-TEEN CELLO PLAYER: \"Are they really made from cat guts?\"",
-            "TOBIAS: \"Usually sheep or goat. Not always. CAMERA PUSHES INTO the CELLO STRINGS and we CINEMATICALLY (over a series of SHOTS) CHRONICLE IN REVERSE MOTION the ORIGIN STORY OF THE CELLO STRINGS: THE STRING UN-STRETCHES, REMOVED FROM THE CELLO THE STRING UNTWISTS INTO SINEWY INTESTINAL STRANDS BLOODY HEAP OF INTESTINES PULLED INTO AN OPEN ABDOMINAL WOUND THE ABDOMINAL WOUND CLOSES BEHIND A SHARP TOOL A BOUND AND GAGGED MAN'S DEAD EYES REVERSE INTO LIFE AS TIME AND MOTION RETURNS TO NORMAL THE SHARP TOOL SLASHES INTESTINES SPILL OUT OF THE OPEN WOUND GAGGED MAN MUFFLES A SCREAM AS HIS EYES ROLL INTO DEATH ON WILL GRAHAM He trounces through stark, bare branches slicing the early morning sun. The CRUNCH of frost-covered brush.\""
+            "TOBIAS: \"Usually sheep or go at. Not always. CAMERA PUSHES INTO the CELLO STRINGS and we CINEMATICALLY (over a series of SHOTS) CHRONICLE IN REVERSE MOTION the ORIGIN STORY OF THE CELLO STRINGS: THE STRING UN-STRETCHES, REMOVED FROM THE CELLO THE STRING UNTWISTS INTO SINEWY INTESTINAL STRANDS BLOODY HEAP OF INTESTINES PULLED INTO AN OPEN ABDOMINAL WOUND THE ABDOMINAL WOUND CLOSES BEHIND A SHARP TOOL A BOUND AND GAGGED MAN'S DEAD EYES REVERSE INTO LIFE AS TIME AND MOTION RETURNS TO NORMAL THE SHARP TOOL SLASHES INTESTINES SPILL OUT OF THE OPEN WOUND GAGGED MAN MUFFLES A SCREAM AS HIS EYES ROLL INTO DEATH ON WILL GRAHAM He trounces through stark, bare branches slicing the early morning sun. The CRUNCH of frost-covered brush.\""
         ]
     },
     {
@@ -75,9 +167,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "WILL GRAHAM\u2019S HOUSE - FIELD  2"
+            "location": "WILL GRAHAM\u2019S HOUSE - FIELD  2",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "As Will scans the forest floor around him, CAMERA REVEALS",
+            "ALANA BLOOM searching the underbrush, as well.",
             "WILL GRAHAM: \"If it wasn't a coyote, the coyotes probably got it. Probably got it even if it was a coyote.\"",
             "ALANA BLOOM: \"You're not expecting to find it alive, are you?\"",
             "WILL GRAHAM: \"We'll be lucky to find a paw.\"",
@@ -96,7 +191,7 @@
             "ALANA BLOOM: \"No.  Feels like something for somebody else. I'm sure I'll become that somebody some day but right now I think too much.\"",
             "WILL GRAHAM: \"It's hard to date when you notice everything they do and have a pretty good idea why they do it.\"",
             "ALANA BLOOM: \"Worse than dating a psychiatrist is being a psychiatrist dating.\"",
-            "WILL GRAHAM: \"Are you going to try to think less or wait until it happens naturally?\"",
+            "WILL GRAHAM: \"Are you going to try to think less or wait until ithappens naturally?\"",
             "ALANA BLOOM: \"I haven't thought about it. Will stops, puzzling over the icy underbrush around them.\"",
             "ALANA BLOOM: \"See something? Will glances around, making certain before he answers:\"",
             "WILL GRAHAM: \"No, actually. I don't even see any tracks.  Except the ones we made. CAMERA PUSHES IN ON Will as he considers that and we\""
@@ -108,7 +203,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  2"
+            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  2",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "HANNIBAL: \"Good morning. Please come in. CAMERA FINDS Franklyn waiting.\""
@@ -120,10 +216,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE  2"
+            "location": "HANNIBAL\u2019S OFFICE  2",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
-            "FRANKLYN: \"I have a lot of respect for you and what you do. Since I can't be your friend, or you're not comfortable with that, I found myself looking at my friends through your eyes. Imagining what you'd say about them. What your diagnosis would be.\"",
+            "FRANKLYN: \"I have a lot of respect for you and what you do. Since I can't be your friend, or you're not comfortable with that, I found myselflooking at my friends through your eyes. Imagining what you'd say about them. What your diagnosis would be.\"",
             "HANNIBAL: \"So you become the psychoanalyst?\"",
             "FRANKLYN: \"Little bit. Or I become you.\"",
             "HANNIBAL: \"That's an insightful observation.\"",
@@ -142,7 +239,7 @@
             "FRANKLYN: \"I want to talk about Tobias. Maybe you can help me analyze him.\"",
             "HANNIBAL: \"I'm not analyzing your friend. I'm analyzing your perception of him. May help you know yourself better. You could be projecting onto him what you consider to be your flaws. Franklyn is suddenly haunted by a thought:\"",
             "FRANKLYN: \"Does that mean I'm a psychopath?\"",
-            "HANNIBAL: \"You're not a psychopath. Although you may be attracted to them. Franklyn considers that, clueless to the entirety of its meaning. CLOSE ON - A DEAD MAN'S VACANT STARE CAMERA PULLS BACK TO REVEAL his mouth is agape, broken teeth, head held upright by the NECK OF A VIOLIN jammed down his gullet.  His throat is OPEN, cut horizontally below the Adam's apple and vertically down the middle splayed open as if for dissection, the flaps of flesh affixed to metal rings.\""
+            "HANNIBAL: \"You're not a psychopath. Although you may be attracted to them. Franklyn considers that, clueless to the entirety ofits meaning. CLOSE ON - A DEAD MAN'S VACANT STARE CAMERA PULLS BACK TO REVEAL his mouth is agape, broken teeth, head held upright by the NECK OF A VIOLIN jammed down his gullet.  His throat is OPEN, cuthorizontally below the Adam's apple and vertically down the middle splayed open as if for dissection, the flaps of flesh affixed to metal rings.\""
         ]
     },
     {
@@ -151,20 +248,29 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "CONCERT HALL - AUDITORIUM  2"
+            "location": "CONCERT HALL - AUDITORIUM  2",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "The Dead Man sits in a kneeling ergonomic chair duct-taped to",
+            "a back brace thatholds him in an upright position.",
+            "CAMERA CONTINUES TO PULL BACK REVEALING the Dead Man is alone",
+            "CENTER STAGE, the theater is empty save for:",
+            "WILL GRAHAM AND JACK CRAWFORD",
+            "They walk down the aisle, approaching the corpse, curious.",
+            "VARIOUS POLICE OFFICERS, F.B.I., BRIAN ZELLER, JIMMY PRICE",
+            "and BEVERLY KATZ stand near the LOBBY DOORS, observing.",
             "JACK CRAWFORD: \"Victim is Douglas Wilson, member of the Baltimore Metropolitan Orchestra. Brass section. Trombone player.\"",
             "WILL GRAHAM: \"Low brass. Was he any good?\"",
             "JACK CRAWFORD: \"He was killed sometime after his last performance. Blunt force trauma to the back of the head.\"",
-            "WILL GRAHAM: \"His killer brought him back here to put on a show.\"",
+            "WILL GRAHAM: \"His killer broughthim back here to put on a show.\"",
             "JACK CRAWFORD: \"Got some idea about who'd do this? Will shakes two aspirin out of bottle, tosses them back.\"",
             "WILL GRAHAM: \"I may be courting that feeling that precedes an idea.\"",
             "JACK CRAWFORD: \"Seems like it's getting easier for you to look.\"",
             "WILL GRAHAM: \"I tell myself it's purely an intellectual exercise.\"",
             "JACK CRAWFORD: \"In the narrow definition of forensics, that's what it is.\"",
             "WILL GRAHAM: \"But it's not getting easier, Jack. I shake it off and keep looking.\"",
-            "JACK CRAWFORD: \"Good.  You shake it off. You're all wired. I'll come back in when you tell me. Jack turns, climbing down from the stage. A POLICE OFFICER pulls the AUDITORIUM DOORS CLOSED behind Jack. The other SET OF DOORS are CLOSED by another LOCAL POLICE OFFICER. Will Graham is now alone. He crosses the stage, circles the Dead Man.  He takes a breath, exhales, then closes his eyes.  It swings in the darkness of Will Graham's mind, keeping rhythm with his heart beat. FWUM.  FWUM. ON WILL GRAHAM He walks backward, away from the Dead Man, toward the lip of the stage. He climbs down and sits in the front row. FWUM.  The PENDULUM is now outside Will's head. FWUM. FWUM. It SWINGS through FRAME, bringing down the HOUSE LIGHTS, plunging the seats of the auditorium into relative darkness. FWUM.  We are now\""
+            "JACK CRAWFORD: \"Good.  You shake it off. You're all wired. I'll come back in when you tell me. Jack turns, climbing down from the stage. A POLICE OFFICER pulls the AUDITORIUM DOORS CLOSED behind Jack. The other SET OF DOORS are CLOSED by another LOCAL POLICE OFFICER. Will Graham is now alone. He crosses the stage, circles the Dead Man.  He takes a breath, exhales, then closes his eyes.  It swings in the darkness of Will Graham's mind, keeping rhythm with his heart be at. FWUM.  FWUM. ON WILL GRAHAM He walks backward, away from the Dead Man, toward the lip of the stage. He climbs down and sits in the front row. FWUM.  The PENDULUM is now outside Will's head. FWUM. FWUM. It SWINGS through FRAME, bringing down the HOUSE LIGHTS, plunging the seats of the auditorium into relative darkness. FWUM.  We are now\""
         ]
     },
     {
@@ -173,9 +279,20 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "CHORDOPHONE STRING SHOP - BASEMENT"
+            "location": "CHORDOPHONE STRING SHOP - BASEMENT",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "A dark, indistinct space. Only Will and the Dead Man.",
+            "FWUM.  The butterfly wings of the THROAT WOUND CLOSE,",
+            "wrapping around neck and sealing the flesh together.",
+            "THE PENDULUM",
+            "It stops swinging.",
+            "ON WILL GRAHAM",
+            "Will watches the BOUND and GAGGED MAN secured to the chair.",
+            "The soon-to-be-Dead Man struggles againsthis bindings as",
+            "Will emerges from the darkness and brings down a mallet on",
+            "the back of his head, knocking his head violently forward.",
             "WILL GRAHAM: \"I open the throat from the outside. Three incisions, one to bleed him, second to open the trachea and a third to expose the vocal chords. Will makes the incisions, slicing out a disc of trachea.\"",
             "WILL GRAHAM: \"I open the throat from inside with the neck of a violin. Will places a VIOLIN NECK into the Dead Man's open mouth, through the opening he's made. This draws Will's attention to the powdery white residue on the victim's throat.\"",
             "WILL GRAHAM: \"Powder on the wounds. He looks out on the meticulously designed acoustic space.\"",
@@ -192,7 +309,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "BEDELIA\u2019S HOME OFFICE - AFTERNOON 2"
+            "location": "BEDELIA\u2019S HOME OFFICE - AFTERNOON 2",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "HANNIBAL: \"I worry I've made Franklyn feel powerless. His obsession with me is interfering with his progress.\"",
@@ -206,7 +324,7 @@
             "HANNIBAL: \"You support me as my colleague and psychiatrist and as a human being, I want to be supportive of you.\"",
             "BEDELIA: \"I'm not the only psychiatrist who's ever been attacked by a patient.\"",
             "HANNIBAL: \"I hesitated to even bring up the subject of an obsessive patient because of your experience.\"",
-            "BEDELIA: \"Can't allow what happened to me to interfere with your progress.\"",
+            "BEDELIA: \"Can't allow whathappened to me to interfere with your progress.\"",
             "HANNIBAL: \"You do.\"",
             "BEDELIA: \"you're not mine. CLOSE ON - THE DEAD MAN'S MOUTH CAMERA PULLS OUT OF THE MAW to REVEAL\""
         ]
@@ -217,9 +335,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - MORGUE  2"
+            "location": "B.A.U. - MORGUE  2",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "Beverly Katz uses magnifying goggles as she examines the open",
+            "throat wounds with a small plastic instrument. Brian Zeller",
+            "leans over the exposed vocal chords. Jimmy Price cranes his",
+            "neck to get a better look over both their shoulders. Will",
+            "Graham maintains a short distance from the body, hovering",
+            "nearby.",
             "BRIAN ZELLER: \"Played him like a fiddle.\"",
             "JIMMY PRICE: \"Doesn't seem like he was playing.\"",
             "BEVERLY KATZ: \"Along with rosin powder, we found sodium carbonate, sulfur dioxide, lye and olive oil in the wounds.\"",
@@ -246,7 +371,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE  2"
+            "location": "HANNIBAL\u2019S OFFICE  2",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "HANNIBAL: \"Among the first musical instruments were flutes carved from human bone.\"",
@@ -261,14 +387,14 @@
             "WILL GRAHAM: \"Authentic?\"",
             "HANNIBAL: \"Olive oil hasn't been used in the production of catgut for over a century. It was said to increase the life of the strings and create a sweeter, more melodic sound. That doesn't sit well with Will.\"",
             "WILL GRAHAM: \"I can hear what he was playing behind my eyes, when I close them.\"",
-            "HANNIBAL: \"What do you see behind closed eyes? decides to do it honestly:\"",
+            "HANNIBAL: \"What do you see behind closed eyes? decides to do ithonestly:\"",
             "WILL GRAHAM: \"I see myself.\"",
             "HANNIBAL: \"You said the killer was performing. Who was he performing for?\"",
             "WILL GRAHAM: \"I don't know. Patron of the arts. Fellow musician. Or another killer.\"",
             "HANNIBAL: \"It's a serenade.\"",
             "WILL GRAHAM: \"One night only.\"",
             "HANNIBAL: \"No repeat performance?\"",
-            "WILL GRAHAM: \"This isn't how he kills. How he kills, he doesn't get caught.\"",
+            "WILL GRAHAM: \"This isn'thow he kills. How he kills, he doesn't get caught.\"",
             "HANNIBAL: \"You believe he risked getting caught for a serenade?\"",
             "WILL GRAHAM: \"I believe he wants to show someone how well he plays.\"",
             "HANNIBAL: \"Intriguing. HANNIBAL His clothes have changed, as has the lighting in the room, but the conversation feels continuous.\""
@@ -280,7 +406,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "HANNIBAL\u2019S OFFICE - THE NEXT MORNING 3"
+            "location": "HANNIBAL\u2019S OFFICE -  3",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "FRANKLYN: \"Remember when I said Tobias was saying dark things?\"",
@@ -298,21 +425,39 @@
         ]
     },
     {
+        "heading": "16      EXT. CHORDOPHONE STRING SHOP - DAY 3                    16",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "CHORDOPHONE STRING SHOP  3",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "haunting melody dancing off violin strings somewhere inside."
+        ]
+    },
+    {
         "heading": "17      INT. CHORDOPHONE STRING SHOP - DAY 3                    17",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "CHORDOPHONE STRING SHOP  3"
+            "location": "CHORDOPHONE STRING SHOP  3",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "Densely stocked with string instruments of all varieties.",
+            "crack, gently silencing the BELL above before it can ring.",
+            "He stands inside the door, listening to the haunting strings.",
+            "as he closes the door. Tobias ENTERS from the back room to",
             "TOBIAS: \"You're Franklyn's therapist. Dr. Lecter.  Nice to see you again.\"",
             "HANNIBAL: \"Is it Tobias?\"",
             "TOBIAS: \"Yes.\"",
             "HANNIBAL: \"Your strings are all gut.\"",
             "TOBIAS: \"I also carry steel and polymer strings, if you prefer.\"",
             "HANNIBAL: \"I prefer gut. Harps found in the tombs of Thebes strung with gut still made music after 2000 years. Wonderful music you were making.\"",
-            "TOBIAS: \"I didn't hear you ring the bell.\"",
+            "TOBIAS: \"I didn'thear you ring the bell.\"",
             "HANNIBAL: \"I didn't want you to stop playing. Was it an original composition?\"",
             "TOBIAS: \"Something I've been writing. You compose?\"",
             "HANNIBAL: \"I discover. Can't impose traditional composition on an instrument that's inherently free form.\"",
@@ -324,10 +469,53 @@
             "HANNIBAL: \"Are those your instruments?\"",
             "TOBIAS: \"The violin. Not the trombone.\"",
             "HANNIBAL: \"It seems we're both comfortable playing between conventional notes. Too bad you don't play the sliphorn. I hear the Orchestra is looking for a new trombonist.\"",
-            "TOBIAS: \"Altogether horrible what happened.\"",
-            "HANNIBAL: \"Not altogether. It's an unfortunate way to leave the symphony, yes, but I can't help thinking the orchestra will be better for it.\"",
+            "TOBIAS: \"Altogether horrible whathappened.\"",
+            "HANNIBAL: \"Not altogether. It's an unfortunate way to leave the symphony, yes, but I can'thelp thinking the orchestra will be better for it.\"",
             "TOBIAS: \"At least the brass section. What brings you here looking for gut?\"",
             "HANNIBAL: \"My harpsichord needs new strings. It's making an awful noise. Perhaps you could help? OFF Tobias, intrigued\""
+        ]
+    },
+    {
+        "heading": "18      EXT. WILL GRAHAM\u2019S HOUSE - NIGHT 3                      18",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE  3",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "TIME-LAPSE ESTABLISHING."
+        ]
+    },
+    {
+        "heading": "19      INT. WILL GRAHAM\u2019S HOUSE - NIGHT 3                      19",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE  3",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "WILL GRAHAM ties a fly, hearing the distant strains of the",
+            "haunting music from the amphitheater. Frustrated, he drops",
+            "the hook, covers his ears, and the music fades. Then he",
+            "hears a faint SCRATCHING noise. Will's eyes open, staring",
+            "into middle distance as he listens. Another SCRATCH-SCRATCH.",
+            "Will looks at the dogs, who sleep soundly. SCRATCH-SCRATCH.",
+            "Will OPENS the front door and listens. SCRATCH.",
+            "There's nothing outside. Will scans the front porch and yard",
+            "before finally closing the door. SCRATCH-SCRATCH-SCRATCH.",
+            "The dogs still don't react, even as Will steps over them,",
+            "searching for the source of the SCRATCHING in the house.",
+            "Will approaches the chimney wall above the fireplace. He",
+            "presses his ear against the brick and listens.",
+            "Nothing.",
+            "Then SCRATCH-SCRATCH-SCRATCH and",
+            "DARKNESS",
+            "CAMERA PULLS OUT OF BLACK to REVEAL a gaping, jagged hole in",
+            "a chimney, surrounded by ruptured plaster and dry wall."
         ]
     },
     {
@@ -336,9 +524,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "WILL GRAHAM\u2019S HOUSE  3"
+            "location": "WILL GRAHAM\u2019S HOUSE  3",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "CAMERA CONTINUES PULLING BACK to FIND Alana Bloom, still",
+            "wearing her coat, and Will Graham, covered in dust and soot,",
+            "gazing in at the jagged hole in the chimney. The dogs are",
+            "all resting on Will's bed on the other side of the room.",
             "ALANA BLOOM: \"What kind of animal was it?\"",
             "WILL GRAHAM: \"Might've been a raccoon.\"",
             "ALANA BLOOM: \"Might've been?\"",
@@ -369,7 +562,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  3"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  3",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "HANNIBAL: \"A late harvest Vidal from Linden.\"",
@@ -399,7 +593,7 @@
             "HANNIBAL: \"I was going to kill you.\"",
             "HANNIBAL: \"I didn't poison you, Tobias. I wouldn't do that to the food. The doorbell RINGS.\"",
             "TOBIAS: \"Expecting someone?\"",
-            "HANNIBAL: \"No. OFF Tobias' steely stare\""
+            "HANNIBAL: \"No. OFF Tobias'steely stare\""
         ]
     },
     {
@@ -408,9 +602,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - MUD ROOM  3"
+            "location": "HANNIBAL\u2019S HOME - MUD ROOM  3",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "his raincoat in the MUD ROOM.",
             "WILL GRAHAM: \"I kissed Alana Bloom.\"",
             "HANNIBAL: \"Come in.\""
         ]
@@ -421,9 +617,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  3"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  3",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "shuts the garden door, locks it and pulls the shades before",
+            "Will can see the footsteps in the snow outside.",
             "WILL GRAHAM: \"Did you have a guest?\"",
             "HANNIBAL: \"A colleague. You just missed him.\"",
             "WILL GRAHAM: \"Didn't finish his dinner.\"",
@@ -436,12 +635,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - KITCHEN  3"
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  3",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "Ramekins overflowing with an exotic bread pudding.",
             "HANNIBAL: \"Tell me, what was Alana's reaction?\"",
             "WILL GRAHAM: \"She said she wouldn't be good for me and I wouldn't be good for her.\"",
-            "HANNIBAL: \"I don't disagree.  She would feel an obligation to her field of study to observe you. And you would resent her for it.\"",
+            "HANNIBAL: \"I don't disagree.  She would feel an obligation to her field of study to observe you. And you would resenther for it.\"",
             "WILL GRAHAM: \"I know.\"",
             "HANNIBAL: \"Wondering then why you kissed her and felt compelled to drive an hour in the snow to tell me about it.\"",
             "WILL GRAHAM: \"Wanted to kiss her since I met her.\"",
@@ -450,7 +651,7 @@
             "HANNIBAL: \"What did she know, Will?\"",
             "WILL GRAHAM: \"There wasn't an animal in the chimney. It was only in my head.\"",
             "HANNIBAL: \"Did she say that?\"",
-            "WILL GRAHAM: \"She didn't have to. I sleep walk. I get headaches. I'm hearing things.  I feel unstable.\"",
+            "WILL GRAHAM: \"She didn't have to. I sleep walk. I getheadaches. I'm hearing things.  I feel unstable.\"",
             "HANNIBAL: \"That's why you kissed her. A clutch for balance.\"",
             "WILL GRAHAM: \"Because I'm losing mine.\"",
             "HANNIBAL: \"You said yourself what you do is not good for you.\"",
@@ -469,7 +670,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "BEDELIA\u2019S HOME OFFICE  4"
+            "location": "BEDELIA\u2019S HOME OFFICE  4",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "BEDELIA: \"Is there someone new in your life?\"",
@@ -481,7 +683,7 @@
             "BEDELIA: \"Whose friendship are you considering?\"",
             "HANNIBAL: \"Oddly enough, a colleague and a patient. Not unlike how I am a colleague and patient of yours. We've discussed him before.\"",
             "BEDELIA: \"Will Graham.\"",
-            "HANNIBAL: \"He's nothing like me. We see the world in different ways, yet he can assume my point of view.\"",
+            "HANNIBAL: \"He's nothing like me. We see the world in different ways, yethe can assume my point of view.\"",
             "BEDELIA: \"How has he demonstrated that?\"",
             "HANNIBAL: \"He's demonstrated the capacity.\"",
             "BEDELIA: \"By profiling the criminally insane?\"",
@@ -496,14 +698,33 @@
         ]
     },
     {
+        "heading": "26      EXT. CHORDOPHONE STRING SHOP - DAY 4                    26",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "CHORDOPHONE STRING SHOP  4",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "Will Graham is flanked by TWO LOCAL BALTIMORE POLICE OFFICERS",
+            "as he approaches the front door."
+        ]
+    },
+    {
         "heading": "27      INT. CHORDOPHONE STRING SHOP - DAY 4                    27",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "CHORDOPHONE STRING SHOP  4"
+            "location": "CHORDOPHONE STRING SHOP  4",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "The BELL above the door RINGS as Will ENTERS, followed by the",
+            "TWO BALTIMORE POLICE OFFICERS - STEWART and DORMAU.",
+            "Tobias is escorting the PRE-TEEN CELLO PLAYER seen earlier",
+            "out from the parlor behind the storefront.",
             "WILL GRAHAM: \"I'm Special Agent Will Graham with the FBI. Are you the owner here?\"",
             "TOBIAS: \"Yes, Tobias Budge. I'm just showing one of my students out. Can you give me a moment? Will nods. Tobias guides Pre-Teen Cello Player out the door.\"",
             "TOBIAS: \"JSB's Suite #1 for Saturday.\"",
@@ -524,9 +745,28 @@
             "WILL GRAHAM: \"More authentic.\"",
             "TOBIAS: \"A richer, darker sound. Allows music to say what words can't. Then a HORRIBLE SKIDDING NOISE from outside followed by a SICKENING THUMP and the PAINED CRY of a DOG. Will startles.\"",
             "TOBIAS: \"Something wrong?\"",
-            "WILL GRAHAM: \"Sounded like a dog got hit by a car.  You didn't hear it?\"",
-            "OFFICER STEWART: \"I didn't hear anything. Tobias and the other Police Officer shake their heads \"no,\" they didn't hear anything either. Another WIMPERED CRY.\"",
+            "WILL GRAHAM: \"Sounded like a dog gothit by a car.  You didn'thear it?\"",
+            "OFFICER STEWART: \"I didn'thear anything. Tobias and the other Police Officer shake their heads \"no,\" they didn'thear anything either. Another WIMPERED CRY.\"",
             "WILL GRAHAM: \"Excuse me a minute. Tobias strums the strings of the cello he just straightened as he watches Will cross to the door and EXIT.\""
+        ]
+    },
+    {
+        "heading": "28      EXT. CHORDOPHONE STRINGS SHOP - DAY 4 - CONTINUOUS      28",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "CHORDOPHONE STRINGS SHOP  4",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "Will steps out of the shop and down the walkway, his eyes",
+            "searching the street for any sign of a commotion or wounded",
+            "animal.  He sees nothing. He hears nothing.",
+            "A PEDESTRIAN eyes Will and keeps moving. Will shakes out",
+            "aspirin into his hand and tosses them back, swallowing hard.",
+            "He rubs his forehead and squints at the snow, worried.",
+            "Finally, he trudges back toward"
         ]
     },
     {
@@ -535,12 +775,92 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "CHORDOPHONE STRINGS SHOP  4"
+            "location": "CHORDOPHONE STRINGS SHOP  4",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "Will Graham ENTERS and is quick to apologize.",
             "WILL GRAHAM: \"Sorry about that. I -- The store is empty. Approaching the counter, he pauses.\"",
             "WILL GRAHAM: \"Officers. Officers. Will simultaneously retrieves weapon and phone.\"",
             "WILL GRAHAM: \"I need ERT at Chordophone Strings downtown Baltimore. Officers down. Will Graham steps behind the counter and slips into --\""
+        ]
+    },
+    {
+        "heading": "30      INT. CHORDOPHONE STRING SHOP - PARLOR - CONTINUOUS      30",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "CHORDOPHONE STRING SHOP - PARLOR",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "The private room for lessons seen earlier. Will enters to",
+            "find OFFICER STEWART tumbled over the piano bench, a CELLO",
+            "ROD jammed under his neck through the top of his head.",
+            "Then suddenly, Will hears a strange noise coming from a the",
+            "depths of an obscured STAIRCASE.",
+            "SCRATCH-SCRATCH-SCRATCH",
+            "CLOSE ON WILL",
+            "Trying to decipher the sound. Gun out in front of him, he",
+            "moves into the darkness of the stairs until it swallows him."
+        ]
+    },
+    {
+        "heading": "31      INT. CHORDOPHONE STRING SHOP - BASEMENT - CONTINUOUS    31",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "CHORDOPHONE STRING SHOP - BASEMENT",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "Will hugs the wall. He waits till his eyes adjust to the dim",
+            "light of a single light bulb. But the smell tells him before",
+            "his eyes can verify what his brain already knows.",
+            "This is where Tobias Budge makes his own catgut strings.",
+            "ROPES OF INTESTINES",
+            "Running the length of the room, drying. Lying in long",
+            "cleansing troughs of water. Cut strings lying in piles like",
+            "pasta in pans on a table. An eerie and horrible MAZE OF",
+            "STRINGS in various stages of treatment.",
+            "CLOSE ON WILL",
+            "And then he hears it again.",
+            "Scratch-scratch-scratch",
+            "It's coming from behind an opaque curtain hanging from the",
+            "ceiling in the corner of the basement. Will approaches",
+            "cautiously and then slips almost falling.",
+            "He glances down to see what he stepped on. It is OFFICER",
+            "DORMAU'S BADGE in a pool of blood.",
+            "ON WILL",
+            "He throws back the curtain to find Officer Dormau on his",
+            "knees, dangling forward, supported by a SERIES OF RAZOR SHARP",
+            "WIRE STRINGS cutting DEEP INTO HIS FACE AND NECK.",
+            "The Scratch-Scratch-Scratching SOUND was his intacthand",
+            "swinging, rubbing against the cement floor -- while his",
+            "severed and sliced hand whisks back and forth unobstructed.",
+            "Scratch-scratch-scratch.",
+            "Will doesn't allow himself to be distracted long, turning and",
+            "scanning the area for any signs of Tobias Budge.",
+            "A BLUR OF MOVEMENT out of the corner of Will's eye. Tobias",
+            "loops a MULTI-WIRED WEAPON (imagine a TWO BRASS KNUCKLES",
+            "connected by FOUR RAZOR SHARP STRINGS) over Will's head.",
+            "Will raises an arm defensively over his face and throat, but",
+            "the STRINGS CUT into him regardless. His gun comes up,",
+            "FIRING next to his own ear and blowing TOBIAS'ear off.",
+            "The BANG is deafening, literally. Will's HEARING GOES DARK",
+            "AND MUDDY, as he reels from the pain. He clutches his ear",
+            "with his bloody hand, spinning to find Tobias clutching his",
+            "own bloody ear. Will raises the gun to fire again and",
+            "Tobias is already moving, scurrying out of sight. BLAM!",
+            "Will FIRES, missing Tobias and blowing a hole in the wall.",
+            "BLAM! BLAM! Tobias quickly climbs the stairs and disappears.",
+            "Will stands there a moment, shaking, as the RINGING in his",
+            "ear is slowly replaced by the RINGING OF SIRENS.",
+            "FRANKLYN",
+            "He is in deep thought, as his fingers count the number of",
+            "whatever he is mulling. Four, five, six"
         ]
     },
     {
@@ -549,9 +869,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE  4"
+            "location": "HANNIBAL\u2019S OFFICE  4",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "count on his fingers, until, seven, eight, nine, and finally:",
             "FRANKLYN: \"Nine times. I can count on two hands the number of times I've been dumped by a psychiatrist.\"",
             "HANNIBAL: \"I'm sorry, Franklyn, I think it's best if you see another doctor.\"",
             "FRANKLYN: \"You're giving me a referral.\"",
@@ -578,11 +900,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL'S OFFICE  4"
+            "location": "HANNIBAL'S OFFICE  4",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "CLOSE ON Franklyn, dead on the floor. CAMERA PANS UP to find",
             "TOBIAS: \"I was looking forward to that.\"",
-            "HANNIBAL: \"I know. We HOLD this incredibly tense beat. And then the phone RINGS.  It's loud and shrill. Jarring our senses. OF TOBIAS' HEAD. Tobias recovers, slashes the air with a raises his forearm to block it and it shreds his coat arm. ON HANNIBAL Moving quickly, he closes the distance between them neutralizing the wire. Dropping low, he thrusts an open palm toward Tobias's mid- section, then allows his hand to glide up his nemesis's chest toward his vulnerable chin in a perfectly realized Omega punch/strike technique. Tobias deflects the death blow at the last second and locks advantage against him and tosses Tobias over the desk, slamming into the support column hard. around Tobias' throat and pulling tight. ON TOBIAS around him increasing the tension on the garrote. In the struggle, Tobias's hands finds a LETTER OPENER. He slides it sprawling backwards. Tobias goes after him. It's brutal and incredibly violent as elbows and knees deliver bone crunching devastation in-between the jabbing and slashing of Tobias' letter opener. from elbow to wrist with the tip of a ballpoint pen leaving a jagged, bloody wound. Tobias CRIES OUT as his weapon tumbles from his hand. ON HANNIBAL He moves in tight wanting to finish this quickly. As he thrusts his pen towards Tobias's throat, he is surprised by a sharp blow to his carotid artery and stumbles back, his blood pressure momentarily dropping as his brain tries to reboot. TOBIAS ON HANNIBAL Holding on to consciousness, he catches one of Tobias's arms and breaks it at the elbow. feet.  Bruised and battered, he retrieves the HEAVY METAL STAG STATUE from its pedestal, bringing it down violently on from exhaustion, battered and bloodied.\""
+            "HANNIBAL: \"I know. We HOLD this incredibly tense be at. And then the phone RINGS.  It's loud and shrill. Jarring our senses. OF TOBIAS'HEAD. Tobias recovers, slashes the air with a raises his forearm to block it and it shreds his coat arm. ON HANNIBAL Moving quickly, he closes the distance between them neutralizing the wire. Dropping low, he thrusts an open palm toward Tobias's mid- section, then allows his hand to glide up his nemesis's chest toward his vulnerable chin in a perfectly realized Omega punch/strike technique. Tobias deflects the death blow at the last second and locks advantage againsthim and tosses Tobias over the desk, slamming into the support column hard. around Tobias'throat and pulling tight. ON TOBIAS around him increasing the tension on the garrote. In the struggle, Tobias's hands finds a LETTER OPENER. He slides it sprawling backwards. Tobias goes after him. It's brutal and incredibly violent as elbows and knees deliver bone crunching devastation in-between the jabbing and slashing of Tobias'letter opener. from elbow to wrist with the tip of a ballpoint pen leaving a jagged, bloody wound. Tobias CRIES OUT as his weapon tumbles from his hand. ON HANNIBAL He moves in tight wanting to finish this quickly. As he thrusts his pen towards Tobias's throat, he is surprised by a sharp blow to his carotid artery and stumbles back, his blood pressure momentarily dropping as his brain tries to reboot. TOBIAS ON HANNIBAL Holding on to consciousness, he catches one of Tobias's arms and breaks it at the elbow. feet.  Bruised and battered, he retrieves the HEAVY METAL STAG STATUE from its pedestal, bringing it down violently on from exhaustion, battered and bloodied.\""
         ]
     },
     {
@@ -591,9 +915,18 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HANNIBAL\u2019S OFFICE - MINUTES LATER"
+            "location": "HANNIBAL\u2019S OFFICE - MINUTES",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
+            "OFFICERS, DETECTIVES and EMERGENCY RESPONDERS . The",
+            "corpses of Tobias and Franklyn lie sadly amongst the debris.",
+            "CAMERA FINDS",
+            "HANNIBAL",
+            "He's being treated by a PARAMEDIC, bandaging his arm and",
+            "distance until he sees Will ENTER, also with bandaged arm,",
+            "Jack Crawford at his side.",
+            "Will eyes the BLOODY STAG STATUE next to Tobias'dead body.",
             "HANNIBAL: \"Mr. Budge said he was questioned by the FBI and he murdered two men. I was worried you were dead. Will demonstrates his own wounded arm.\"",
             "WILL GRAHAM: \"You had reason to worry.\"",
             "JACK CRAWFORD: \"Tobias Budge kills two Baltimore Police Officers, nearly kills an FBI Special Agent, and after all that his first stop is your office.\"",
@@ -606,7 +939,20 @@
             "HANNIBAL: \"I thought this was a simple matter of poor choice in friends. to the crime scene and the TWO BODIES being wheeled out.\"",
             "JACK CRAWFORD: \"This doesn't feel simple. Jack moves off to study the crime scene as Will sits, taking\"",
             "WILL GRAHAM: \"I feel like I've dragged you into my world.\"",
-            "HANNIBAL: \"I got here on my own. But I appreciate the company.\""
+            "HANNIBAL: \"I gothere on my own. But I appreciate the company.\""
+        ]
+    },
+    {
+        "heading": "35      EXT. BEDELIA\u2019S HOME - MORNING 5                         35",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "MORNING",
+            "location": "BEDELIA\u2019S HOME  5",
+            "episode": "Hannibal_1x08_Fromage"
+        },
+        "content": [
+            "TIME-LAPSE ESTABLISHING."
         ]
     },
     {
@@ -615,7 +961,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "BEDELIA\u2019S HOME OFFICE  5"
+            "location": "BEDELIA\u2019S HOME OFFICE  5",
+            "episode": "Hannibal_1x08_Fromage"
         },
         "content": [
             "HANNIBAL: \"I'm going to start seeing patients again.  It's strange thinking about going back to daily practice.\"",
@@ -623,7 +970,7 @@
             "HANNIBAL: \"Patients will sit where Franklyn died.  I will sit where I almost died.  And I will offer therapy.\"",
             "HANNIBAL: \"It's easy to understand why you retired after you were attacked. Will you ever feel comfortable returning to psychiatric work?\"",
             "BEDELIA: \"This is psychiatric work.\"",
-            "HANNIBAL: \"One patient isn't a practice.  I can't help feeling responsible for what happened to Franklyn.\"",
+            "HANNIBAL: \"One patient isn't a practice.  I can'thelp feeling responsible for whathappened to Franklyn.\"",
             "BEDELIA: \"Every person has an intrinsic responsibility for their own life, that responsibility. Not even you.\"",
             "HANNIBAL: \"Did you take responsibility when you were attacked by your patient?\"",
             "BEDELIA: \"Yes.  But I don't take responsibility for his death.\"",

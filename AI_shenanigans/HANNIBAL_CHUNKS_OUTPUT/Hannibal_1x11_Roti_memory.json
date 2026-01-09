@@ -1,9 +1,32 @@
 [
     {
         "heading": "START",
-        "metadata": {},
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "UNKNOWN",
+            "episode": "Hannibal_1x11_Roti"
+        },
         "content": [
+            "\"R\u00f4ti\"",
+            "and",
+            "&",
+            "Scott Nimerfro",
             "\"R\u00f4ti\""
+        ]
+    },
+    {
+        "heading": "1       EXT. WILL GRAHAM\u2019S HOUSE - NIGHT 1                       1",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE  1",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "TIME-LAPSE ESTABLISHING."
         ]
     },
     {
@@ -12,9 +35,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "WILL GRAHAM\u2019S HOUSE - LIVING ROOM  1"
+            "location": "WILL GRAHAM\u2019S HOUSE - LIVING ROOM  1",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "The PACK OF DOGS are gathered around the heat lamp in the",
+            "fireplace. CAMERA FINDS WILL GRAHAM sleeping fitfully in his",
+            "bed, drenched with sweat. His fevered brow beads and runs.",
+            "A GLASS OF WATER",
+            "Sweating as it distorts the flickering flame of a FIREPLACE.",
+            "CAMERA FINDS HANNIBAL.",
             "HANNIBAL: \"Someone who already doubts their own identity can be more susceptible to manipulation.\""
         ]
     },
@@ -24,16 +54,18 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  1"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  1",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "intestines, lovingly displayed in a sculpted banana leaf.",
             "HANNIBAL: \"Dr. Gideon is a psychopath. Psychopaths are narcissists. They rarely doubt who they are.\"",
             "DR. CHILTON: \"Tried to appeal to his narcissism.\"",
-            "HANNIBAL: \"By convincing him he was the Chesapeake Ripper. Dr. Chilton realizes he's gotten himself into trouble.\"",
+            "HANNIBAL: \"By convincing him he was the Chesapeake Ripper. Dr. Chilton realizes he's gotten himselfinto trouble.\"",
             "DR. CHILTON: \"If only I had been more curious about the common mind.\"",
             "HANNIBAL: \"I have no interest in understanding sheep.  Only eating them.  Kudal.  A South Indian curry. Made from sheep, of course. In a coconut-coriander-chili sauce.\"",
             "DR. CHILTON: \"Feels like a last supper.\"",
-            "HANNIBAL: \"You're not the only psychiatrist a patient has accused of making them kill.  Poke around a psychopath's mind, bound to get poked back.\"",
+            "HANNIBAL: \"You're not the only psychiatrist a patienthas accused of making them kill.  Poke around a psychopath's mind, bound to get poked back.\"",
             "DR. CHILTON: \"What would you do in my position?\"",
             "HANNIBAL: \"Deny everything.\"",
             "DR. CHILTON: \"I thought psychic driving would have been more effective in breaking down his personality.\"",
@@ -43,17 +75,84 @@
         ]
     },
     {
+        "heading": "4       INT. WILL GRAHAM\u2019S HOUSE - LIVING ROOM - NIGHTMARE       4",
+        "metadata": {
+            "is_dream": true,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "WILL GRAHAM\u2019S HOUSE - LIVING ROOM MARE",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "CAMERA PULLS BACK from fever-dreaming Will to REVEAL THE",
+            "BLACK STAG looming over him."
+        ]
+    },
+    {
         "heading": "5       INT. HANNIBAL\u2019S HOME - DINING ROOM - NIGHT 1             5",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  1"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  1",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
             "HANNIBAL: \"Once a patient is exposed to the method of the manipulation, it becomes much less effective.\"",
-            "DR. CHILTON: \"When Dr. Gideon began to suspect he was being pushed\"",
+            "DR. CHILTON: \"When Dr. Gideon began to suspecthe was being pushed\"",
             "HANNIBAL: \"he pushed back. The subject mustn't be aware of any influence. The only motivation one needs is loneliness or mild depression.\""
+        ]
+    },
+    {
+        "heading": "6       INT. WILL GRAHAM\u2019S HOUSE - LIVING ROOM - NIGHT 1         6",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE - LIVING ROOM  1",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Will opens his eyes. He's alone in bed.",
+            "THE ALARM CLOCK - SLOW MOTION",
+            "The numbers flicker as WATER begins to run out of the clock",
+            "case, pouring out from the seams and from around the buttons.",
+            "ON WILL GRAHAM",
+            "WATER pools around him, too, running out of his pores.",
+            "ANGLE - UNDER THE BED",
+            "WATER spills over the edge of his mattress.",
+            "ON WILL GRAHAM",
+            "He loses his form completely in a SPLASH."
+        ]
+    },
+    {
+        "heading": "7       REALITY                                                  7",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "REALITY",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Will wakes with a start. No BLACK STAG. No water.",
+            "Although, he is entirely drenched in sweat.",
+            "HANDCUFFS click TIGHT on wrists."
+        ]
+    },
+    {
+        "heading": "8       INT. BSHCI - ENTRANCE - DAY 2                            8",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "BSHCI - ENTRANCE  2",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "DR. GIDEON, wearing a JUMPSUIT, ANKLE IRONS connected to a",
+            "BELT CHAIN, which his WRIST CUFFS are attached to, escorted",
+            "by TWO OFFICERS (Prisoner Transport) and a MALE NURSE."
         ]
     },
     {
@@ -62,10 +161,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "BSHCI - YARD  2"
+            "location": "BSHCI - YARD  2",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
-            "DR. GIDEON: \"You get to dress up and I don't. This might affect how well my testimony goes over with the judge.\"",
+            "Chilton waits beside a PRISON VAN with a PT DRIVER.",
+            "Doors OPEN and GIDEON is SHUFFLED out by the PT OFFICER and",
+            "NURSE.  GIDEON raises his head and takes a breath, rolls his",
+            "head in the breeze. CHILTON waits by the PRISON VAN.",
+            "DR. GIDEON: \"You get to dress up and I don't. This might affecthow well my testimony goes over with the judge.\"",
             "DR. CHILTON: \"Testimony will speak for itself. The back of the van is a cubicle for prisoners along one wall, opposite a bench seat running along the other side.\"",
             "DR. GIDEON: \"Fredrick, don't look so worried. I forgive you your trespasses.\"",
             "DR. CHILTON: \"What trespasses are those?\"",
@@ -79,14 +183,32 @@
         ]
     },
     {
+        "heading": "10      EXT. ROAD - DAY 2                                       10",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "ROAD  2",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "WIDE VIEW of a ROAD cutting through countryside. The PRISON",
+            "VAN drives through FRAME."
+        ]
+    },
+    {
         "heading": "11      INT. PRISON TRANSPORT VAN - DAY 2                       11",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PRISON TRANSPORT VAN  2"
+            "location": "PRISON TRANSPORT VAN  2",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Gideon looks at the PT OFFICER opposite him, glancing at the",
+            "MALE NURSE, then back to the PT OFFICER. Gideon cranes his",
+            "neck to see the RING on the PT OFFICER's marriage finger.",
             "DR. GIDEON: \"How long have you been married?  That long? The PT OFFICER doesn't blink.\"",
             "DR. GIDEON: \"Regarding divorce, not that you're getting one, but the odds are in its favor. Word of advice.  It's always easier to kill them. And anyone else sitting at the table. Thank god we didn't have children. I would've never forgiven myself. Gideon shakes off that unfortunate thought, pressing on.\"",
             "DR. GIDEON: \"I'm sure your wife is fantastic. My wife was a horrible woman. She once made a poor fashion choice regarding her hair. To avoid embarrassment she wore a wig and told people she had cancer.\"",
@@ -96,14 +218,69 @@
         ]
     },
     {
+        "heading": "12      EXT. ROAD - DAY 2                                       12",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "ROAD  2",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "CAMERA FOLLOWS the PRISON VAN as it drives along the road.",
+            "SUDDENLY -- BLOOD splats against the inside of the rear",
+            "window of the PRISON VAN.",
+            "The PRISON VAN starts to BRAKE and we are RACING towards the",
+            "back doors and the bloody windows as we -",
+            "CLOSE ON WILL GRAHAM - SLOW MOTION",
+            "REFLECTIVE LIGHT flashes across Will, bleached by the",
+            "daylight.  All SOUND IS DULLED and the AMBIENT NOISE of",
+            "Will's body provides an organic hum. LOCAL COPS and FBI",
+            "secure the scene. An AMBULANCE and PARAMEDIC standby."
+        ]
+    },
+    {
+        "heading": "13      EXT. ROAD - PRISON TRANSPORT VAN CRIME SCENE - DAY 2    13",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "ROAD - PRISON TRANSPORT VAN CRIME SCENE  2",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Behind Will is the PRISON TRANSPORT VAN, it's doors open,",
+            "spattered with blood and debris. Will closes his eyes.",
+            "It swings in the darkness of Will Graham's mind, keeping",
+            "rhythm with his heart be at. FWUM.  FWUM. FWUM.",
+            "ON WILL GRAHAM",
+            "His eyes are closed. The PENDULUM is now outside his head.",
+            "It swings behind Will, wiping away in its wake the LOCAL COPS",
+            "and FBI AGENTS. FWUM.  The PENDULUM swings again and the",
+            "AMBULANCE and PARAMEDIC are gone. FWUM. FWUM.",
+            "He opens his eyes and walks BACKWARDS toward the Prison Van.",
+            "BACKING into the Prisoner Holding area and sitting down.",
+            "FWUM.  The doors close behind him taking us to:"
+        ]
+    },
+    {
         "heading": "14      INT. PRISON TRANSPORT VAN - DAY 2                       14",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PRISON TRANSPORT VAN  2"
+            "location": "PRISON TRANSPORT VAN  2",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Will sits where Gideon was sitting. The PENDULUM swings",
+            "across the BLOOD-STAINED walls and doors, lifting the blood.",
+            "FWUM.  The PENDULUM swings and the pool of blood on the floor",
+            "has vanished. Will glances at the bench next to him to see a",
+            "small torn piece of flesh and a smear of blood. FWUM. Gone.",
+            "ON WILL GRAHAM",
+            "He glances up to see the PT OFFICER sitting opposite him and",
+            "the NURSE sitting on the adjacent bench.",
             "WILL GRAHAM: \"All I need is to get one hand free. They watch Will, who glances at the bench next to him where the small torn piece of flesh and smear of blood once were. Slamming his hand into the bench, Will dislocates his own THUMB and quickly slides his hand free of the cuff. The PT OFFICER sees this and moves to stop him as Will quickly pops his thumb back into place. The PT Officer lands a blow to Will's head, before Will pulls him to the bench in a choke hold. The NURSE attempts to intercede and a vicious battle ensues. But Will kicks the Nurse back, pins the PT OFFICER to the roof of the van with his leg shackles, choking the man out. The man falls to the floor dead allowing Will to flip the Nurse onto the floor of the van. He takes THE FREE HANDCUFF and DRIVES deep INTO the Nurse's neck. Will pulls on it and the man's throat is ripped out in a gush of blood that sprays the inside of the back door windows. The vehicle lurches to a stop and suddenly, the BACK DOORS OPEN, blinding Will momentarily, then Will SPRINGS.\""
         ]
     },
@@ -113,9 +290,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "ROAD - PRISON TRANSPORT VAN CRIME SCENE  2"
+            "location": "ROAD - PRISON TRANSPORT VAN CRIME SCENE  2",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Will steps out of the back of the Prison Transport Van where",
+            "JACK CRAWFORD is waiting for him.",
             "JACK CRAWFORD: \"Does Abel Gideon still believe he's the Chesapeake Ripper?\"",
             "WILL GRAHAM: \"Abel Gideon's having a difference of opinion regarding who he is.\"",
             "JACK CRAWFORD: \"This is either Kabuki or some dissociative identity disorder. Will glances back at the bloody Prison Transport Van.\"",
@@ -127,7 +307,7 @@
             "JIMMY PRICE: \"He even tied little bows with them.\"",
             "BRIAN ZELLER: \"Pretty impressive for an arterectomy performed with the contents of a first aid kit.  And a dipstick. He bags the dipstick as evidence.\"",
             "WILL GRAHAM: \"The Chesapeake Ripper wouldn't have left the organs behind.\"",
-            "JACK CRAWFORD: \"If Gideon isn't the Chesapeake Ripper, he's certainly trying to get his attention. As Jimmy Price leans in, takes a photograph\"",
+            "JACK CRAWFORD: \"If Gideon isn't the Chesapeake Ripper, he's certainly trying to gethis attention. As Jimmy Price leans in, takes a photograph\"",
             "BEVERLY KATZ: \"Local PD's picked up a foot trail leading out of the woods. Boot soles were consistent with what we found at the crime scene.\"",
             "JACK CRAWFORD: \"How fresh were the tracks?\"",
             "BEVERLY KATZ: \"Two, three hours old.\"",
@@ -142,9 +322,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "BSHCI - CHILTON\u2019S OFFICE  2"
+            "location": "BSHCI - CHILTON\u2019S OFFICE  2",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Will and Alana stand before Chilton --",
             "WILL GRAHAM: \"You did dodge a bullet. Gideon's escape foregoes a trial. And a very public humiliation for you.\"",
             "DR. CHILTON: \"Now you're hosting a private one. Next you'll be accusing me of arranging his escape.\"",
             "ALANA BLOOM: \"Nobody's making that accusation.\"",
@@ -152,7 +334,7 @@
             "ALANA BLOOM: \"According to Gideon, you were.\"",
             "DR. CHILTON: \"After you told him I was. You thought I was manipulating him? He was manipulating you. All this litigious lather you've worked up gave him the opportunity to escape.\"",
             "ALANA BLOOM: \"You were pushing him.\"",
-            "DR. CHILTON: \"He gave me informed consent to treat him. Said he was grateful for my help understanding who he is.\"",
+            "DR. CHILTON: \"He gave me informed consent to treathim. Said he was grateful for my help understanding who he is.\"",
             "WILL GRAHAM: \"What did you help him understand?\"",
             "DR. CHILTON: \"He wasn't insane when he killed his wife. Killing her drove him insane. He disassociated from the previous murders he committed. I didn't convince him he's a serial killer. I just reminded him of the fact.\"",
             "WILL GRAHAM: \"Gideon is not the Chesapeake Ripper although he may have thought he was while under your care, Doctor.\"",
@@ -172,13 +354,19 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - CONFERENCE ROOM  2"
+            "location": "B.A.U. - CONFERENCE ROOM  2",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "The room has been transformed into a command center for the",
+            "Gideon Manhunt. Area MAPS and INFO about DR. GIDEON have",
+            "been pinned to the walls for reference. Multiple PHOTOGRAPHS",
+            "of GIDEON are on display for reference. ROWS and ROWS and",
+            "ROWS of FBI AGENTS listen intently to Jack's brief:",
             "JACK CRAWFORD: \"Transplant Surgeon. Convicted first degree in the murders of his wife and her family. Institutionalized at the Baltimore State Hospital for the Criminally Insane where he murdered a nurse and claimed to be the Chesapeake Ripper. A man apart, Will leans against the wall at the back of the room, observing the other AGENTS as they listen to Jack.\"",
             "JACK CRAWFORD: \"Dr. Gideon escaped this morning after killing two police transport officers and a hospital attendant. He is armed and dangerous. Will winces at the BUZZING overhead lights, a bead of sweat makes its way out of his hairline down his cheek. JACK'S VOICE begins to VIBRATE at the same frequency of the BUZZ.\"",
             "JACK CRAWFORD: \"He's believed to be at large in the greater Baltimore area. As CAMERA PUSHES IN ON Will, all SOUND DROPS OUT. The AMBIENT NOISE of Will's circulatory system provides an organic hum, his HEART BEATING FAINT AND FAST. Will wipes the sweat from his brow, glancing up. CAMERA REVEALS THE ROOM IS FILLED WITH ANTLERS. They are mounted to every surface of the walls, branching out from the chairs where Agents once sat but are no longer there.  ON JACK CRAWFORD - SLOWER MOTION He's the only other man in the room. CAMERA PULLS BACK as Jack speaks M.O.S., the twisting antlers pushing into FRAME like thorny branches, wrapping around Will's point of view. Jack looks at Will, his voice cutting through the bramble:\"",
-            "JACK CRAWFORD: \"He will kill again. Will is snapped from his schism by a sharp WORD from Jack. WE ARE BACK TO . The briefing has ended and the VARIOUS FBI AGENTS are moving into action. CAMERA REVEALS Jack Crawford standing on the other side of the room, conferring with FBI AGENTS. He glances at Will. Will resets to NORMAL, his mind resuming synch with the room. He nods to Jack, who registers Will's odd state with unease.\"",
+            "JACK CRAWFORD: \"He will kill again. Will is snapped from his schism by a sharp WORD from Jack. WE ARE BACK TO. The briefing has ended and the VARIOUS FBI AGENTS are moving into action. CAMERA REVEALS Jack Crawford standing on the other side of the room, conferring with FBI AGENTS. He glances at Will. Will resets to NORMAL, his mind resuming synch with the room. He nods to Jack, who registers Will's odd state with unease.\"",
             "HANNIBAL V.O.: \"What did you see?\""
         ]
     },
@@ -188,7 +376,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE  2"
+            "location": "HANNIBAL\u2019S OFFICE  2",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
             "WILL GRAHAM: \"A thicket of antlers. All I heard was my heart dim but fast, like footsteps fleeing into silence.\"",
@@ -221,9 +410,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - MORGUE  3"
+            "location": "B.A.U. - MORGUE  3",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Jack is with Will Graham. Zeller, Price and Katz are",
+            "with the bodies of the PT OFFICER and MALE NURSE on trays",
+            "that have been slid out of open morgue drawers.",
             "BEVERLY KATZ: \"Gideon didn't leave a manifesto. We confiscated all correspondences he got from outside admirers. We're going through everything now.\"",
             "JIMMY PRICE: \"Any secret communiques or coded messages written in bodily fluids or anything else, we'll find them.\"",
             "WILL GRAHAM: \"You won't find anything. Whatever Gideon's up to is all in his head. ANGLE TO INCLUDE A CLOSED MORGUE DRAWER Will notices a trickle of water streaming out of the seam. Brian Zeller sorts through ORGANS in STERILE bags, wrapped in narrow cords, until he finds two containers of gray matter.\"",
@@ -245,9 +438,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - LECTURE HALL  3"
+            "location": "F.B.I. ACADEMY - LECTURE HALL  3",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Will Graham swims upstream through the crowd of EXITING FBI",
+            "TRAINEES leaving the lecture hall. Alana Bloom stands behind",
+            "the desk looking through her papers as he gathers them up.",
             "ALANA BLOOM: \"Are you my protective custody?\"",
             "WILL GRAHAM: \"You heard?\"",
             "ALANA BLOOM: \"I heard I get an armed escort until Gideon is apprehended.\"",
@@ -262,7 +459,7 @@
             "WILL GRAHAM: \"Whatever happens to him, has nothing to do with you.\"",
             "ALANA BLOOM: \"Gideon's not completely responsible for his actions if he was subjected to an outside influence.\"",
             "WILL GRAHAM: \"Like Dr. Chilton telling him he's the Chesapeake Ripper?\"",
-            "ALANA BLOOM: \"Like me telling him he's not in a state of mind to know who he is. She can't help but hold herself slightly accountable.\"",
+            "ALANA BLOOM: \"Like me telling him he's not in a state of mind to know who he is. She can'thelp buthold herself slightly accountable.\"",
             "ALANA BLOOM: \"What do you think will happen if he finds the Ripper?\"",
             "WILL GRAHAM: \"The Chesapeake Ripper will kill him.  He took credit for his work. Ripper would consider that rude.\""
         ]
@@ -273,9 +470,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "FREDDIE LOUNDS\u2019 CAR  3"
+            "location": "FREDDIE LOUNDS\u2019 CAR  3",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Freddie Lounds winces through the falling snow at the traffic",
+            "ahead.  The telephone rings and she hits the SPEAKER.",
             "FREDDIE LOUNDS: \"Freddie Lounds -\"",
             "MALE VOICE: \"Miss Lounds, my name is Paul Carruthers, I'm a psychiatrist. I read your article on Abel Gideon. Freddie's eyes light up with recognition --\"",
             "FREDDIE LOUNDS: \"And I yours, Dr. Carruthers.\"",
@@ -296,9 +496,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "DR. CARRUTHERS\u2019 OFFICE - WAITING AREA  3"
+            "location": "DR. CARRUTHERS\u2019 OFFICE - WAITING AREA  3",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Empty waiting area. Freddie Lounds steps in from a corridor",
+            "to find she's all alone.",
             "FREDDIE LOUNDS: \"Hello?  Dr. Carruthers? She glances down an hall and looks for the proper door.\""
         ]
     },
@@ -308,10 +511,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "DR. CARRUTHERS\u2019 OFFICE  3"
+            "location": "DR. CARRUTHERS\u2019 OFFICE  3",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
-            "DR. GIDEON: \"Ms Lounds, please let yourself in! Across the room, the door opens -- ON FREDDIE As she enters, her face falls in UTTER SHOCK and HORROR. FREDDIE'S POV Bound to a chair, PAUL CARRUTHERS is bleeding out. A CANNULA is lodged in the sides of his neck, having slowly drained his blood.  He's flanked by TWO IV STANDS on each side, each one holding a liter of blood. His throat has been slashed and his tongue has been pulled through the open wound to create a \"Columbian Neck Tie.\" As Carruthers's tongue twists and trembles, Dr. Gideon does his best to straighten it like a proper neck tie. Once the tongue is flattened, he turns to reveal he has a handgun which he points at Freddie.\"",
+            "CLOSE ON Dr. Gideon standing behind a seated DR. PAUL",
+            "CARRUTHERS.",
+            "Dr. Gideon works patiently making adjustments to Dr.",
+            "Carruther's neck tie JUST BELOW FRAME.",
+            "DR. GIDEON: \"Ms Lounds, please let yourself in! Across the room, the door opens -- ON FREDDIE As she enters, her face falls in UTTER SHOCK and HORROR. FREDDIE'S POV Bound to a chair, PAUL CARRUTHERS is bleeding out. A CANNULA is lodged in the sides of his neck, having slowly drained his blood.  He's flanked by TWO IV STANDS on each side, each one holding a liter of blood. His throathas been slashed and his tongue has been pulled through the open wound to create a \"Columbian Neck Tie.\" As Carruthers's tongue twists and trembles, Dr. Gideon does his best to straighten it like a proper neck tie. Once the tongue is flattened, he turns to reveal he has a handgun which he points at Freddie.\"",
             "DR. GIDEON: \"I read in your Tattler archives that the Chesapeake Ripper once removed a man's tongue and used it as a bookmark in his Bible.  What do you think? Would the Ripper approve? Off Freddie, her fear melting away as her professional curiosity takes over -- PAUL CARRUTHERS STARING FACE CAMERA PULLS BACK TO REVEAL\""
         ]
     },
@@ -321,22 +529,29 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "DR. CARRUTHERS\u2019 OFFICE  3"
+            "location": "DR. CARRUTHERS\u2019 OFFICE  3",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Paul Carruthers is dead, tongue hanging out of the hole in",
+            "his throat, lying across his collar and tucked into his waist",
+            "coat and fastened with a decorative tie pen. Although the",
+            "stands are still , the IV BAGS of BLOOD that once hung",
+            "on them are now inside an ice-chest cooler on the desk.",
+            "CAMERA FINDS Jack Crawford and Will Graham studying the body.",
             "JACK CRAWFORD: \"Dr. Paul Carruthers wrote an article for the Journal of Criminal Psychology describing Gideon as a pathological narcissist who suffers from psychotic episodes.\"",
             "WILL GRAHAM: \"Let's hope he got some satisfaction from being proved right.\"",
             "JACK CRAWFORD: \"This isn't just about getting the Chesapeake Ripper's attention.\"",
             "WILL GRAHAM: \"Gideon's mind has been dissected by psychiatrists, and as a surgeon, he's applying his own skill set. Will takes a closer look at the dead man's tongue.\"",
             "WILL GRAHAM: \"Gideon gave him something better to do with his tongue than wag it. Jack eyes Will.\"",
-            "BRIAN ZELLER: \"That's not what killed him. Brian Zeller looks at the cannulae inserted into Paul Carruthers' arteries.\"",
+            "BRIAN ZELLER: \"That's not what killed him. Brian Zeller looks at the cannulae inserted into Paul Carruthers'arteries.\"",
             "BRIAN ZELLER: \"Arterial cannulae. Drained him until his heart stopped.\"",
             "BEVERLY KATZ: \"Got a little on his collar. Jimmy Price examines the bags of blood.\"",
-            "JIMMY PRICE: \"There's four-and-a-half liters of blood in here. Packed in ice. Jimmy pulls a note out from under the cooler and reads:\"",
+            "JIMMY PRICE: \"There's four-and-a-halfliters of blood in here. Packed in ice. Jimmy pulls a note out from under the cooler and reads:\"",
             "JIMMY PRICE: \"Please deliver to the Red Cross.\"",
             "BEVERLY KATZ: \"That's considerate.\"",
             "JACK CRAWFORD: \"He's peacocking for the Ripper.\"",
-            "WILL GRAHAM: \"This is like flowers and chocolate before a first date. Will notices Paul Carruthers' hand is on the computer mouse, forefinger poised to click (if it had any life in it). CLOSE ON THE KEYBOARD Will taps the CONTROL KEY and the monitor illuminates. The TATTLECRIME.COM website HOME PAGE is already on the screen. The HEADLINE READS: \"CHESAPEAKE RIPPER ESCAPES.\" It's splashed across a PICTURE of the TWO TREES hanging with organs. The CURSOR is directly over the REFRESH CIRCLE ARROW. Will pushes Paul Carruthers' dead finger hover over the mouse and CLICKS the refresh. The latest home pages LOADS. The headline story reads: \"CHESAPEAKE RIPPER RIPS AGAIN.\"\"",
+            "WILL GRAHAM: \"This is like flowers and chocolate before a first date. Will notices Paul Carruthers'hand is on the computer mouse, forefinger poised to click (ifithad any life in it). CLOSE ON THE KEYBOARD Will taps the CONTROL KEY and the monitor illuminates. The TATTLECRIME.COM website HOME PAGE is already on the screen. The HEADLINE READS: \"CHESAPEAKE RIPPER ESCAPES.\" It's splashed across a PICTURE of the TWO TREES hanging with organs. The CURSOR is directly over the REFRESH CIRCLE ARROW. Will pushes Paul Carruthers'dead finger hover over the mouse and CLICKS the refresh. The latesthome pages LOADS. The headline story reads: \"CHESAPEAKE RIPPER RIPS AGAIN.\"\"",
             "JACK CRAWFORD: \"How is this already news? Beneath, the EXCLUSIVE HEADLINE is a picture of PAUL CARRUTHERS, tongue-tied, blood bags still hanging.\"",
             "BRIAN ZELLER: \"Somebody from Baltimore PD must've taken a picture with their phone and sold it to Tattlecrime.\"",
             "JACK CRAWFORD: \"Took the picture before the blood was on ice. Gideon was still here.\"",
@@ -349,24 +564,30 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "OBSERVATORY  3"
+            "location": "OBSERVATORY  3",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Freddie sits at a vintage school desk. Her face is",
+            "illuminated by her laptop screen as she types.",
             "DR. GIDEON: \"About this time you may be counting exits or at least considering them. There are three. All buttoned up.\"",
             "FREDDIE LOUNDS: \"Hence no restraints.\"",
-            "DR. GIDEON: \"No need to be uncomfortable. I'm quick.  I have a gun and it has bullets even quicker than I am. If you try to escape, Miss Lounds, then I promise you will be found in pieces.  Do we have an agreement?\"",
+            "DR. GIDEON: \"No need to be uncomfortable. I'm quick.  I have a gun and ithas bullets even quicker than I am. If you try to escape, Miss Lounds, then I promise you will be found in pieces.  Do we have an agreement?\"",
             "FREDDIE LOUNDS: \"Yes.\"",
             "DR. GIDEON: \"Good.  Now, this relationship you and I have can benefit both of us.\"",
             "FREDDIE LOUNDS: \"I can do a big story on you. Anything you want to say.\"",
             "GIDEON",
+            "Although I did enjoy the article",
+            "you wrote about that poor nurse I",
+            "killed, it didn't seem genuine.",
             "FREDDIE LOUNDS: \"Jack Crawford told me to write it.\"",
             "DR. GIDEON: \"He did.\"",
             "FREDDIE LOUNDS: \"To flush out the Chesapeake Ripper.\"",
-            "DR. GIDEON: \"And flushed out he was. He waved the severed arm of Jack Crawford's dead trainee around like a flag. Right here in this room.\"",
+            "DR. GIDEON: \"And flushed out he was. He waved the severed arm of Jack Crawford's dead trainee around like a flag. Righthere in this room.\"",
             "FREDDIE LOUNDS: \"Aren't you the Chesapeake Ripper?\"",
             "DR. GIDEON: \"I admit I'm confused on that one but please don't patronize me.\"",
             "FREDDIE LOUNDS: \"I'm sorry.\"",
-            "DR. GIDEON: \"It's like remembering something from your childhood and wondering if it really happened to you or if it happened to someone else. And then sadly realizing it was just some picture you saw in a book.\"",
+            "DR. GIDEON: \"It's like remembering something from your childhood and wondering if it really happened to you or ifithappened to someone else. And then sadly realizing it was just some picture you saw in a book.\"",
             "FREDDIE LOUNDS: \"Do you remember your other murders?\"",
             "DR. GIDEON: \"Vividly. I never intended to murder my wife. It just struck me as a good idea at the time. Her mother wouldn't stop screaming while I was doing it so I had to kill her. And by the time I got to her brother and her father, well, those murders were self-defense.\"",
             "FREDDIE LOUNDS: \"You're waiting for the Chesapeake Ripper to come back here.\"",
@@ -379,15 +600,21 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - MORGUE  4"
+            "location": "B.A.U. - MORGUE  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "PAUL CARRUTHERS'grotesque, BLOODLESS body lies on a gurney.",
+            "CAMERA pans across to find an identically injured corpse.",
+            "Jack, Will, Alana and Brian Zeller are gathered around dead",
+            "CARSON NAHN, thirties, throat cleanly sliced, tongue pulled",
+            "through, resting on his upper chest.",
             "ALANA BLOOM: \"Dr. Carson Nahn. He's the Psychiatric Attending at Western General. Interviewed Gideon for the same psychopathy survey I participated in two years ago.\"",
-            "BRIAN ZELLER: \"Total frenectomy. All of the webbing under the tongue, even the connective tissue into the throat has been cut free and pulled through for the desired effect.\"",
+            "BRIAN ZELLER: \"Total frenectomy. All of the webbing under the tongue, even the connective tissue into the throathas been cut free and pulled through for the desired effect.\"",
             "JACK CRAWFORD: \"Still no word from Dr. Chilton?\"",
             "ALANA BLOOM: \"He hasn't answered his phone since yesterday and didn't show up to work this morning. Alana glances at Will, both assuming the worst.\"",
             "WILL GRAHAM: \"Gideon wants to lure the Ripper. He's going to offer up the man who disrespected both their identities.\"",
-            "JACK CRAWFORD: \"Every detail of Paul Carruthers' murder meticulously described in Freddie Lounds' article has been faithfully re-created except one Jack pulls back the sheet covering Carson Nahn's shoulders REVEALING one of his arms has been recently amputated.\"",
+            "JACK CRAWFORD: \"Every detail of Paul Carruthers'murder meticulously described in Freddie Lounds'article has been faithfully re-created except one Jack pulls back the sheet covering Carson Nahn's shoulders REVEALING one of his arms has been recently amputated.\"",
             "ALANA BLOOM: \"What's different about Carson? Why amputate his arm?\"",
             "JACK CRAWFORD: \"Freddie write anything about this?\"",
             "BRIAN ZELLER: \"Not that I'm aware of.\"",
@@ -403,9 +630,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "OBSERVATORY  4"
+            "location": "OBSERVATORY  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Gideon steps into view and we REVEAL Chilton is STRAPPED to a",
+            "SURGICAL GURNEY. His torso is angled upwards, an IV tap",
+            "running into a vein on the back of his hand. He looks down",
+            "to see he is covered by SURGICAL DRAPES.",
             "DR. GIDEON: \"Did us both a favor and sedated you.  You'll be a little fuzzy around the edges but fully aware. Gideon glances over his prepped tray of scalpels.\"",
             "DR. GIDEON: \"I've found surgeries are better done with the patient conscious under local or epidural.\"",
             "DR. GIDEON: \"Reminds me there's a person there trusting me with their life. Not just a piece of meat being manipulated. However, in this instance, I mostly want to see the look on your face.\"",
@@ -429,9 +661,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "F.B.I. S.U.V.  4"
+            "location": "F.B.I. S.U.V.  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Traveling. Will sits in the backseat with Jack Crawford.",
+            "F.B.I. AGENTS up front. Jack studies Will as he glances out",
+            "the window at the street lights intermittently flashing past.",
             "JACK CRAWFORD: \"I want you to wait outside.\"",
             "WILL GRAHAM: \"I think that's probably best.\"",
             "JACK CRAWFORD: \"You look like hell, Will.\"",
@@ -447,16 +683,134 @@
         ]
     },
     {
+        "heading": "BA28    EXT. OBSERVATORY - NIGHT 4                            BA28",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "OBSERVATORY  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "The F.B.I. S.U.V. approaches.",
+            "ON WILL GRAHAM",
+            "His eyes are closed. He listens to a POUNDING RAIN outside",
+            "his head.  He slowly opens his eyes and WE ARE"
+        ]
+    },
+    {
+        "heading": "A28     INT. F.B.I. S.U.V. - NIGHT 4 - SLOW MOTION             A28",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "F.B.I. S.U.V.  4 - SLOW MOTION",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Will sits with JACK CRAWFORD and THREE OTHER FBI AGENTS.",
+            "Sheets of water pour over the windows indicating a heavy rain",
+            "outside.  The SOUND DROWNS OUT ALL OTHER SOUND.",
+            "Jack Crawford and the other FBI AGENTS EXIT the vehicle,",
+            "quietly shutting doors as they move across the field.",
+            "ON WILL GRAHAM - WILL'S FEVERED P.O.V.",
+            "Pouring rain outside. Will watches the distorted images of",
+            "JACK CRAWFORD and the FBI AGENTS stealthily moving off.",
+            "He finally unbuckles his seat belt and gets out."
+        ]
+    },
+    {
+        "heading": "28      EXT. OBSERVATORY - F.B.I. S.U.V. - NIGHT 4              28",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "OBSERVATORY - F.B.I. S.U.V.  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Will steps out of the vehicle and there is no evidence of the",
+            "heavy rain fall he witnessed when he was inside.",
+            "The LOUD SOUND OF RAIN is abruptly absent.",
+            "There are TWO OTHER F.B.I. S.U.V.s parked on the road, FBI",
+            "AGENTS moving toward the Observatory from each of them,",
+            "following Jack Crawford and the others.",
+            "ON WILL GRAHAM",
+            "He casts a foggy look to the nearby tree-line. Something's",
+            "moving in the forest. It's THE BLACK STAG.",
+            "He moves, drawn toward the treeline, heading away from --"
+        ]
+    },
+    {
+        "heading": "29      EXT. OBSERVATORY - NIGHT 4                              29",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "OBSERVATORY  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "The FBI team slowly and stealthily approach the Observatory.",
+            "JACK CRAWFORD stands by the door to the Observatory.",
+            "He hears a LOW MOAN. The big TELESCOPE DOORS are opening.",
+            "He looks at an FBI SWAT OFFICER. Jack nods.",
+            "The SWAT OFFICER pulls the door open --"
+        ]
+    },
+    {
         "heading": "30      INT. OBSERVATORY - NIGHT - 4                            30",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "OBSERVATORY  - 4"
+            "location": "OBSERVATORY  - 4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Jack RUNS into the SPACE and sees MOONLIGHT streaming through",
+            "the TELESCOPE DOORS REVEALING:",
+            "DR. CHILTON",
+            "The drip in his arm. He is reclining in the GURNEY. He",
+            "holds HIS OWN INSIDES in his lap, a GROTESQUE BASKET OF",
+            "ORGANS, like hellish fruit.",
+            "Freddie Lounds works furiously, rhythmically pumping air.",
             "FREDDIE LOUNDS: \"He's still alive. ON JACK CRAWFORD\"",
             "JACK CRAWFORD: \"Get medical in here! Now! OFF the horrifying tableau of Chilton clinging to life\""
+        ]
+    },
+    {
+        "heading": "AA31    EXT. OBSERVATORY - NIGHT 4                            AA31",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "OBSERVATORY  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "From a distant vantage point, Gideon amongst trees, watching",
+            "the FBI flood the Observatory. He sighs, disappointed. Jack",
+            "Crawford EXITS the observatory and confers with FBI AGENTS.",
+            "He watches for a moment, then recedes into the darkness."
+        ]
+    },
+    {
+        "heading": "A31     EXT. FOREST ROAD - NIGHT 4                             A31",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "FOREST ROAD  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Will stumbles out of the trees and stops short.",
+            "THE BLACK STAG",
+            "It stands at the side of the road, motionless, staring back.",
+            "They watch each other for a still moment.",
+            "Will slowly un-holsters his gun. He raises his weapon at the",
+            "Stag, his finger tensing on the trigger."
         ]
     },
     {
@@ -465,9 +819,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "GIDEON\u2019S CAR  4"
+            "location": "GIDEON\u2019S CAR  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Gideon slides behind the wheel, glancing up in the REARVIEW",
+            "MIRROR to see Will Graham sitting in his back seat. He's in",
+            "a flop sweat, the gun still in his hand pointing at Gideon's",
+            "back through the backrest of the front seat.",
             "DR. GIDEON: \"I was expecting the Chesapeake Ripper.  Or are you him? Gideon glances over his shoulder at Will's drawn gun. WILL GRAHAM'S - FEVERISH P.O.V. Gideon is now GARRET JACOB HOBBS, his eyes cloudy and dead.\"",
             "WILL GRAHAM: \"Turn around. Don't look at me.  Will looks grey, sweating, swaying. The gun unsteady. Gideon looks at Will's state.\"",
             "DR. GIDEON: \"You're a little peaky, Mr. Graham, if I'm allowed to say so. I may be crazy, but I believe you're sick.  Garret Jacob Hobbs stares at him from the REARVIEW MIRROR.\"",
@@ -481,9 +840,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - MUD ROOM  4"
+            "location": "HANNIBAL\u2019S HOME - MUD ROOM  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "sweating WILL GRAHAM, holding a gun on Gideon's back.",
             "HANNIBAL: \"Will, what are you doing here? Will closes the door behind him, keeping the gun on Gideon. WILL'S FEVERED P.O.V. - GIDEON Only he looks exactly like GARRET JACOB HOBBS.\""
         ]
     },
@@ -493,10 +854,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  4"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Garret Jacob Hobbs sits at the head of the table. Will",
             "WILL GRAHAM: \"I didn't know where else to go. I'm I'm having a hard time thinking. I feel like I'm losing my mind. I don't know what's real.\"",
+            "Will points his gun at Gideon, who remains silent, observing",
             "HANNIBAL: \"It's 7:27 PM. You're in Baltimore, Maryland. Your name is Will Graham.\"",
             "WILL GRAHAM: \"I don't care who I am. Tell me  if he's real.\"",
             "HANNIBAL: \"Who do you see, Will?\"",
@@ -530,9 +894,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  4"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "A SHORT REPLAY OF SCENE 33 - WILL'S FEVERISH P.O.V.",
+            "Will shakes his head, confused. Garret Jacob Hobbs watches",
+            "him from across the dining room table.",
             "WILL GRAHAM: \"Please don't lie to me.\"",
             "HANNIBAL: \"Garret Jacob Hobbs is dead. You killed him. You watched him die. Will holds his head, trying desperately to hold on.\"",
             "WILL GRAHAM: \"What's happening to me Will's hand push through the tissue of his face, which POURS THROUGH HIS FINGERS in horrifying fashion. WILL GRAHAM He stares into middle distance and blinks.\"",
@@ -545,7 +913,7 @@
             "WILL GRAHAM: \"I was with Garret Jacob Hobbs.\"",
             "HANNIBAL: \"You have a fever. You were hallucinating. You thought he was alive.  In the room with you.\"",
             "WILL GRAHAM: \"I saw him.\"",
-            "HANNIBAL: \"He's a delusion disguising . Don't let that let you slip away. You killed Garret Jacob Hobbs once. Can find a way to kill him again.\"",
+            "HANNIBAL: \"He's a delusion disguising. Don't let that let you slip away. You killed Garret Jacob Hobbs once. Can find a way to kill him again.\"",
             "WILL GRAHAM: \"Where are you going?\"",
             "HANNIBAL: \"I'm worried about Alana Bloom. Abel Gideon is still at large. He mutilated Dr. Chilton. They found him clinging to life. Will\"",
             "WILL GRAHAM: \"Alana.\"",
@@ -558,16 +926,63 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "ALANA\u2019S OFFICE  4"
+            "location": "ALANA\u2019S OFFICE  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
-            "DR. GIDEON: \"I don't know if I'll feel like myself again. I don't know if there's a self left to feel like. I spent so much time believing I was him it got harder to remember who I was when I wasn't him.\"",
+            "Framed by the window pane, Alana Bloom works at her desk.",
+            "CAMERA PULLS BACK TO REVEAL this is GIDEON's POV. He stands",
+            "outside her window, some distance away, studying her.",
+            "CAMERA FINDS Will Graham standing behind him.",
+            "DR. GIDEON: \"I don't know if I'll feel like myself again. I don't know if there's a selfleft to feel like. I spent so much time believing I was him it gotharder to remember who I was when I wasn't him.\"",
             "WILL GRAHAM: \"Who are you now? WILL'S FEVERISH P.O.V. - GIDEON In Will's mind on fire, he appears to be GARRET JACOB HOBBS.\"",
-            "GARRET JACOB HOBBS: \"You. Will is horrified by Garret Jacob Hobbs' comparison.\"",
+            "GARRET JACOB HOBBS: \"You. Will is horrified by Garret Jacob Hobbs'comparison.\"",
+            "Gideon turns his attention back to Alana in the window.",
             "DR. GIDEON: \"We're both here. Looking at her. Just those kind of people who shouldn't be in a relationship. You and I are already committed. Hard to be with another person when you can't get out of your own head.\"",
             "WILL GRAHAM: \"I want to get out.\"",
             "DR. GIDEON: \"We all want things we can't have.  If I kill her like he would kill her I wonder if I could understand him better, hear the cold drips in his darkness, watch the world through his red haze. He turns to Will and we REVEAL GIDEON is GARRET JACOB HOBBS.\"",
             "GARRET JACOB HOBBS: \"I wonder if then you could finally understand who you've become. Will stares at him and for a moment, seem clear headed.\""
+        ]
+    },
+    {
+        "heading": "36      INT. ALANA\u2019S OFFICE - NIGHT 4                           36",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "ALANA\u2019S OFFICE  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Alana JUMPS at the SUDDEN sound of a GUNSHOT outside."
+        ]
+    },
+    {
+        "heading": "37      EXT. ALANA\u2019S OFFICE - NIGHT 4                           37",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "ALANA\u2019S OFFICE  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "WILL GRAHAM",
+            "Sweating, breathing heavily. The GUN drops from his hand and",
+            "drops the GRASS next to Gideon."
+        ]
+    },
+    {
+        "heading": "A38     EXT. F.B.I. ACADEMY - NIGHT 4                          A38",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "F.B.I. ACADEMY  4",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "TIME-LAPSE ESTABLISHING."
         ]
     },
     {
@@ -576,9 +991,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "F.B.I. ACADEMY - JACK CRAWFORD\u2019S OFFICE  4"
+            "location": "F.B.I. ACADEMY - JACK CRAWFORD\u2019S OFFICE  4",
+            "episode": "Hannibal_1x11_Roti"
         },
         "content": [
+            "Jack stares at pictures of Abel Gideon on his corkboard",
+            "before pulling them down, along with the maps of his escape.",
             "JACK CRAWFORD: \"They'll be sewing Dr. Chilton back together until morning. If he lives through the night.\"",
             "HANNIBAL: \"At least Will remains in one piece. For now. His temperature is 105. White blood cell count is twice normal.  They still can't identify the source of the infection.\"",
             "JACK CRAWFORD: \"They will.\"",
@@ -587,6 +1005,21 @@
             "HANNIBAL: \"Will's sense of self has not been constant or even continuous. How he thinks of what he does is becoming less and less evident. I would recommend you suspend his license to carry firearms.\"",
             "JACK CRAWFORD: \"Are you having a difference of opinion about who Will is?\"",
             "HANNIBAL: \"I know who Will is. Will knows who he is.  But our experiences shape us, Jack. How are Will's experiences shaping him? OFF that question\""
+        ]
+    },
+    {
+        "heading": "38      INT. HOSPITAL ROOM - NIGHT 5                            38",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HOSPITAL ROOM  5",
+            "episode": "Hannibal_1x11_Roti"
+        },
+        "content": [
+            "Alana Bloom sits on bed and watches over unconscious Will",
+            "Graham, he's hooked up to an IV and several monitors.",
+            "CAMERA PUSHES IN and she finally takes his hand in hers."
         ]
     }
 ]

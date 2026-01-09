@@ -1,9 +1,26 @@
 [
     {
         "heading": "START",
-        "metadata": {},
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "UNKNOWN",
+            "episode": "Hannibal_1x06_Entree"
+        },
         "content": [
+            "\"Entr\u00e9e\"",
+            "Kai Yu Wu",
+            "Kai Yu Wu",
+            "and",
             "\"Entr\u00e9e\"                              *",
+            "CLOSE ON A MAN'S FACE",
+            "He's SWEATING PROFUSELY. Cheek pressed to the cold cement",
+            "floor, he has blood on his lips. Meet DR. ABEL GIDEON, pale,",
+            "handsome, 40's, unresponsive. CAMERA PULLS BACK to reveal",
+            "A HOSPITAL SECURITY GUARD",
+            "Observing Dr. Gideon through the bars of a heavy gauge",
+            "MAXIMUM SECURITY CELL DOOR that separates them.",
             "HOSPITAL SECURITY: \"This is your final opportunity to comply.  On your feet, Dr. Gideon. Or we will restrain you. No response from Dr. Gideon. We are\""
         ]
     },
@@ -13,11 +30,68 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  1"
+            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  1",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "The Hospital Security Guard SIGNALS and a KLAXON SOUNDS.",
+            "we are:",
+            "BALTIMORE STATE HOSPITAL FOR THE CRIMINALLY INSANE",
+            "Seconds later, the cell door slide OPENS. KLANG! The",
+            "Hospital Security and TWO OF HIS COMRADES rush into the cell.",
+            "The Three Hospital Security Guards surround the crumpled Dr.",
+            "Gideon and aggressively bark orders at him.",
             "HOSPITAL SECURITY: \"Turn over and lace your fingers behind your head. Dr. Gideon, however, remains unresponsive. As HOSPITAL SECURITY #2 puts a knee to Quinn's back, the lead Hospital Security Guard kneels and checks for a pulse.\"",
             "HOSPITAL SECURITY: \"Get a gurney.\""
+        ]
+    },
+    {
+        "heading": "2       INT. B.S.H.C.I. - CORRIDOR - NIGHT 1                     2",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "B.S.H.C.I. - CORRIDOR  1",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "TWO HOSPITAL SECURITY GUARDS escort Dr. Gideon's gurney down",
+            "a long cement passageway.",
+            "CLOSE ON DR. GIDEON",
+            "He is lying on a gurney being wheeled down a long corridor,",
+            "oxygen mask over his mouth and nose. His eyes loll and roll",
+            "in a daze, ankles and wrists cuffed. Hanging lamps streak",
+            "light in strobes across Gideon as he's pushed under them.",
+            "WIDER",
+            "As they push the gurney towards a set of INFIRMARY DOORS. A",
+            "LOUD ENTRY BUZZER SOUNDS. The HEAVY GAUGE PRISON DOORS OPEN."
+        ]
+    },
+    {
+        "heading": "3       INT. B.S.H.C.I. - INFIRMARY - MOMENTS LATER              3",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "B.S.H.C.I. - INFIRMARY - MOMENTS",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "NURSE ELIZABETH SHELL, 30's, cuts Dr. Gideon's shirt open and",
+            "begins to attach EKG TAB ELECTRODES to his bare chest.",
+            "CLOSE ON DR. GIDEON",
+            "His eyes pop open. They are clear and focused. CAMERA",
+            "DRIFTS BACK to find his CUFFED HAND, fingers slowly reaching",
+            "for a small but scabbed incision on his palm.",
+            "His fingers dig into his flesh revealing THE SHARPENED TINE",
+            "OF A FORK he had inserted beneath his skin. He quickly jams",
+            "the tine into the cuffs keyhole and goes to work.",
+            "ON THE NURSE",
+            "As Nurse Shell prepares the EKG, she's unaware that Dr.",
+            "Gideon slowly rises from the gurney behind her. She HEARS",
+            "his HEART MONITOR FLATLINE then turns",
+            "and before she can even shout, DR. Gideon descends on her,",
+            "knocking her VIOLENTLY OUT OF FRAME."
         ]
     },
     {
@@ -26,9 +100,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "B.S.H.C.I.  2"
+            "location": "B.S.H.C.I.  2",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "An F.B.I. SEDAN approaches the grim Gothic pile of the asylum",
+            "looming over the driveway. The F.B.I. sedan parks and out of",
+            "it steps JACK CRAWFORD and WILL GRAHAM.",
             "JACK CRAWFORD: \"Freddie Lounds ran an unconfirmed story that the Chesapeake Ripper may already be in custody.\"",
             "WILL GRAHAM: \"Uncomfirmed? Am I confirming? Fact-checking for Freddie Lounds?\"",
             "JACK CRAWFORD: \"You're fact-checking for me. Will eyes the sign that reads \"CRIMINALLY INSANE.\"\"",
@@ -43,9 +121,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "B.S.H.C.I. - DR. CHILTON\u2019S OFFICE  2"
+            "location": "B.S.H.C.I. - DR. CHILTON\u2019S OFFICE  2",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "DR. FREDERICK CHILTON comes around his desk to shake Will",
+            "Graham's hand as Jack Crawford looks on.",
             "DR. CHILTON: \"Doctor Bloom just called me about you, Mister Graham. Or should I call you Doctor Graham?\"",
             "WILL GRAHAM: \"I'm not a doctor.\"",
             "DR. CHILTON: \"You're not F.B.I. either. That's a temporary identification.\"",
@@ -54,16 +135,16 @@
             "JACK CRAWFORD: \"Doctor Chilton, we need to see the crime scene while it's still relatively undisturbed.\"",
             "DR. CHILTON: \"For something so disturbing, I assure you it's undisturbed. Medical personnel made sure Nurse Shell wasn't alive and came right back out. The infirmary has been sealed off until you get there.\"",
             "WILL GRAHAM: \"Why was a nurse left alone with a prisoner in a high-security psychiatric hospital?\"",
-            "DR. CHILTON: \"For the two years since he was brought here, Gideon behaved perfectly and gave every appearance of cooperating with attempts at therapy. As dictated by our administrator, security around him was slightly relaxed.\"",
+            "DR. CHILTON: \"For the two years since he was broughthere, Gideon behaved perfectly and gave every appearance of cooperating with attempts at therapy. As dictated by our administrator, security around him was slightly relaxed.\"",
             "JACK CRAWFORD: \"Your  administrator?\"",
-            "DR. CHILTON: \"I imagine after an incident like this one, she won't be holding that position much longer. I can't help feeling responsible myself for what happened. I had sessions with Gideon for years. He sat directly across from me and I had no idea what he was hiding. And now one of our staff is dead. That strikes a chord with Jack Crawford, who can relate.\"",
+            "DR. CHILTON: \"I imagine after an incident like this one, she won't be holding that position much longer. I can'thelp feeling responsible myself for whathappened. I had sessions with Gideon for years. He sat directly across from me and I had no idea what he was hiding. And now one of our staffis dead. That strikes a chord with Jack Crawford, who can relate.\"",
             "JACK CRAWFORD: \"Graham needs to see the crime scene in as much privacy as possible.\"",
             "DR. CHILTON: \"Dr. Bloom assured me that you would cooperate on procedure.\"",
             "WILL GRAHAM: \"I will, but I need to be alone.\"",
             "DR. CHILTON: \"Ah, yes. That thing you do.  You are quite the topic of conversation in psychiatric circles.\"",
             "WILL GRAHAM: \"Am I?\"",
             "DR. CHILTON: \"A unique cocktail of personality disorders and neuroses that makes you a highly skilled profiler.\"",
-            "JACK CRAWFORD: \"Graham isn't here to be analyzed.\"",
+            "JACK CRAWFORD: \"Graham isn'there to be analyzed.\"",
             "DR. CHILTON: \"Perhaps he should be.  We're woefully short of material on your sort of thing, Mr. Graham. Would you mind talking with some of the staff -- no, no, not this trip. Dr. Bloom was very severe with me on that point. We're to leave you alone.  Maybe a special visit?\"",
             "WILL GRAHAM: \"Thank you, Doctor Chilton. I'd like to see the crime scene now.\""
         ]
@@ -74,9 +155,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - CORRIDOR  2"
+            "location": "B.S.H.C.I. - CORRIDOR  2",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Chilton leads Jack Crawford and Will Graham down the hall.",
             "JACK CRAWFORD: \"Gideon was restrained?\"",
             "DR. CHILTON: \"Handcuffs. Concealed a fork tine under the flesh of his palm and used it to pick the lock.\"",
             "WILL GRAHAM: \"Where is he now?\"",
@@ -94,10 +177,56 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - INFIRMARY  2"
+            "location": "B.S.H.C.I. - INFIRMARY  2",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Jack Crawford and Will Graham follow Dr. Chilton into the",
+            "room.  Jack and Will slow their approach, taking in the",
+            "horror of what is waiting for them here.",
+            "NURSE SHELL'S BODY",
+            "She's IMPALED on the BROKEN FRAMES of several PRIVACY",
+            "CURTAINS that have been fashioned into SPEARS. They PROTRUDE",
+            "from wounds over the entire canvas of her body. Additional",
+            "shards of wood and metal prop her organs above her corpse,",
+            "giving them the appearance of floating outside her body.",
             "DR. CHILTON: \"The reason you failed and kept failing to catch the Chesapeake Ripper is I already had him. Jack Crawford shoots Chilton a look and then glances away as CAMERA PUSHES IN ON Will taking in the horrible tableaux. CLOSE ON WILL GRAHAM He is lying on a gurney being wheeled down a long corridor, oxygen mask over his mouth and nose. His eyes loll and roll in a daze. Overhead hanging lamps streak light in lazy strobes across Will as he's pushed under them.\""
+        ]
+    },
+    {
+        "heading": "8       INT. B.S.H.C.I. - INFIRMARY - NIGHT 1                    8",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "B.S.H.C.I. - INFIRMARY  1",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "Nurse Shell cuts Will's shirt from his chest and attaches EKG",
+            "TAB ELECTRODES. As she turns away, Will's eyes OPEN.",
+            "CLOSE ON WILL'S HAND",
+            "His fingers find the sharpened tine beneath his skin.",
+            "ON THE NURSE",
+            "She hears the heart monitor flatline and turns. Will Graham",
+            "knocks her OUT OF FRAME, striking her in the throat with the",
+            "palm of his hand before she can scream.",
+            "The blow is startling and significant in its brutality. It",
+            "crushes her throat, blocking her airway, and reducing her",
+            "scream to a painful gurgling.",
+            "She stumbles back against a medicine cabinet. Eyes wide with",
+            "fear and pain. But we only see them briefly before Will",
+            "forces his thumbs into her eye sockets. As her body slumps",
+            "to the floor, Will stares at the blood on his hands.",
+            "Out of the corner of his eye, Will spies Nurse Shell crawling",
+            "blindly toward the door.",
+            "Moving to a privacy curtain, Will strips the fabric from the",
+            "frame and breaks it over his knee to fashion a spear.",
+            "ON THE NURSE",
+            "Crawling.  Her hands reach out and find Will's shoes blocking",
+            "her way.  CAMERA PANS UP to Will with the broken frame of the",
+            "privacy curtain raised above his head.",
+            "Will drives the spear VIOLENTLY DOWN and"
         ]
     },
     {
@@ -106,9 +235,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - INFIRMARY  2"
+            "location": "B.S.H.C.I. - INFIRMARY  2",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "WILL GRAHAM",
+            "He stands in the horror of the crime scene, trying to shake",
+            "the ugliness of what his imagination evoked. Jack ENTERS in",
+            "the background giving Will a moment to let it wash away.",
             "WILL GRAHAM: \"As far as we know, the Chesapeake Ripper hasn't killed in over two years.  When was Gideon admitted?\"",
             "JACK CRAWFORD: \"Almost two years ago. CAMERA PUSHES IN ON Jack, flooded with memories until we\"",
             "TO:: \"CLOSE ON JACK CRAWFORD CAMERA PULLS BACK TO REVEAL JACK three years younger with distinctive facial hair.\""
@@ -120,9 +254,17 @@
             "is_dream": false,
             "is_flashback": true,
             "time": "DAY",
-            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE"
+            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Through the glass door, JACK CRAWFORD, sitting behind his",
+            "desk speaking on his phone, can see:",
+            "MIRIAM LASS",
+            "She's late 20s, striking, pretty, wearing an FBI TRAINEE polo",
+            "and khakis. She looks in curiously.",
+            "TWO YEARS EARLIER",
+            "Jack abruptly hangs up, waving Miriam Lass into his office.",
             "JACK CRAWFORD: \"Lass.  Miriam. Come in. Miriam does as instructed, approaching Jack's desk. He motions toward the chair in front of him.\"",
             "MIRIAM LASS: \"Morning, Agent Crawford. She does as instructed.\"",
             "JACK CRAWFORD: \"Sorry to pull you out of class. There's nothing wrong. I don't want to make you nervous.\"",
@@ -141,10 +283,24 @@
             "JACK CRAWFORD: \"What do you say?\"",
             "MIRIAM LASS: \"I say they don't know what else to label him. He has some of the characteristics of what they call a sociopath. No remorse or guilt at all. He won't have any of the other marks, he won't be a drifter. He'll have no history of trouble with the law.  He'll be hard to catch. Jack is impressed. He made the right call singling her out.\"",
             "JACK CRAWFORD: \"I want to assign you to the Chesapeake Ripper task force. You'll work directly under me.\"",
-            "MIRIAM LASS: \"I'm grateful for the opportunity, Agent Crawford, but I can't help wondering why me?\"",
+            "MIRIAM LASS: \"I'm grateful for the opportunity, Agent Crawford, but I can'thelp wondering why me?\"",
             "JACK CRAWFORD: \"You have a forensic fellowship, six years law enforcement. You have a doctorate in criminology, you have a degree in psychology. And what I don't have is enough warm bodies. Now I want your full attention.\"",
             "MIRIAM LASS: \"Yes, sir. Miriam's curiosity is piqued at a new career opportunity. CAMERA PUSHES IN TIGHT ON JACK CRAWFORD'S EYES\"",
             "JACK CRAWFORD: \"I've been doing this a long time and I've never seen one like this. This kind of psychopath is rare. CAMERA PULLS BACK TO REVEAL his distinctive facial hair is now gone, his clothes have changed and he is sitting alone. A long, silent moment, then:\""
+        ]
+    },
+    {
+        "heading": "13      EXT. B.S.H.C.I. - DAY 3                                 13",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "B.S.H.C.I.  3",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "TIME-LAPSE ESTABLISHING. A CHRYON tells us:",
+            "BALTIMORE STATE HOSPITAL FOR THE CRIMINALLY INSANE"
         ]
     },
     {
@@ -153,12 +309,17 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - DR. CHILTON\u2019S OFFICE  3"
+            "location": "B.S.H.C.I. - DR. CHILTON\u2019S OFFICE  3",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Alana Bloom and Will Graham sit opposite Dr. Chilton, across",
+            "his massive desk serving as a moat. Although the pleasant",
+            "conversation takes place primarily between Alana and Dr.",
+            "Chilton, Dr. Chilton is clearly curious about Will Graham.",
             "DR. CHILTON: \"Volume of Abel Gideon's mail is a nuisance. Sometimes I feel like his secretary rather than his keeper.\"",
             "ALANA BLOOM: \"Any specific correspondences that stood out from the others?\"",
-            "DR. CHILTON: \"Most were researchers and PhD candidates requesting interviews. A gaggle of angry relatives or those sympathetic to them. Then scattered dozens of lonely hearts seeking his hand in marriage.\"",
+            "DR. CHILTON: \"Most were researchers and PhD candidates requesting interviews. A gaggle of angry relatives or those sympathetic to them. Then scattered dozens oflonely hearts seeking his hand in marriage.\"",
             "ALANA BLOOM: \"He butchered his last wife and her family on Thanksgiving.\"",
             "DR. CHILTON: \"There's no accounting for taste or intelligence, is there?\"",
             "WILL GRAHAM: \"Murdering his wife was impulsive. The Chesapeake Ripper is always methodical, meticulous. Which is why he's so hard to catch.\"",
@@ -183,9 +344,22 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  3"
+            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  3",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "The STEEL DOOR of the maximum security section closed behind",
+            "Alana Bloom. She hears the bolt slide home.",
+            "ON ALANA BLOOM",
+            "Her footsteps ECHO. High to her right, surveillance cameras.",
+            "On her left, cells. Some are padded, with narrow observation",
+            "slits, others are normal, barred. Shadowy occupants inside.",
+            "DR. GIDEON'S CELL",
+            "Alana approaches. A simple folding chair is positioned in",
+            "front.  Behind its barred front wall is a second barrier of",
+            "stout nylon net. Sparse, bolted-down furniture inside.",
+            "DR. Gideon (banal, 50s) is sitting on his bunk, in white",
+            "pajamas.  He politely sits upright to greet Alana.",
             "ALANA BLOOM: \"Dr. Gideon. I don't know if you --\"",
             "DR. GIDEON: \"Lovely to see you again, Dr. Bloom.\"",
             "ALANA BLOOM: \"You remembered.\"",
@@ -216,14 +390,34 @@
         ]
     },
     {
+        "heading": "16      EXT. HANNIBAL\u2019S OFFICE - NIGHT 3                        16",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HANNIBAL\u2019S OFFICE  3",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "TIME-LAPSE ESTABLISHING. A CHRYON tells us",
+            "BALTIMORE, MARYLAND"
+        ]
+    },
+    {
         "heading": "17      INT. HANNIBAL\u2019S OFFICE - WAITING ROOM - NIGHT 3         17",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  3"
+            "location": "HANNIBAL\u2019S OFFICE - WAITING ROOM  3",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "HANNIBAL LECTER OPENS THE DOOR, leaving for the night,",
+            "shrugging on his coat, shutting off the last of his lights to",
+            "his darkened office, very much surprised to see:",
+            "JACK CRAWFORD",
+            "He sits quietly in the waiting room.",
             "HANNIBAL: \"Agent Crawford. Do you have an appointment?\""
         ]
     },
@@ -233,9 +427,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE  3"
+            "location": "HANNIBAL\u2019S OFFICE  3",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "illuminate his work space and make it more hospitable.",
             "HANNIBAL: \"May I take your coat?\"",
             "JACK CRAWFORD: \"I'm not staying. I was just\"",
             "HANNIBAL: \"In the neighborhood?\"",
@@ -269,16 +465,21 @@
             "is_dream": false,
             "is_flashback": true,
             "time": "DAY",
-            "location": "WORKSHOP"
+            "location": "WORKSHOP",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Miriam Lass studies the corpse of the murdered man as CAMERA",
+            "REVEALS JACK CRAWFORD (his distinctive facial hair indicating",
+            "he are NOT IN THE  DAY).  it is",
+            "2 YEARS AGO",
             "MIRIAM LASS: \"Where is everyone?\"",
             "JACK CRAWFORD: \"Just you and me for the time being. When heavily manned investigations have little to feed on, they tend to turn in on themselves, covering the same ground over and over, beating it flat. They take on the circular shape of a hurricane.\"",
             "MIRIAM LASS: \"We're chasing the storm?\"",
             "JACK CRAWFORD: \"The storm is chasing us. Have a look around. Tell me what you see. Miriam steps toward the wounded man on the peg board.\"",
             "MIRIAM LASS: \"He did it all here. Did it while he was alive. He struck his throat so he couldn't call for help.\"",
             "JACK CRAWFORD: \"You think he was unconscious when the Ripper did the ripping?\"",
-            "MIRIAM LASS: \"No.  He'd want him awake. Organs were removed. Not all of them.  He was choosy. He took the liver, thymus but left the heart. Jack looks over the body, purposefully not looking at Miriam.\"",
+            "MIRIAM LASS: \"No.  He'd wanthim awake. Organs were removed. Not all of them.  He was choosy. He took the liver, thymus but left the heart. Jack looks over the body, purposefully not looking at Miriam.\"",
             "JACK CRAWFORD: \"What is he doing with the organs?\"",
             "MIRIAM LASS: \"Surgical trophies. He's hiding that he takes them, distracting us with what he does to the body. Wants us to think it's an afterthought. He's a medical doctor, isn't he? That why you call him the Ripper?\"",
             "JACK CRAWFORD: \"Why do you say that?\"",
@@ -289,7 +490,7 @@
             "MIRIAM LASS: \"We call you the guru. You have a peculiar cleverness.\"",
             "JACK CRAWFORD: \"I'll take that as a compliment.\"",
             "MIRIAM LASS: \"You should. Your color sense, the textures of your clothes. Even by FBI standards of agent dress codes, you have an odd vibrancy about you. Jack allows himself a small smile, his back turned to Miriam so there's no concern of breaking character.\"",
-            "MIRIAM LASS: \"So does the Ripper. You'll probably spot him before anybody else.\"",
+            "MIRIAM LASS: \"So does the Ripper. You'll probably spothim before anybody else.\"",
             "JACK CRAWFORD: \"Or you will. Jack's small smile quickly fades. Then:\"",
             "JACK CRAWFORD: \"Now I want you to look at this. A PICTURE OF THE B.S.H.C.I. CRIME SCENE Nurse Shell's body is IMPALED on the BROKEN FRAMES of several PRIVACY CURTAINS and INFIRMARY EQUIPMENT that have been fashioned into SPEARS. They PROTRUDE from wounds all over her body, not unlike the WOUND MAN in the WORKSHOP. The PICTURE lowers OUT OF FRAME TO REVEAL:\""
         ]
@@ -300,11 +501,17 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - MORGUE  4"
+            "location": "B.A.U. - MORGUE  4",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Jack Crawford stares absently at Nurse Shell's corpse,",
+            "unaware that Will Graham is studying him more closely than",
+            "the dead body. BRIAN ZELLER, BEVERLY KATZ, JIMMY PRICE hover",
+            "more closely over the body in lab coats and rubber gloves.",
+            "F.B.I. HEADQUARTERS, QUANTICO, VIRGINIA",
             "JIMMY PRICE: \"Nothing ever came up connecting the Chesapeake Ripper and Dr. Gideon on the Latent Descriptor Index.\"",
-            "BEVERLY KATZ: \"There's no detectable consistency with the Ripper victims. He doesn't hunt exclusively within his own ethnic group. He's killed all creeds, colors, men and women.\"",
+            "BEVERLY KATZ: \"There's no detectable consistency with the Ripper victims. He doesn'thunt exclusively with in his own ethnic group. He's killed all creeds, colors, men and women.\"",
             "BRIAN ZELLER: \"She has the exact same wound patterns as the last known victim of the Chesapeake Ripper. Exact.\"",
             "JACK CRAWFORD: \"We didn't find a body for his last known victim.\"",
             "BRIAN ZELLER: \"Then the victim before that.\"",
@@ -319,9 +526,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "JACK CRAWFORD\u2019S HOUSE - BEDROOM  4"
+            "location": "JACK CRAWFORD\u2019S HOUSE - BEDROOM  4",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "CAMERA CRAWLS ACROSS THE FLOOR and up onto the bed to find",
+            "Jack Crawford sleeping alone. His falling breaths the only",
+            "sound in the room. 2:47 AM.  A moment of stillness, then:",
+            "RING.  RING. Jack startles awake.",
             "JACK CRAWFORD: \"Bella. CAMERA PULLS BACK TO REVEAL the empty side of the bed where Jack's wife Bella normally sleeps. Jack stirs, reaches across Bella's still-fluffed pillow and picks up the phone.\"",
             "JACK CRAWFORD: \"Hello? An eerily long pause, then out of a brief shift of static:\"",
             "MIRIAM LASS'S VOICE: \"Jack Jack\"",
@@ -337,9 +549,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - FORENSIC DATA   5"
+            "location": "B.A.U. - FORENSIC DATA   5",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Beverly Katz stands at her work station studying the data on",
+            "her computer monitor, Jimmy Price looking over her shoulder.",
+            "Brian Zeller sits on a stool. Jack Crawford stands in the",
+            "middle of the room and Will Graham hovers near the door.",
             "BEVERLY KATZ: \"I'm hooked into every carrier database and telephone provider in the United States. Nothing.\"",
             "JACK CRAWFORD: \"Look again.\"",
             "BEVERLY KATZ: \"I did my agains. And my again and agains.  I can't find any electronic trace of any call made to your home phone at 2:47 AM.\"",
@@ -351,7 +568,7 @@
             "JIMMY PRICE: \"Whoever called could have tapped in from that little box outside your house.  Or the junction in your neighborhood. There would be no trace signal to track.\"",
             "BEVERLY KATZ: \"You're sure it was Miriam Lass?\"",
             "JACK CRAWFORD: \"It was Miriam Lass.\"",
-            "BRIAN ZELLER: \"Haven't heard her voice in 2 years.\"",
+            "BRIAN ZELLER: \"Haven'theard her voice in 2 years.\"",
             "JACK CRAWFORD: \"If you continue to question my certainty I need to know so I can tell you to leave the room while it's still safe for you to be here. And that shuts Brian Zeller up.\"",
             "JACK CRAWFORD: \"Chesapeake Ripper recorded Miriam Lass as he was killing her 2 years ago.  He called me last night at 2:47 AM and played that recording.\"",
             "WILL GRAHAM: \"That call didn't come from the Baltimore State Hospital for the Criminally Insane.\"",
@@ -368,9 +585,19 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - LECTURE HALL  5"
+            "location": "F.B.I. ACADEMY - LECTURE HALL  5",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "CAMERA CREEPS DOWN THE ENTRANCE CORRIDOR toward Will Graham,",
+            "who gathers his notes and sits behind his desk as F.B.I.",
+            "TRAINEES file out of the classroom. He takes off his glasses",
+            "and rubs his tired eyes, finally glancing up to see:",
+            "THE ENTRANCE CORRIDOR",
+            "CAMERA TURNS as the light at the end of the tunnel becomes",
+            "OBSCURED.  A haunting CLACKCLUCK-CLACKCLUCK-CLACKCLUCK.",
+            "Will stares down the entrance corridor to the classroom as",
+            "the BLACK STAG stalks toward him, head low in its approach.",
             "ALANA BLOOM'S VOICE: \"Will? ON WILL GRAHAM He startles awake every so slightly, lost in a day dream. The BLACK STAG of his waking nightmare was in fact an approaching Alana Bloom and Jack Crawford.\"",
             "ALANA BLOOM: \"You looked like you were dreaming.\"",
             "WILL GRAHAM: \"Was thinking about something else.\"",
@@ -394,9 +621,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - CONFERENCE ROOM  5"
+            "location": "F.B.I. ACADEMY - CONFERENCE ROOM  5",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Jack Crawford ENTERS, warm and welcoming. He's playing an",
+            "angle and Freddie Lounds happily plays along. Alana Bloom",
+            "and Will Graham ENTER with Jack. Everyone sits at the table.",
             "FREDDIE LOUNDS: \"Good morning, Agent Crawford. Thank you for inviting me.\"",
             "JACK CRAWFORD: \"This is Dr. Bloom, one of our psychiatric consultants. And I believe you know Will Graham.\"",
             "FREDDIE LOUNDS: \"Dr. Bloom. Hello, Mr. Graham.  So good to see you. Will simply stares, inscrutable. Jack addresses Freddie:\"",
@@ -427,10 +658,35 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  6"
+            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  6",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Freddie Lounds steps through the Security Gate and it slides",
+            "shut ominously behind her. She doesn't flinch, instead",
+            "walking confidently down the corridor.",
+            "CAMERA FOLLOWS FREDDIE LOUNDS",
+            "She approaches Gideon's cell to find him waiting for her.",
+            "Freddie sits in the chair opposite the security barrier.",
             "FREDDIE LOUNDS: \"Dr. Gideon. I'm Freddie Lounds. May I call you Dr. Gideon or would you prefer the Chesapeake Ripper?\""
+        ]
+    },
+    {
+        "heading": "27      INT. HANNIBAL\u2019S OFFICE - DAY 6                          27",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HANNIBAL\u2019S OFFICE  6",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "browser pronouncing \"HOW THE RIPPER RIPS: AN EXCLUSIVE",
+            "INTERVIEW\" over a picture of Dr. Gideon.",
+            "He shakes his head making a disapproving tsk-tsk-tsk sound.",
+            "CLOSE ON - DR. CHILTON",
+            "He takes in the savory bite from the plate of elegantly",
+            "prepared and ed LAMB TONGUE in front of him."
         ]
     },
     {
@@ -439,7 +695,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  6"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  6",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
             "HANNIBAL: \"Inspired by Auguste Escoffier, Langue d'agneau en Papillotte served with a sauce of duxelle and oyster mushrooms, picked myself.\"",
@@ -455,9 +712,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - DINING ROOM  6"
+            "location": "HANNIBAL\u2019S HOME - DINING ROOM  6",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "beautifully appointed dining table.",
             "DR. CHILTON: \"To the Chesapeake Ripper.  Dr. Gideon is going to provide us with the singular opportunity to analyze a pure sociopath. It's so rare to find one in captivity.\"",
             "ALANA BLOOM: \"I see three possibilities: Gideon is the Chesapeake Ripper or he just thinks he is, or he knows he isn't.\"",
             "DR. CHILTON: \"He is.  He knows he is. So do I. But it will be a challenge to tell what he's holding back or whether he understands more than he'll say.\"",
@@ -481,7 +740,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S HOME - KITCHEN  6"
+            "location": "HANNIBAL\u2019S HOME - KITCHEN  6",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
             "HANNIBAL: \"I love Norton grapes. Same color inside as outside. Peel it and the flesh is also purple, not like other grapes where flesh is white and color comes from the skin.\"",
@@ -497,9 +757,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  7"
+            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  7",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Jack Crawford sits opposite Dr. Gideon.",
             "DR. GIDEON: \"Are you enjoying reading my mail?\"",
             "JACK CRAWFORD: \"Not personally. I'll be getting the abbreviated version.\"",
             "DR. GIDEON: \"Looking for something instructional? Diagrams.  Don't think I could recreate one of my own murders from memory?\"",
@@ -508,13 +770,13 @@
             "JACK CRAWFORD: \"Alright, why the surgical trophies?\"",
             "DR. GIDEON: \"Well, Agent Crawford, there're just things you're not allowed to do in a state certified operating room.\"",
             "JACK CRAWFORD: \"No trophies from killing your wife and her family at Thanksgiving. You didn't put them on display.\"",
-            "DR. GIDEON: \"Crimes of passion. You know how stressful the holidays can get. But you're not here to talk about my wife or even the night nurse.\"",
+            "DR. GIDEON: \"Crimes of passion. You know how stressful the holidays can get. But you're nothere to talk about my wife or even the night nurse.\"",
             "JACK CRAWFORD: \"What am I here to talk about?\"",
             "DR. GIDEON: \"Your trainee. Miriam something.\"",
             "JACK CRAWFORD: \"Telling me you killed Miriam Lass?\"",
             "DR. GIDEON: \"I didn't want to kill her. But yes, I did. Don't be mad at me.\"",
-            "JACK CRAWFORD: \"I'm not mad at you. I know where you are and how you got here. Not expecting dignified conduct, or even the truth, for that matter. Which you're being awfully forthcoming about all of a sudden.\"",
-            "DR. GIDEON: \"What do I have to lose? You know where I am and how I got here.\"",
+            "JACK CRAWFORD: \"I'm not mad at you. I know where you are and how you gothere. Not expecting dignified conduct, or even the truth, for that matter. Which you're being awfully forthcoming about all of a sudden.\"",
+            "DR. GIDEON: \"What do I have to lose? You know where I am and how I gothere.\"",
             "JACK CRAWFORD: \"Why didn't you put her on display?\"",
             "DR. GIDEON: \"What makes you think I didn't? Shouldn't be so literal about what you consider a display. RING.  RING. Jack Crawford's phone sounds from his pocket.\"",
             "DR. GIDEON: \"Who could that be. Jack looks at his caller ID, which simply reads \"HOME.\"\"",
@@ -528,11 +790,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I.  7"
+            "location": "B.S.H.C.I.  7",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Jack steps outside, taking his phone and re-dialing HOME. He",
+            "listens as it RINGS once, twice then picks up:",
             "JACK CRAWFORD: \"Sorry I couldn't pick up. You're home early. Everything alright? An eerie moment of room tone, then a recorded voice:\"",
-            "MIRIAM LASS' VOICE: \"Please Jack I don't want to die like this. CAMERA PUSHES INTO Jack Crawford and we\""
+            "MIRIAM LASS'VOICE: \"Please Jack I don't want to die like this. CAMERA PUSHES INTO Jack Crawford and we\""
         ]
     },
     {
@@ -541,9 +806,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "JACK CRAWFORD\u2019S HOUSE - BEDROOM  7"
+            "location": "JACK CRAWFORD\u2019S HOUSE - BEDROOM  7",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Brian Zeller PHOTOGRAPHS a footprint in the carpet as Beverly",
+            "Katz scans the depression in the bed linens with a UV light.",
+            "Jimmy Price is taking FORENSIC TRACE off the bedside phone.",
+            "He diligently dusts for PRINTS on the HANDSET, capturing them",
+            "with a strip of transparent tape. Jack and Will look on.",
             "JIMMY PRICE: \"Getting a lot of usable prints. Probably just you and your wife's.\"",
             "BRIAN ZELLER: \"I can't imagine the Chesapeake Ripper would start leaving prints at a crime scene now. Jimmy places the newly imprinted TAPE STRIPS on his handset, scanning them into the device.\"",
             "JIMMY PRICE: \"I can see three distinct beauties.  Yours, your wife's and presumably the Chesapeake Ripper. CAMERA FAVORS Will and Jack as Brian Zeller, Jimmy Price and Beverly Katz work in the background.\"",
@@ -551,7 +822,7 @@
             "WILL GRAHAM: \"Did Miriam Lass know where you live?\"",
             "JACK CRAWFORD: \"If she wanted to know, she was smart enough to find out.\"",
             "WILL GRAHAM: \"Could've told the Chesapeake Ripper before he killed her. Did you know you were sending her after him?\"",
-            "JACK CRAWFORD: \"I sent her after information.\"",
+            "JACK CRAWFORD: \"I senther after information.\"",
             "WILL GRAHAM: \"Whoever made that phone call thinks you were close to Miriam Lass and feel responsible for her death.\"",
             "JACK CRAWFORD: \"She was my trainee. I am responsible for her death.\"",
             "BEVERLY KATZ: \"The Ripper didn't just touch her pillow.  He put his head on it. Somebody's been sleeping in your bed. Beverly plucks a long blonde hair from the indentation in the pillow lying on Bella Crawford's side of the bed.\"",
@@ -569,13 +840,16 @@
             "is_dream": false,
             "is_flashback": true,
             "time": "UNKNOWN",
-            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE"
+            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Jack stands behind his desk studying a report as CAMERA",
+            "REVEALS Miriam Lass standing in his doorway. He turns to her:",
             "JACK CRAWFORD: \"You're still in school, aren't you?\"",
             "MIRIAM LASS: \"Yes, sir. Thought this might be more important than \"Exclusionary Rules of Search and Seizure.\"\"",
             "JACK CRAWFORD: \"Is that what you thought? An internal wince at her cocky misstep. She tries to correct.\"",
-            "MIRIAM LASS: \"I left a report here for you last night.  I don't know if you got it.\"",
+            "MIRIAM LASS: \"I left a reporthere for you last night.  I don't know if you got it.\"",
             "JACK CRAWFORD: \"I got it.\"",
             "MIRIAM LASS: \"Did you read it?\"",
             "JACK CRAWFORD: \"Go back to class. Miriam stands there a moment, unable to draw her jaw shut.\"",
@@ -601,11 +875,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  7"
+            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  7",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Alana Bloom sits outside of Dr. Gideon's cell as he sits",
+            "inside, watching her closely as he listens.",
             "ALANA BLOOM: \"to subvert your sense of control, you may not realize it unless those methods are pointed out to you.\"",
-            "DR. GIDEON: \"Which might in fact be a manipulative method of itself.\"",
+            "DR. GIDEON: \"Which might in fact be a manipulative method ofitself.\"",
             "ALANA BLOOM: \"You were a model patient. You behaved yourself for two years.\"",
             "DR. GIDEON: \"No opportunity to misbehave.\"",
             "ALANA BLOOM: \"You could have been pushed.\"",
@@ -620,12 +897,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - DR. CHILTON\u2019S OFFICE  7"
+            "location": "B.S.H.C.I. - DR. CHILTON\u2019S OFFICE  7",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Will Graham sits with Chilton in the seating area, casually.",
             "DR. CHILTON: \"We both know you're a distraction. I would have given Dr. Bloom her privacy, but I appreciate the opportunity to get to know you.\"",
             "WILL GRAHAM: \"What do they say about me in psychiatric circles?\"",
-            "DR. CHILTON: \"Too many mirror neurons. Supposed to help us socialize and go away, but you must have held onto yours, which makes socializing difficult.\"",
+            "DR. CHILTON: \"Too many mirror neurons. Supposed to help us socialize and go away, but you musthave held onto yours, which makes socializing difficult.\"",
             "WILL GRAHAM: \"It's a mild form of echopraxia.\"",
             "DR. CHILTON: \"Yes, I know. During intense conversations, do you take on the other person's speech patterns?\"",
             "WILL GRAHAM: \"Not that I'm aware of.\"",
@@ -638,10 +917,45 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  7"
+            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK  7",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Alana on one side of the BARRIER, Dr. Gideon on the other.",
             "DR. GIDEON: \"I can honestly say I appreciate your concern, Dr. Bloom. But I don't think you can help me. A deep groan, as if the entire building SIGHED. Then the RED LIGHTS on the doors go green. Alana watches as one by one, they OPEN. CAMERA PUSHES IN ON Dr. Gideon as he stares at Alana Bloom through the crack in the now-ajar cell door. Then DARKNESS. In the time it takes Alana to steal a breath, the ORANGE EMERGENCY LIGHTS FLASH ON, illuminating PATIENTS as they emerge from their cells. Alana glances over to see DR. GIDEON. He's already out.\""
+        ]
+    },
+    {
+        "heading": "36      INT. B.S.H.C.I. - DR. CHILTON\u2019S OFFICE - DAY 7          36",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "B.S.H.C.I. - DR. CHILTON\u2019S OFFICE  7",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "Dr. Chilton and Will Graham react to the familiar deep groan.",
+            "Then the POWER GOES OUT. Stark EMERGENCY LIGHTING FLASHES ON."
+        ]
+    },
+    {
+        "heading": "A37     INT. B.S.H.C.I. - CORRIDOR - CONTINUOUS                A37",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "B.S.H.C.I. - CORRIDOR",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "A flurry of movement amongst STAFF silhouetted by EMERGENCY",
+            "LIGHTING.  Will emerges from Dr. Chilton's office to find a",
+            "GROUP OF HOSPITAL SECURITY hurrying down the dark corridor.",
+            "Dr. Chilton steps into the hall and watches a moment as Will",
+            "heads down the corridor, then goes back into his office. As",
+            "if he has some idea how events may play out.",
+            "CAMERA FOLLOWS Will as he maneuvers his way to:"
         ]
     },
     {
@@ -650,16 +964,36 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK"
+            "location": "B.S.H.C.I. - HIGH SECURITY CELL BLOCK",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "Will is immediately on the heels of the HOSPITAL SECURITY,",
+            "who secure the first two cells, before stopping at the last.",
             "VARIOUS HOSPITAL SECURITY: \"Get away from her. Step away now. ON WILL GRAHAM He follows HOSPITAL SECURITY toward the last cell. They surround the door, opening it.\"",
             "VARIOUS HOSPITAL SECURITY: \"Turn around and lace your fingers behind your head. CAMERA REVEALS Alana Bloom is standing calmly in Gideon's cell, unharmed. The Doctor himself is backing away from Alana, lacing his fingers behind his head, as instructed. As the HOSPITAL SECURITY take down Dr. Gideon, Alana walks out of the cell toward Will, explaining:\"",
             "ALANA BLOOM: \"Pulled me into his cell to protect me from the other patients. Would the real Chesapeake Ripper do that?\"",
             "WILL GRAHAM: \"Come to think of it, he might. Both Alana and Will notice Dr. Chilton ENTERING the ward.\"",
-            "WILL GRAHAM: \"What happened?\"",
+            "WILL GRAHAM: \"Whathappened?\"",
             "DR. CHILTON: \"We had a power outage. Entire hospital. No one knows what caused it.  We're on backup generators. Is everyone alright? Dr. Chilton steals a glance at Dr. Gideon's cell as he is hauled to his feet and away from the barrier.\"",
             "ALANA BLOOM: \"I'm fine. OFF Alana questioning Dr. Chilton's concern\""
+        ]
+    },
+    {
+        "heading": "A38     INT. F.B.I. ACADEMY - HALLWAY - DAY 7                  A38",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "F.B.I. ACADEMY - HALLWAY  7",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "CAMERA FINDS Jack Crawford moving through the hall when his",
+            "phone RINGS from his breast pocket. He takes it out and",
+            "considers it a moment as it continues to RING.",
+            "He finally accepts the call and puts the phone to his ear and",
+            "closes his eyes, bracing for the inevitable."
         ]
     },
     {
@@ -668,19 +1002,48 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "ABANDONED OBSERVATORY"
+            "location": "ABANDONED OBSERVATORY",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
-            "BEVERLY KATZ: \"The last call was made to Jack's cell from a disposable phone traced here. Or within a 100 feet of here.\"",
+            "CAMERA FOLLOWS Beverly Katz and Will Graham as they approach",
+            "the abandoned building; Jack Crawford hangs back considering",
+            "what they may find. VARIOUS FBI AGENTS in the background.",
+            "BEVERLY KATZ: \"The last call was made to Jack's cell from a disposable phone traced here. Or with in a 100 feet of here.\"",
             "WILL GRAHAM: \"What was Miriam Lass looking into?\"",
-            "BEVERLY KATZ: \"Medical records. If the Ripper was a surgeon, she thought he might have treated one of his victims.\"",
+            "BEVERLY KATZ: \"Medical records. If the Ripper was a surgeon, she thought he mighthave treated one of his victims.\"",
             "WILL GRAHAM: \"They retraced her steps?\"",
             "BEVERLY KATZ: \"The ones they could find. She made a jump somewhere they couldn't explain. You make those jumps.\"",
             "WILL GRAHAM: \"The evidence has to be there.\"",
             "BEVERLY KATZ: \"Every surgeon that came into contact with any of the Ripper victims has been thoroughly vetted and or currently under observation.\"",
             "WILL GRAHAM: \"Including Dr. Gideon. Jack approaches, solemn.\"",
             "JACK CRAWFORD: \"Dr. Gideon wasn't in my bedroom. The Chesapeake Ripper was. Jack takes his phone out of his coat pocket.\"",
-            "JACK CRAWFORD: \"That last call left something the others didn't. A phone number. Jack presses call. An uncomfortably long beat. Jack is about to end the call, then A DISTANT RING. And ANOTHER. Jack, Will and the FBI AGENTS turn toward the Observatory.\""
+            "JACK CRAWFORD: \"That last call left something the others didn't. A phone number. Jack presses call. An uncomfortably long be at. Jack is about to end the call, then A DISTANT RING. And ANOTHER. Jack, Will and the FBI AGENTS turn toward the Observatory.\""
+        ]
+    },
+    {
+        "heading": "A39     INT. ABANDONED OBSERVATORY - DAY                       A39",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "ABANDONED OBSERVATORY",
+            "episode": "Hannibal_1x06_Entree"
+        },
+        "content": [
+            "Empty.  Neglected ASTRONOMY EQUIPMENT and the MACHINES THAT",
+            "REPAIR THEM lay long dormant, dust-covered.",
+            "The RING continues as CAMERA FINDS Jack and Will. Jack moves",
+            "ahead of Will toward the source of the RING and then slows,",
+            "becoming suddenly hesitant about what he might discover.",
+            "Then the RING STOPS.",
+            "He hardens his resolve as he sees under the TELESCOPE:",
+            "A HAND HOLDING A CELL PHONE",
+            "Slightly discolored, like recently greying pig flesh. CAMERA",
+            "REVEALS the hand is attached to a severed arm, nothing else.",
+            "ON JACK CRAWFORD AND WILL GRAHAM",
+            "Next to the arm, under the telescope is a sign with a simple",
+            "note that reads: \"What do you see?\" Jack drops his head."
         ]
     },
     {
@@ -689,20 +1052,22 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE  7"
+            "location": "HANNIBAL\u2019S OFFICE  7",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "as he gazes out the window at Baltimore and beyond.",
             "HANNIBAL: \"What would be the benefit of making you believe your trainee was alive?\"",
             "JACK CRAWFORD: \"Hope.  The Ripper wanted to cloud my vision in the fog of hope.\"",
             "HANNIBAL: \"It can sometimes be brave to allow yourself hope.\"",
-            "JACK CRAWFORD: \"Not the false kind. I'm not here to talk about the Ripper.  It was a mistake for me to come to you the other day, asking about my wife and her therapy.\"",
+            "JACK CRAWFORD: \"Not the false kind. I'm nothere to talk about the Ripper.  It was a mistake for me to come to you the other day, asking about my wife and her therapy.\"",
             "HANNIBAL: \"Not to worry. I won't discuss your visits with her anymore than I'll discuss her visits with you.\"",
             "JACK CRAWFORD: \"Please don't.\"",
             "HANNIBAL: \"May I ask when your trainee disappeared, how long before you gave up hope?\"",
             "JACK CRAWFORD: \"Started the minute they told me she was missing. Gave up more every minute that passed after that.\"",
             "HANNIBAL: \"Don't give up hope for your wife. Not yet.\"",
             "JACK CRAWFORD: \"Bella's accepted she's going to crash.  Stage four cancer. Said herself there's no stage five.\"",
-            "HANNIBAL: \"She's lost hope. Which means you can't.\"",
+            "HANNIBAL: \"She's losthope. Which means you can't.\"",
             "JACK CRAWFORD: \"You think I have control of that?\"",
             "HANNIBAL: \"Take control.\"",
             "JACK CRAWFORD: \"You keep trying to be my psychiatrist, Dr. Lecter.\"",
@@ -719,12 +1084,15 @@
             "is_dream": false,
             "is_flashback": true,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE"
+            "location": "HANNIBAL\u2019S OFFICE",
+            "episode": "Hannibal_1x06_Entree"
         },
         "content": [
+            "this is",
+            "2 YEARS EARLIER",
             "MIRIAM LASS: \"My name is Miriam Lass. With the FBI.  I'd show you my credentials, but I'm actually just a trainee.\"",
             "HANNIBAL: \"Never just a trainee. An agent in training. Please.  Come in.\"",
-            "MIRIAM LASS: \"I was hoping to talk to you about a former patient, not necessarily one of yours, but someone you might have come in contact with. When you were a practicing physician.\"",
+            "MIRIAM LASS: \"I was hoping to talk to you about a former patient, not necessarily one of yours, but someone you mighthave come in contact with. When you were a practicing physician.\"",
             "HANNIBAL: \"I haven't practiced medicine in some time, but fortunately for you I have a very good memory.\"",
             "MIRIAM LASS: \"His name was Jeremy Olmstead.\"",
             "HANNIBAL: \"Perhaps not so good a memory after all.  I don't recall a patient with that name, but it sounds familiar.\"",
@@ -739,7 +1107,7 @@
             "MIRIAM LASS: \"Figured it was a long shot.\"",
             "HANNIBAL: \"I did keep detailed journals during those days. If you like, I can get them for you. Maybe you'll find something helpful.\"",
             "MIRIAM LASS: \"That'd be great. Would you mind?\"",
-            "HANNIBAL: \"Not at all. If you'll wait here, I'll be right back.\"",
+            "HANNIBAL: \"Not at all. If you'll waithere, I'll be right back.\"",
             "MIRIAM LASS: \"Thank you. level.  Miriam strolls over to a table with drawings. ON MIRIAM LASS She casually peruses the stack of pencil illustrations. ON THE TABLE OF PENCIL SKETCHES A drawing of the WOUND MAN, an illustration used in early medical books featuring a man covered in impalements. WORKSHOP The VICTIM's wounds seen earlier in the WORKSHOP closely resemble the battle injuries of the drawing.\"",
             "POP BACK TO:: \"MIRIAM LASS Her face goes slack, recognizing the connection between the CAMERA DRIFTS DOWN TO THE FLOOR where it FINDS HANNIBAL'S SOCKED FEET padding across the room quietly and quickly toward Miriam, sneaking up behind her. ON HANNIBAL'S HANDS They reach out, hanging briefly in the air, and then SNATCH. elegant precision, hoisting her off her feet. She cries out but her YELP is cut short. She kicks violently, legs swinging, sending the table and pencil drawings into the air. twists and throws, trying in vain to knock him off balance. presses his face almost sensually against the back of her neck to protect face and eyes from her slashing fingernails. Miriam's eyes roll, defeated, tear-filled, knowing she's ON THE WOUND MAN ILLUSTRATION A gush of blood sprays across the stack of drawings scattered on the floor and the overturned table. As the blood is absorbed into the paper, we\""
         ]

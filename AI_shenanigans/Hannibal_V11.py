@@ -29,10 +29,14 @@ class HannibalParser:
             "A STILL OF WILL GRAHAM", "A SIGN", "UTTER DARKNESS", "A RECORD NEEDLE",
             "A RIBBON OF CELLULOID", "A SPINNING SPROCKET WHEEL", "A RADIANT VISION",
             "A FULL MOON", "A HALF MOON", "A MOON-SHAPED HOLE", "A SMASHED MIRROR",
-            "A BLOCK OF WOOD", "A CRACKLING FIRE", "A BUBBLING SOUP POT", "THE ATTIC",
-            "A FOOT", "THE NECK STUMP", "GOLDEN GATES", "A VOTIVE CANDLE",
-            "A SHIFTING, FLUTTERING ORANGE LIGHT", "THE CITY FOUNTAIN", 
-            "A TRANSPARENT VESSEL", "THE DRAGON'S WINGS", "A CAGE"
+            "A TRANSPARENT VESSEL", "THE DRAGON'S WINGS", "A CAGE",
+            "Written by", "Created by", "Directed by", "Story by", "Teleplay by", "Based on the characters", 
+            "Based on the novel", "Production Draft", "Shooting Script",
+            "Executive Producer", "Executive Producers", "PRODUCED BY", "Co-Executive Producer",
+            "Associate Producer", "Consulting Producer", "Staff Writer",
+            "PROPERTY OF:", "GAUMONT", "CHISWICK", "ALL RIGHTS RESERVED",
+            "NO PORTIONS OF THIS SCRIPT", "PERFORMED, OR REPRODUCED", "WRITTEN CONSENT",
+            "SCRIPT MAY BE", "QUOTED, OR PUBLISHED"
         ]
 
         # ==========================================
@@ -50,7 +54,16 @@ class HannibalParser:
             # Footer filtering
             r"HANNIBAL\s+Ep\.\s+#\d+.*",
             r"\d{2}/\d{2}/\d{2}\s+\d+\.?\s*$",
-            r"^\s*\d+\.\s*$"
+            r"^\s*\d+\.\s*$",
+            r"^\d+\.$",  # Page numbers like "1."
+            r"^Hannibal\s+#", # Header junk "Hannibal #303"
+            r"\d{1,2}/\d{1,2}/\d{2,4}", # Dates
+            r"^\(CONTINUED\)$",
+            r"^\s*©", r"^\s*\(c\)", r"^\s*\u00a9",
+            r"^\s*[0-9]+$", # Isolated page numbers
+            r"^\s*Bryan Fuller", r"^\s*Thomas Harris", r"^\s*David Slade", r"^\s*Steve Lightfoot",
+            r"^\s*Tim Hunter", r"^\s*Guillermo Navarro", r"^\s*Michael Rymer",
+            r"^\s*Chris Brancato", r"^\s*Jesse Alexander", r"^\s*Martha De Laurentiis"
         ]
 
         # ==========================================
@@ -129,6 +142,30 @@ class HannibalParser:
         text = text.replace("\u201c", '"').replace("\u201d", '"')
         text = text.replace("\u2018", "'").replace("\u2019", "'")
         
+        # Normalize punctuation and spacing
+        text = re.sub(r"\s+([.,?!:;])", r"\1", text) # Remove space before punct
+        text = re.sub(r"\s+'\s+", "'", text) # Remove floating apostrophes
+        text = re.sub(r"'\s+", "'", text) # Remove space after apostrophe
+        text = re.sub(r"\s+'", "'", text) # Remove space before apostrophe
+        text = re.sub(r"\.\s\.\s\.", "...", text) # Fix spaced ellipsis
+        
+        # Fix common pdf extraction ligatures/spacing
+        text = text.replace("f i", "fi").replace("f l", "fl").replace("t h", "th")
+        
+        # Split specific common merged words (safer list). Expanded based on manual proofread.
+        # e.g. "puther" -> "put her", "methim" -> "met him", "couldn'thave" -> "couldn't have", "thoughthe" -> "thought he"
+        common_starts = r"(but|and|that|what|this|about|let|if|put|cut|out|got|met|set|at|of|in|on|for|with|by|to|do|go|are|was|were|be|been|have|has|had|can|will|would|could|should|did|does|don't|won't|can't|couldn't|wouldn't|shouldn't|didn't|doesn't|isn't|aren't|wasn't|weren't|haven't|hasn't|hadn't|myself|himself|herself|yourself|themselves|ourselves|thought|think|said|says|ask|asked|tell|told|know|knew|see|saw|seen|look|looked|give|gave|take|took|come|came|just|well|like|make|made|where|when|why|who|how|which|then|than|from)"
+        common_ends = r"(he's|he|she|it|is|in|if|as|at|him|her|his|have|has|had|an|us|we|my|go)"
+        text = re.sub(rf"\b{common_starts}{common_ends}\b", r"\1 \2", text, flags=re.IGNORECASE)
+
+        # Fix broken word spacing (e.g. "t h e" -> "the")
+        # Pattern: sequence of 3+ single letters separated by space
+        # We target specific common words to avoid false positives (e.g. "a b c")
+        text = re.sub(r"\b([a-z])\s+([a-z])\s+([a-z])\b", r"\1\2\3", text) 
+        text = re.sub(r"\b([a-z])\s+([a-z])\s+([a-z])\s+([a-z])\b", r"\1\2\3\4", text)
+        
+        # Case-insensitive removal of partial removers
+        
         # Case-insensitive removal of partial removers
         for item in self.PARTIAL_REMOVERS:
             text = re.sub(re.escape(item), "", text, flags=re.IGNORECASE)
@@ -153,7 +190,34 @@ class HannibalParser:
         
         if text.upper().startswith("REVEAL"):
             return "We see " + text[6:].strip()
+        if text.upper().startswith("REVEAL"):
+            return "We see " + text[6:].strip()
         return text
+
+    def clean_scene_content(self, content_list):
+        cleaned = []
+        in_note = False
+        for line in content_list:
+            if in_note:
+                if ")" in line:
+                    in_note = False
+                    parts = line.split(")", 1)
+                    if len(parts) > 1 and parts[1].strip():
+                        cleaned.append(parts[1].strip())
+                continue
+            
+            match = re.search(r"\(NOTE", line, re.IGNORECASE)
+            if match:
+                if ")" in line:
+                    line = re.sub(r"\(NOTE.*?\)", "", line, flags=re.IGNORECASE).strip()
+                    if line: cleaned.append(line)
+                else:
+                    in_note = True
+                    pre_note = line[:match.start()].strip()
+                    if pre_note: cleaned.append(pre_note)
+                continue
+            cleaned.append(line)
+        return cleaned
 
     def extract_scene_metadata(self, heading):
         """Extracts location, time, and mental state from sluglines."""
@@ -175,7 +239,7 @@ class HannibalParser:
         loc = re.sub(r"\s+[A-Z]*\d+[A-Z]*\.?$", "", loc)
         loc = re.sub(r"^(?:INT\.|EXT\.|I/E|INT/EXT)\s+", "", loc)
         
-        for noise in ["- DAY", "- NIGHT", "- MORNING", "- EVENING", "RESUMING", "CONTINUOUS", "PRESENT", "FLASHBACK", "TWILIGHT"]:
+        for noise in ["- DAY", "- NIGHT", "- MORNING", "- EVENING", "RESUMING", "CONTINUOUS", "PRESENT", "FLASHBACK", "TWILIGHT", "THE NEXT MORNING", "NEXT DAY", "LATER", "SAME TIME", "MOMENTS LATER"]:
             loc = loc.replace(noise, "")
         
         meta["location"] = loc.strip(" -")
@@ -215,7 +279,12 @@ class HannibalParser:
 
     def parse_pdf(self, pdf_path):
         scenes = []
-        current_scene = {"heading": "START", "metadata": {}, "content": []}
+        # Extract episode ID from filename (e.g. "Hannibal_1x01_Aperitif")
+        episode_id = os.path.basename(pdf_path).replace(".pdf", "")
+        
+        # Initialize START scene with valid defaults to pass validation
+        default_meta = {"is_dream": False, "is_flashback": False, "time": "UNKNOWN", "location": "UNKNOWN", "episode": episode_id}
+        current_scene = {"heading": "START", "metadata": default_meta, "content": []}
         active_speaker = None
         dialogue_buffer = []
 
@@ -231,7 +300,7 @@ class HannibalParser:
             dialogue_buffer = []
 
         with pdfplumber.open(pdf_path) as pdf:
-            for page in pdf.pages[1:]:
+            for page in pdf.pages:
                 text_content = page.extract_text(layout=True)
                 if not text_content: continue
                 
@@ -241,16 +310,27 @@ class HannibalParser:
                     
                     if l_type == "SLUGLINE":
                         flush_dialogue()
+                        current_scene["content"] = self.clean_scene_content(current_scene["content"])
                         if current_scene["content"]:
                             scenes.append(current_scene)
-                        current_scene = {"heading": content.strip(), "metadata": self.extract_scene_metadata(content), "content": []}
+                        
+                        new_meta = self.extract_scene_metadata(content)
+                        new_meta["episode"] = episode_id
+                        current_scene = {"heading": content.strip(), "metadata": new_meta, "content": []}
                     
                     elif l_type == "CHARACTER":
                         flush_dialogue()
                         active_speaker = self.clean_text(content)
                         
                     elif l_type == "DIALOGUE":
-                        dialogue_buffer.append(self.clean_text(content))
+                        clean_line = self.clean_text(content)
+                        if active_speaker:
+                            dialogue_buffer.append(clean_line)
+                        else:
+                            # Orphan dialogue (no speaker) - treat as Action/Text
+                            # This handles indented title card text or misinterpreted Action
+                            if clean_line:
+                                current_scene["content"].append(clean_line)
                         
                     elif l_type == "PARENTHETICAL":
                         cleaned_paren = self.clean_text(content)
@@ -263,6 +343,7 @@ class HannibalParser:
                         if action: current_scene["content"].append(action)
 
         flush_dialogue()
+        current_scene["content"] = self.clean_scene_content(current_scene["content"])
         if current_scene["content"]: scenes.append(current_scene)
         return scenes
 

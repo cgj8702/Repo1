@@ -1,9 +1,31 @@
 [
     {
         "heading": "START",
-        "metadata": {},
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "UNKNOWN",
+            "episode": "Hannibal_1x12_Releves"
+        },
         "content": [
+            "\"Relev\u00e9s\"",
+            "and",
             "\"Relev\u00e9s\""
+        ]
+    },
+    {
+        "heading": "1       EXT. BEDELIA\u2019S HOME OFFICE - AFTERNOON 1                    1",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "BEDELIA\u2019S HOME OFFICE - AFTERNOON 1",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "CAMERA PROWLS outside REVEALING BEDELIA DU MAURIER and",
+            "HANNIBAL LECTER inside through the large windows."
         ]
     },
     {
@@ -12,7 +34,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "BEDELIA'S HOME OFFICE - AFTERNOON 1"
+            "location": "BEDELIA'S HOME OFFICE - AFTERNOON 1",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
             "HANNIBAL: \"Will Graham is troubled.\"",
@@ -36,7 +59,9 @@
             "BEDELIA: \"When it comes to Will Graham, if your impulse is to step forward, force yourself to take a step back.\"",
             "HANNIBAL: \"And just watch him lose his mind?\"",
             "BEDELIA: \"Sometimes all we can do is watch.\"",
-            "3       GEORGIA MADCHEN'S P.O.V. - HYPERBARIC CHAMBER               3"
+            "3       GEORGIA MADCHEN'S P.O.V. - HYPERBARIC CHAMBER               3",
+            "The interior of the HYPERBARIC CHAMBER RACKS OUT OF FOCUS as",
+            "CAMERA FINDS WILL GRAHAM approaching in hospital attire,"
         ]
     },
     {
@@ -45,9 +70,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM  1"
+            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM  1",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will presses the intercom to speak with Georgia:",
             "WILL GRAHAM: \"You look better.\"",
             "GEORGIA MADCHEN: \"Do I look alive?\"",
             "WILL GRAHAM: \"You look pretty. Georgia hasn't felt pretty in some time, it takes her a moment to absorb a compliment from a handsome man. She self- consciously brushes her hair back.\"",
@@ -68,7 +95,8 @@
             "GEORGIA MADCHEN: \"But I don't remember it. I don't remember it like I did it. It feels more like some horrible dream where I killed my friend.\"",
             "WILL GRAHAM: \"You dream about killing anyone else?\"",
             "GEORGIA MADCHEN: \"I dreamt you killed that doctor.\"",
-            "5        - EPISODE 110 -                      5"
+            "5        - EPISODE 110 -                      5",
+            "FACELESS HANNIBAL kills Dr. Sutcliffe as Georgia looks on."
         ]
     },
     {
@@ -77,9 +105,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM"
+            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will and Georgia, as before.",
             "GEORGIA MADCHEN: \"But I couldn't see your face. OFF Will, haunted OUT OF FOCUS FACE The stranger slowly slides into clarity and CAMERA REVEALS\""
         ]
     },
@@ -89,9 +119,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOSPITAL - WILL GRAHAM'S ROOM  1"
+            "location": "HOSPITAL - WILL GRAHAM'S ROOM  1",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will opens his eyes, stirring as an aroma hits him. He sits",
+            "container allowing the steam to escape a rich amber broth.",
             "WILL GRAHAM: \"Smells delicious.\"",
             "HANNIBAL: \"Silkie chicken in a broth. A black boned bird prized in China for its medicinal value since the 7th century. With wolfberries, ginseng, ginger, red dates and star anise.\"",
             "WILL GRAHAM: \"You made me chicken soup. ON WILL AND HANNIBAL They sit silhouetted by the window, reminiscent of the first meal they shared together in EPISODE 101.\"",
@@ -115,14 +148,58 @@
         ]
     },
     {
+        "heading": "8       INT. HOSPITAL - GEORGIA MADCHEN'S ROOM - NIGHT 1            8",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM  1",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "Georgia Madchen wakes with a start. Hands shooting up to",
+            "touch the glass tube above her, she catches her breath as she",
+            "realizes where she is again.",
+            "GEORGIA'S P.O.V.",
+            "In the glass of the Hyperbaric chamber she stares at her",
+            "reflection.",
+            "ON GEORGIA",
+            "Realizing there's something odd in that mirror image. She",
+            "finds a PLASTIC COMB that was tucked beneath it.",
+            "Studying the comb, Georgia's gaze returns to her reflection.",
+            "GEORGIA'S P.O.V.",
+            "She raises the comb to her hair and runs its plastic teeth",
+            "through her tangled, dry hair.",
+            "CLOSE ON GEORGIA'S HAIR - SLOW MOTION",
+            "As the comb finishes its run, a SPARK of STATIC ELECTRICITY.",
+            "WIDER - INSIDE THE HYPERBARIC CHAMBER - SLOW MOTION",
+            "The spark is fed by the pure, pressurized oxygen in the",
+            "chamber. FWOOM. A ROILING FIREBALL UNFURLS down the length",
+            "of the tube before SPLASHING BACK and engulfing Georgia.",
+            "TIGHT ON GEORGIA'S FACE",
+            "She's consumed by FLAME.",
+            "OUTSIDE THE HYPERBARIC CHAMBER",
+            "It's FILLED WITH FIRE as poor Georgia Madchen is incinerated.",
+            "THE BLASTED OXYGEN CHAMBER",
+            "Through the open end, the incinerated mattress and BURNED",
+            "CORPSE of Georgia Madchen roll TOWARD CAMERA."
+        ]
+    },
+    {
         "heading": "9       INT. HOSPITAL - GEORGIA MADCHEN'S ROOM - DAY 2              9",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM  2"
+            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM  2",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Smoke stains the walls and the high tech HYPERBARIC CHAMBER.",
+            "BRIAN ZELLER studies the charred remains of Georgia Madchen",
+            "as JIMMY PRICE studies the charred remains of the chamber.",
+            "JACK CRAWFORD and Will Graham stand nearby. Will is still",
+            "wearing his hospital robe, holding his rolling IV stand.",
             "JACK CRAWFORD: \"Hospital speculates a short circuit could have ignited the fire.\"",
             "JIMMY PRICE: \"Unit looks well maintained. No exposed wiring.\"",
             "BRIAN ZELLER: \"Don't know if she suffocated or burned to death. We'll look for soot in the lining of her airways. Will fights the overwhelming sadness of Georgia's life.\"",
@@ -135,8 +212,8 @@
             "WILL GRAHAM: \"She wasn't suicidal, Jack. She was sick.  I was here. I spoke to her.\"",
             "JACK CRAWFORD: \"Why did you speak to her?\"",
             "WILL GRAHAM: \"Because I know what she felt like.\"",
-            "JACK CRAWFORD: \"She tried to kill you. She's a murder suspect. Being her friend impacts the case against her.\"",
-            "WILL GRAHAM: \"The case against her doesn't really matter anymore, does it? And with that, Will EXITS. OFF Jack watching him go\""
+            "JACK CRAWFORD: \"She tried to kill you. She's a murder suspect. Being her friend impacts the case againsther.\"",
+            "WILL GRAHAM: \"The case againsther doesn't really matter anymore, does it? And with that, Will EXITS. OFF Jack watching him go\""
         ]
     },
     {
@@ -145,9 +222,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM  2"
+            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM  2",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "CAMERA PULLS BACK from a gentle afternoon snowfall to find",
+            "ABIGAIL HOBBS and FREDDIE LOUNDS working at a table.",
             "FREDDIE LOUNDS: \"We could use the articles I wrote at the time of each of the murders as book chapter headings. Freddie lays out PICTURES OF EIGHT GIRLS as she organizes the work space with note cards and police records. She sets up a small recording device near Abigail and presses record.\"",
             "FREDDIE LOUNDS: \"Chapters themselves are you telling your story: where you were and what you were thinking when one by one eight girls, just like you, all over Minnesota, were disappearing. Abigail shifts in her seat, changing the subject.\"",
             "ABIGAIL HOBBS: \"What are we going to call it?\"",
@@ -164,7 +244,8 @@
             "FREDDIE LOUNDS: \"Nick Boyle didn't kill your friend.\"",
             "ABIGAIL HOBBS: \"Then who did?\"",
             "FREDDIE LOUNDS: \"Better question is who killed Nick.\"",
-            "A12      - EPISODE 103 -                    A12"
+            "A12      - EPISODE 103 -                    A12",
+            "Abigail stabs Nick Boyle, answering the question posed."
         ]
     },
     {
@@ -173,9 +254,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM"
+            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Freddie and Abigail, as before.",
             "FREDDIE LOUNDS: \"Nick Boyle was just a dumb kid who was really messed up because his sister was murdered. He wasn't a killer.  I've interviewed enough killers to know one when I see one.\"",
             "FREDDIE LOUNDS: \"What gives them away?\"",
             "FREDDIE LOUNDS: \"It's a very specific brand of hostility. I see it every time I look at Will Graham.\"",
@@ -186,14 +269,40 @@
         ]
     },
     {
+        "heading": "12      INT. WILL GRAHAM\u2019S HOUSE - NIGHT 2                         12",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "WILL GRAHAM\u2019S HOUSE  2",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "Will sleeps in his bed. The dogs are crowded together for",
+            "warmth near the fireplace.",
+            "HIS EYES",
+            "Open slowly. He leans up on an elbow.",
+            "A few feet away from his bed is GEORGIA MADCHEN, a melancholy",
+            "expression on her face as she stands over him.",
+            "WILL RISES",
+            "Only to find that Georgia is gone. He looks to the dogs and",
+            "sees that they sleep undisturbed.",
+            "Will goes to the front door and follows Georgia outside."
+        ]
+    },
+    {
         "heading": "13      EXT. WILL GRAHAM'S HOUSE - NIGHT 2                         13",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "WILL GRAHAM'S HOUSE  2"
+            "location": "WILL GRAHAM'S HOUSE  2",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will steps onto the porch.",
+            "HIS P.O.V.",
+            "Georgia stands at a remove from the house.",
             "GEORGIA MADCHEN: \"See?  See? WILL WATCHES, staggered, as IMMENSE ANTLERS IMPALE Georgia from behind, her back arching. As if from the heat of the immense antlers, GEORGIA'S BODY BURSTS INTO FLAME, disappearing in FWOOSH OF FIRE REVEALING: THE BLACK STAG It stares deeply into Will. ON WILL He can't breath, AS CAMERA PUSHES IN\""
         ]
     },
@@ -203,9 +312,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOSPITAL - WILL GRAHAM'S ROOM  2"
+            "location": "HOSPITAL - WILL GRAHAM'S ROOM  2",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will wakes up with a start.",
+            "CLOSE - ON JACK CRAWFORD",
             "JACK CRAWFORD: \"What are you doing here?\""
         ]
     },
@@ -215,9 +327,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - JACK CRAWFORD'S OFFICE  3"
+            "location": "F.B.I. ACADEMY - JACK CRAWFORD'S OFFICE  3",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will Graham approaches Jack at his desk.",
             "WILL GRAHAM: \"Checked myself out of the hospital.\"",
             "JACK CRAWFORD: \"Check yourself back in.\"",
             "WILL GRAHAM: \"Fever broke.\"",
@@ -243,16 +357,32 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - MORGUE  3"
+            "location": "B.A.U. - MORGUE  3",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Brian Zeller, Jimmy Price, Jack Crawford and Will Graham",
+            "stand over the CHARRED REMAINS of Georgia Madchen.",
             "BRIAN ZELLER: \"Dismantled the oxygen chamber to see if we could find evidence of someone tampering with the wiring or a short circuit. Nothing.\"",
             "JACK CRAWFORD: \"Then what sparked the fire?\"",
             "BRIAN ZELLER: \"Inconclusive.\"",
             "JIMMY PRICE: \"Not conclusively inconclusive. He turns their attention to a SMALL BAND OF MELTED PLASTIC.\"",
-            "JIMMY PRICE: \"Found this. Thought it might have been part of the bed or monitoring equipment, but mass spectrometer said it was celluloid plastic. They don't use plastic in these things.\"",
+            "JIMMY PRICE: \"Found this. Thought it mighthave been part of the bed or monitoring equipment, but mass spectrometer said it was celluloid plastic. They don't use plastic in these things.\"",
             "WILL GRAHAM: \"It generates static electricity. Jack takes the band of plastic, studying it.\"",
             "BRIAN ZELLER: \"It was by her head. Her hair was melted into it. Preserved almost like it was in amber. As CAMERA PUSHES IN ON Will taking in the sad dead girl\""
+        ]
+    },
+    {
+        "heading": "17      INT. HOSPITAL - GEORGIA MADCHEN'S ROOM - HYPERBARIC CHAMBER 17",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "HOSPITAL - GEORGIA MADCHEN'S ROOM - HYPERBARIC CHAMBER",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "Will looks at Georgia, who self-consciously touches her hair."
         ]
     },
     {
@@ -261,10 +391,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.A.U. - MORGUE"
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
-            "WILL GRAHAM: \"Could it have been a plastic comb?\"",
+            "As before.",
+            "WILL GRAHAM: \"Could ithave been a plastic comb?\"",
             "JIMMY PRICE: \"Static charge from a plastic comb in a highly oxygenated environment would have a powerful accelerant.\"",
             "BRIAN ZELLER: \"Everything combustible in there would combust. Will looks at the melted plastic in Jack's hand.\"",
             "WILL GRAHAM: \"You're holding the murder weapon.\"",
@@ -274,7 +406,9 @@
             "JACK CRAWFORD: \"She went further the second time. Serial killers often do. Will's mind whirls around the details and facts, then:\"",
             "WILL GRAHAM: \"She was copied. Like whoever killed Marissa Schuur and Cassie Boyle wanted to copy how Garret Jacob Hobbs killed his victims.\"",
             "19       - EPISODE 103 -                     19",
-            "20       - EPISODE 101 -                     20"
+            "Marissa Schuur hangs impaled on antlers in the Hobbs cabin.",
+            "20       - EPISODE 101 -                     20",
+            "Cassie Boyle impaled on the severed stag head in the field."
         ]
     },
     {
@@ -283,11 +417,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "B.A.U. - MORGUE"
+            "location": "B.A.U. - MORGUE",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "As before.",
             "WILL GRAHAM: \"But not exactly how.\"",
-            "JACK CRAWFORD: \"Wait, wait. Hold on.  Now you're telling me Dr. Sutcliffe was killed by Garret Jacob Hobbs' Copy Cat?\"",
+            "JACK CRAWFORD: \"Wait, wait. Hold on.  Now you're telling me Dr. Sutcliffe was killed by Garret Jacob Hobbs'Copy Cat?\"",
             "WILL GRAHAM: \"And so was Georgia Madchen. Because he thinks she saw his face.\"",
             "JACK CRAWFORD: \"You said Nicholas Boyle was the Copy Cat. His blood was on one of the victims. Nicholas Boyle's dead.\"",
             "WILL GRAHAM: \"Then he wasn't the copy cat. OFF Jack Crawford studying Will\"",
@@ -300,7 +436,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL\u2019S OFFICE  3"
+            "location": "HANNIBAL\u2019S OFFICE  3",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
             "JACK CRAWFORD: \"Will's connecting murders that previously had no connection.\"",
@@ -309,7 +446,7 @@
             "HANNIBAL: \"You're wondering if the lines are blurring or if he's onto something.\"",
             "JACK CRAWFORD: \"I'm wondering all sorts of things.\"",
             "HANNIBAL: \"May I ask, do you believe Georgia Madchen was murdered?\"",
-            "JACK CRAWFORD: \"There's evidence to suggest her death was intentional but it could have easily been by her own hand.\"",
+            "JACK CRAWFORD: \"There's evidence to suggesther death was intentional but it could have easily been by her own hand.\"",
             "HANNIBAL: \"This woman was bested by madness. Perhaps what Will can't accept is that she took her own life so she wouldn't kill again.\"",
             "JACK CRAWFORD: \"Why is that so hard to accept?\"",
             "HANNIBAL: \"If she could survive her delusions, then maybe he could survive his. He was hallucinating when he shot Abel Gideon. In his mind, he was killing Garret Jacob Hobbs. Again.\"",
@@ -335,9 +472,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "BEDELIA\u2019S HOME OFFICE  3"
+            "location": "BEDELIA\u2019S HOME OFFICE  3",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Bedelia rises to answer the knocking at the door. She peers",
+            "through an EYEHOLE. Intrigued.",
+            "WIDER, as Bedelia swings open the door.",
             "JACK CRAWFORD: \"Dr. Du Maurier? I'm Special Agent Jack Crawford with the FBI.  I'd like to speak with you about a patient of yours. OFF her curiosity\""
         ]
     },
@@ -347,9 +488,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "BEDELIA'S HOME OFFICE  3"
+            "location": "BEDELIA'S HOME OFFICE  3",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Jack Crawford surveys Bedelia's home as she closes the door",
             "BEDELIA: \"Do you have a court order?\"",
             "JACK CRAWFORD: \"I'd rather not get one. May I sit? She gestures him toward a chair.\"",
             "BEDELIA: \"Please. So this isn't an official inquiry.\"",
@@ -370,12 +513,12 @@
             "BEDELIA: \"Yes.  Thank god.\"",
             "JACK CRAWFORD: \"There was an attack in Dr. Lecter's office involving another patient. Two dead. Including the patient.\"",
             "BEDELIA: \"Not bad psychology, Agent Crawford. Putting me in a position of having to defend or not defend Dr. Lecter.\"",
-            "JACK CRAWFORD: \"Have to admit he's had some strange relationships with his patients.\"",
+            "JACK CRAWFORD: \"Have to admithe's had some strange relationships with his patients.\"",
             "BEDELIA: \"Complicated patients are conducive to complicated relationships.\"",
             "JACK CRAWFORD: \"How far would Dr. Lecter go in his therapy to treat a patient? Specifically Will Graham.\"",
             "BEDELIA: \"more like a friend than a patient.\"",
             "JACK CRAWFORD: \"Alright. How far would Dr. Lecter go to treat a friend?\"",
-            "BEDELIA: \"He doesn't have many of them, so I suspect he would be loyal. I know he's concerned about Mr. Graham and very much wants to help him.\"",
+            "BEDELIA: \"He doesn't have many of them, so I suspecthe would be loyal. I know he's concerned about Mr. Graham and very much wants to help him.\"",
             "JACK CRAWFORD: \"I consider Will a friend. And I want to help him, too.\"",
             "BEDELIA: \"Seems to me Will Graham could use OFF Jack Crawford taking that in CLOSE ON - JACK CRAWFORD CAMERA PULLS BACK TO REVEAL\""
         ]
@@ -386,20 +529,24 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - MORGUE  4"
+            "location": "B.A.U. - MORGUE  4",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "CAMERA CONTINUES PULLING BACK REVEALING the bodies of DR.",
+            "SUTCLIFFE and GEORGIA MADCHEN, each lying on a corpse tray",
+            "extending out from the open MORGUE DRAWER.",
             "JACK CRAWFORD: \"Will Graham theorized the Copy Cat killer had some connection to Garret Jacob Hobbs, some personal insight into his life. They may have even met, known each other.  Killed together. CAMERA REVEALS Jack speaks to Jimmy Price and Brian Zeller.\"",
             "BRIAN ZELLER: \"Less of a theory, more of a hypothesis.\"",
             "JIMMY PRICE: \"Theories require evidence.\"",
             "JACK CRAWFORD: \"Let's play Jeopardy. The answer is: these people were killed by the Copy Cat, who has some connection to Garret Jacob Hobbs. Now you ask the right questions.\"",
             "BRIAN ZELLER: \"You mean beyond the application of supposition and unexplained leaps?\"",
-            "JIMMY PRICE: \"I've been yearning for a return to the fundamentals of investigation.\"",
+            "JIMMY PRICE: \"I've been yearning for a return to the fundamentals ofinvestigation.\"",
             "JACK CRAWFORD: \"Where's Beverly?\"",
             "BRIAN ZELLER: \"She's still deposed in court.\"",
-            "JACK CRAWFORD: \"Get her out of court. Look at train station, airport, toll road and hotel details. Track Garret Jacob Hobbs through license plate captures on security footage, and every phone call he made and where he made it from.\"",
+            "JACK CRAWFORD: \"Gether out of court. Look at train station, airport, toll road and hotel details. Track Garret Jacob Hobbs through license plate captures on security footage, and every phone call he made and where he made it from.\"",
             "JIMMY PRICE: \"I'll see if R&I can loan a couple of clerks to help cross-match.\"",
-            "JACK CRAWFORD: \"I want to know every place he went that wasn't home. I want to know who he was there with. How long he was there and the travel time to the nearest missing girl in the Minnesota Shrike case. OFF that call to action\""
+            "JACK CRAWFORD: \"I want to know every place he went that wasn'thome. I want to know who he was there with. How long he was there and the travel time to the nearest missing girl in the Minnesota Shrike case. OFF that call to action\""
         ]
     },
     {
@@ -408,9 +555,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM  4"
+            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM  4",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will Graham and Abigail Hobbs talk privately near the",
+            "greenhouse atrium, in hushed tones:",
             "ABIGAIL HOBBS: \"You told me killing somebody was the ugliest thing in the world.\"",
             "WILL GRAHAM: \"One of them.\"",
             "ABIGAIL HOBBS: \"I finally get it. I thought there was something wrong with me because I didn't feel ugly when I killed Nick Boyle. I felt good.  That's why it was so easy to lie about it.\"",
@@ -440,7 +590,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "BEDELIA'S HOME OFFICE  4"
+            "location": "BEDELIA'S HOME OFFICE  4",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
             "BEDELIA: \"An agent from the F.B.I. came to see me.  He asked questions about your relationship with Will Graham.\"",
@@ -468,35 +619,49 @@
         ]
     },
     {
+        "heading": "A28     EXT. HANNIBAL LECTER'S OFFICE - DAY 5                     A28",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HANNIBAL LECTER'S OFFICE  5",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "TIME-LAPSE ESTABLISHING."
+        ]
+    },
+    {
         "heading": "28      INT. HANNIBAL LECTER'S OFFICE - DAY 5                      28",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HANNIBAL LECTER'S OFFICE  5"
+            "location": "HANNIBAL LECTER'S OFFICE  5",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
-            "WILL GRAHAM: \"I'm much better now. I feel clearer. It had to be the fever.\"",
+            "WILL GRAHAM: \"I'm much better now. I feel clearer. Ithad to be the fever.\"",
             "HANNIBAL: \"You checked yourself out of the hospital against the recommendation of your attending physician.\"",
             "WILL GRAHAM: \"He gave me antibiotics.\"",
             "HANNIBAL: \"This is not the behavior of someone who is thinking clearly.\"",
             "WILL GRAHAM: \"I'm finally thinking clearly about the Copy Cat.\"",
-            "HANNIBAL: \"The murders you're attributing to the Copy Cat have suspects, whose DNA was found on the victims.\"",
+            "HANNIBAL: \"The murders you're attributing to the Copy Cathave suspects, whose DNA was found on the victims.\"",
             "WILL GRAHAM: \"So what?\"",
             "HANNIBAL: \"You're choosing to ignore that?\"",
             "WILL GRAHAM: \"Both of those suspects are dead. I'm choosing to factor that into my psychological profile of a killer. Georgia Madchen followed me to Sutcliffe's office. She witnessed his murder, she saw the Copy Cat.\"",
             "HANNIBAL: \"Why not kill her then and there?\"",
-            "WILL GRAHAM: \"He must not have had time. She was an unreliable witness. And that bought him the time.\"",
+            "WILL GRAHAM: \"He must nothave had time. She was an unreliable witness. And that boughthim the time.\"",
             "HANNIBAL: \"So he framed her for the murder?\"",
             "WILL GRAHAM: \"He wasn't planning on framing her. He was planning on framing me.\"",
             "HANNIBAL: \"You believe this is personal.\"",
             "WILL GRAHAM: \"If it wasn't before, it is now. It could be someone at the Bureau, someone in the police force, someone who knows the crimes, and has access to the investigations.\"",
             "HANNIBAL: \"Someone like you. Will considers that briefly, then dismisses the notion.\"",
-            "WILL GRAHAM: \"There will be evidence. I found a pattern. And now I'm going to reconstruct his thinking.\"",
+            "WILL GRAHAM: \"There will be evidence. I found a pattern. And now I'm going to reconstructhis thinking.\"",
             "HANNIBAL: \"How do you intend to do that?\"",
             "WILL GRAHAM: \"Take Abigail back to Minnesota. Start where the Copy Cat started. With Garret Jacob Hobbs.\"",
             "HANNIBAL: \"Will, this is venturing into the paranoid. I can't allow you to pull Abigail into your delusion.\"",
-            "WILL GRAHAM: \"This isn't a delusion. I'm not hallucinating. I haven't lost time.  I am awake and this is real.\""
+            "WILL GRAHAM: \"This isn't a delusion. I'm nothallucinating. I haven't lost time.  I am awake and this is real.\""
         ]
     },
     {
@@ -505,9 +670,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - JACK CRAWFORD'S OFFICE  5"
+            "location": "F.B.I. ACADEMY - JACK CRAWFORD'S OFFICE  5",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Brian Zeller and Jimmy Price report to Jack Crawford:",
             "BRIAN ZELLER: \"We found train tickets purchased by Garret Jacob Hobbs.\"",
             "JACK CRAWFORD: \"Tickets.\"",
             "JIMMY PRICE: \"Two.\"",
@@ -517,10 +684,10 @@
             "BRIAN ZELLER: \"We know he wasn't traveling alone. Jack is putting it together before they can tell him.\"",
             "JACK CRAWFORD: \"He was traveling with his daughter.\"",
             "BRIAN ZELLER: \"They were registered for an orientation program at St. Cloud State on the Mississippi, where the Nichols girl was going to school.\"",
-            "JIMMY PRICE: \"Abigail Hobbs attended orientations at every school where a girl was abducted by the Minnesota Shrike. Within days of the abduction.\"",
+            "JIMMY PRICE: \"Abigail Hobbs attended orientations at every school where a girl was abducted by the Minnesota Shrike. With in days of the abduction.\"",
             "BRIAN ZELLER: \"She was with her father when he chose the girls.\"",
             "JACK CRAWFORD: \"Or she helped him choose the girls.\"",
-            "BRIAN ZELLER: \"The connection the Copy Cat has to Garret Jacob Hobbs could be family.\"",
+            "BRIAN ZELLER: \"The connection the Copy Cathas to Garret Jacob Hobbs could be family.\"",
             "JACK CRAWFORD: \"The Copy Cat was inspired by her own father? Killed Cassie Boyle to impress dad? Killed Marissa Schuur in memoriam and then killed Nick Boyle to cover her tracks?\"",
             "BRIAN ZELLER: \"Why would she kill Sutcliffe and the Madchen girl?\"",
             "JACK CRAWFORD: \"Either she's got a taste for it or she wants to impress someone new. OFF that\""
@@ -532,9 +699,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM  5"
+            "location": "PSYCHIATRIC HOSPITAL - COMMON ROOM  5",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Jack ENTERS flanked by TWO FBI AGENTS, TWO POLICE OFFICERS.",
+            "CAMERA REVEALS Freddie Lounds sitting at a table alone.",
             "FREDDIE LOUNDS: \"Hello, Agent Crawford.\"",
             "JACK CRAWFORD: \"Freddie Lounds.\"",
             "FREDDIE LOUNDS: \"You look like you came here to arrest somebody. Is it Abigail Hobbs or Will Graham?\"",
@@ -545,7 +715,7 @@
             "JACK CRAWFORD: \"Anybody say where they were going? I know you asked.\"",
             "FREDDIE LOUNDS: \"Said they were off without a peep. Attendants don't even know they're gone.  I wonder what they're up to. Since you came here to arrest Abigail, I'd say it's no good. Jack doesn't blink.\"",
             "JACK CRAWFORD: \"How's the book coming?\"",
-            "FREDDIE LOUNDS: \"There's some plot holes.\"",
+            "FREDDIE LOUNDS: \"There's some plotholes.\"",
             "JACK CRAWFORD: \"Tell me how you're filling them in. She eyes Jack, considering all the angles, then:\"",
             "FREDDIE LOUNDS: \"Did Abigail Hobbs kill Nick Boyle?\"",
             "JACK CRAWFORD: \"What makes you say that?\"",
@@ -562,15 +732,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL LECTER'S OFFICE  5"
+            "location": "HANNIBAL LECTER'S OFFICE  5",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
             "JACK CRAWFORD: \"What the hell is going on between Will Graham and Abigail Hobbs?\"",
             "HANNIBAL: \"Will has been victim to many unusual and irrational thoughts.\"",
             "JACK CRAWFORD: \"Has he acted on those thoughts?\"",
-            "HANNIBAL: \"Not that I'm aware of or he's aware of, for that matter. But he has experienced periods of lost time.\"",
+            "HANNIBAL: \"Not that I'm aware of or he's aware of, for that matter. But he has experienced periods oflost time.\"",
             "JACK CRAWFORD: \"I've seen him confused at crime scenes.  He was disoriented.\"",
-            "HANNIBAL: \"He may've been confused because he was waking up. Might not have known where he was or how he got there.\"",
+            "HANNIBAL: \"He may've been confused because he was waking up. Might nothave known where he was or how he got there.\"",
             "JACK CRAWFORD: \"Waking up?\"",
             "HANNIBAL: \"From a dissociated personality state.  He would appear perfectly normal and not remember a thing. But a fractured part of him would.\"",
             "JACK CRAWFORD: \"You knew about this.\"",
@@ -592,8 +763,21 @@
             "HANNIBAL: \"Is Will Graham a suspect?\"",
             "JACK CRAWFORD: \"This dissociated personality state you say he goes into whose personality is it?\"",
             "HANNIBAL: \"Will said he got so close to Garret Jacob Hobbs and what he had done, he felt like he was becoming him.\"",
-            "JACK CRAWFORD: \"Now Will has Hobbs' daughter.\"",
+            "JACK CRAWFORD: \"Now Will has Hobbs'daughter.\"",
             "HANNIBAL: \"Who Hobbs was intending to kill. OFF that revelation\""
+        ]
+    },
+    {
+        "heading": "A32     EXT. SKY - DAY 6 (STOCK)                                  A32",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "SKY  6 (STOCK)",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "A COMMERCIAL AIRLINER drifts into FRAME."
         ]
     },
     {
@@ -602,9 +786,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "AIRPLANE  6"
+            "location": "AIRPLANE  6",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "CAMERA TRACKS down the aisle to find WILL staring into middle",
+            "distance as ABIGAIL stares out the window at the world below.",
             "ABIGAIL HOBBS: \"Minnesota is so flat.\"",
             "WILL GRAHAM: \"Blame the glaciers.\"",
             "ABIGAIL HOBBS: \"It's why we have so many lakes.\"",
@@ -614,9 +801,64 @@
             "ABIGAIL HOBBS: \"Glaciers ripped up the Minnesota when they retreated into Canada, exposed the irregularities in the earth, filled them up with water.\"",
             "WILL GRAHAM: \"Exposing irregularities is good. Can be good. Occasionally not. She continues to look out the window.\"",
             "ABIGAIL HOBBS: \"Good as long as you fill them up with something. Least that's what we did in the Hobbs Family.\"",
-            "ABIGAIL HOBBS: \"Would've been my mom's birthday next week. We were gonna climb Eagle Mountain to celebrate. Highest point in Minnesota, but it's not really that high. Less than three hours to summit. You can see Lake Superior from there.\"",
+            "ABIGAIL HOBBS: \"Would've been my mom's birthday next week. We were gonna climb Eagle Mountain to celebrate. Highest point in Minnesota, but it's not really thathigh. Less than three hours to summit. You can see Lake Superior from there.\"",
             "WILL GRAHAM: \"I'll take you, if you want to go.\"",
             "ABIGAIL HOBBS: \"I think it would just make me sad. Some places are stained now. Some people, too. I know I am.\""
+        ]
+    },
+    {
+        "heading": "A33     EXT. HOBBS CABIN - DAY 6                                  A33",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HOBBS CABIN  6",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "A RENTAL CAR creeps down the driveway toward the familiar,",
+            "yet ominous RUSTIC HUNTING CABIN surrounded by barren trees",
+            "and drifts of snow. Innocent but for the tragedy inside."
+        ]
+    },
+    {
+        "heading": "B33     INT. RENTAL CAR - DAY 6                                   B33",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "RENTAL CAR  6",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "Will Graham and Abigail Hobbs stare in silence at the Rustic",
+            "Cabin looming as they drive up to the front door."
+        ]
+    },
+    {
+        "heading": "C33     EXT. HOBBS CABIN - DAY 6                                  C33",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HOBBS CABIN  6",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "Will and Abigail get out of the car and approach the cabin."
+        ]
+    },
+    {
+        "heading": "D33     INT. HOBBS CABIN - DAY 6                                  D33",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HOBBS CABIN  6",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "The door OPENS, Will and Abigail silhouetted in the frame."
         ]
     },
     {
@@ -625,9 +867,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOBBS CABIN - ANTLER ROOM  6"
+            "location": "HOBBS CABIN - ANTLER ROOM  6",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will and Abigail move cautiously through the space, as if the",
+            "air itself was still filled with screams.",
             "WILL GRAHAM: \"The Copy Cat knew your father well enough to know about this place.\"",
             "ABIGAIL HOBBS: \"You felt like you knew my father.\"",
             "WILL GRAHAM: \"I tried to know him. I still try.\"",
@@ -641,10 +886,10 @@
             "WILL GRAHAM: \"That's not what I'm asking. All those girls your father killed. Did you fish or did you hunt, Abigail? The question hangs in the air, then:\"",
             "ABIGAIL HOBBS: \"I was the lure. Will more or less hides his profound sadness at that.\"",
             "WILL GRAHAM: \"No.  He didn't.\"",
-            "ABIGAIL HOBBS: \"He said that you'd protect me. That you'd keep it secret. Will is at a loss for words. He places his hands on Abigail's shoulders; it's terrifying for him to look her in the eyes, to see all of his belief in her innocence gone. He finally meets her gaze, and picks her up and VIOLENTLY SHOVES HER AGAINST THE WALL OF ANTLERS, running her through. Abigail's scream takes us suddenly back to:  Will stares at the antlers hanging on the wall, empty. No Abigail impaled on them. Instead, she stands behind him.\"",
+            "ABIGAIL HOBBS: \"He said that you'd protect me. That you'd keep it secret. Will is at a loss for words. He places his hands on Abigail's shoulders; it's terrifying for him to look her in the eyes, to see all of his beliefin her innocence gone. He finally meets her gaze, and picks her up and VIOLENTLY SHOVES HER AGAINST THE WALL OF ANTLERS, running her through. Abigail's scream takes us suddenly back to:  Will stares at the antlers hanging on the wall, empty. No Abigail impaled on them. Instead, she stands behind him.\"",
             "ABIGAIL HOBBS: \"Something's wrong with you. I think you're still sick. Will reacts, disturbed by the image conjured in his head.\"",
             "WILL GRAHAM: \"Jack Crawford was right. He knew. You killed Nick Boyle. You helped your father kill all those girls.\"",
-            "ABIGAIL HOBBS: \"I didn't help my dad kill anyone.\"",
+            "ABIGAIL HOBBS: \"I didn'thelp my dad kill anyone.\"",
             "WILL GRAHAM: \"You lured them. You killed them. Who else have you killed? Abigail shrinks away from Will, terrified.\"",
             "ABIGAIL HOBBS: \"Do you think I'm the Copy Cat? You think I killed Marissa?\"",
             "WILL GRAHAM: \"If you didn't kill her, Abigail, someone you know did. Will rubs his head, confused by the images racing through his mind, trying to massage them into coherency.\"",
@@ -657,9 +902,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "AIRPLANE  6"
+            "location": "AIRPLANE  6",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Will blinks. CAMERA PULLS BACK TO REVEAL he is sitting alone",
+            "on the nearly deserted plane.",
+            "An AIRLINE CLEANING CREW moves through the cabin, collecting",
+            "discarded trash, wiping down arm rests and tray tables. A",
+            "member of the Cleaning Crew vacuums in the background.",
+            "A FLIGHT ATTENDANT quietly interrupts Will's confusion:",
             "FLIGHT ATTENDANT: \"Sir. I'm afraid I have to ask you to leave.  We're preparing the cabin for the next passengers.\"",
             "WILL GRAHAM: \"I'm sorry.\"",
             "FLIGHT ATTENDANT: \"Are you on a connecting flight?\"",
@@ -672,18 +924,37 @@
         ]
     },
     {
+        "heading": "A35     INT. HOBBS HOUSE - FOYER - NIGHT 6                        A35",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HOBBS HOUSE - FOYER  6",
+            "episode": "Hannibal_1x12_Releves"
+        },
+        "content": [
+            "Abigail quietly sneaks up the stairs, careful not to make too",
+            "much noise. The air is perfectly still and her footsteps",
+            "make nearly no noise as moves into:"
+        ]
+    },
+    {
         "heading": "35      INT. HOBBS HOUSE - KITCHEN - CONTINUOUS                    35",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HOBBS HOUSE - KITCHEN"
+            "location": "HOBBS HOUSE - KITCHEN",
+            "episode": "Hannibal_1x12_Releves"
         },
         "content": [
+            "Abigail walks in and STARTLES to FIND HANNIBAL LECTER",
+            "standing against the counter. Waiting for her.",
+            "She immediately runs into his arms for a huge hug.",
             "ABIGAIL HOBBS: \"What are you doing here?\"",
             "HANNIBAL: \"I was worried about you. Will told me he was taking you to Minnesota. I strongly advised against it. He gently releases the hug, looking Abigail in the eyes:\"",
             "HANNIBAL: \"Where is Will, Abigail?\"",
-            "ABIGAIL HOBBS: \"I left him at the cabin. I didn't feel safe with him. So I left him. He knows everything.\"",
+            "ABIGAIL HOBBS: \"I lefthim at the cabin. I didn't feel safe with him. So I lefthim. He knows everything.\"",
             "HANNIBAL: \"So does Jack Crawford. Abigail's mind spins, her options narrowing.\"",
             "ABIGAIL HOBBS: \"If I run, they'll catch me, won't they. You can't protect me anymore.\"",
             "HANNIBAL: \"They'll arrest you when they find you.  They'll arrest Will, too.\"",

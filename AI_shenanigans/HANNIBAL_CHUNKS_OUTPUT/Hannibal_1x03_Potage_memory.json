@@ -1,8 +1,19 @@
 [
     {
         "heading": "START",
-        "metadata": {},
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "UNKNOWN",
+            "location": "UNKNOWN",
+            "episode": "Hannibal_1x03_Potage"
+        },
         "content": [
+            "\"Potage\"",
+            "David Fury",
+            "David Fury",
+            "and",
+            "and",
             "\"Potage\""
         ]
     },
@@ -12,10 +23,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "HOBBS RESIDENCE - KITCHEN  (RE-USE EP 101)"
+            "location": "HOBBS RESIDENCE - KITCHEN  (RE-USE EP 101)",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
-            "ABIGAIL: \"Hello?  Just a second.  Dad.  It's for you. A CANOPY OF TREES Shafts of light penetrate the branches and autumnal leaves creating a moody sur in the early morning mist.\""
+            "A bright, intelligent young woman, ABIGAIL HOBBS answers the",
+            "PHONE her mother LOUISE and father JACOB are preparing",
+            "breakfast in the background.",
+            "ABIGAIL: \"Hello?  Just a second.  Dad.  It's for you. A CANOPY OF TREES Shafts oflight penetrate the branches and autumnal leaves creating a moody sur in the early morning mist.\""
         ]
     },
     {
@@ -24,10 +39,45 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "MISTY FOREST  1"
+            "location": "MISTY FOREST  1",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "A serene tableau of natural beauty. A DISTANT CRICK and a",
+            "listening. Previously munching leaves, it is now still.",
+            "An eerie quiet moment, then from far away P'KEE.",
+            "CLOSE ON - DOE'S EAR",
+            "A small piece of it is TAKEN OFF as BULLET GRAZES LOBE.",
+            "The DOE BOLTS.",
+            "DOE P.O.V.",
+            "She races through the forest, darting between trees and dense",
+            "brush, desperate, terrified. Her HEART POUNDS, circulatory",
+            "system a raging torrent in her ears. She runs.",
+            "CLOSE ON - FIELD GLASSES",
+            "They lower to reveal a HUNTER, fully-outfitted, with his",
+            "daughter.  This is GARRET JACOB HOBBS, our killer from",
+            "episode 101, and his daughter ABIGAIL, 19.",
+            "He hands her the field glasses.",
+            "ABIGAIL'S P.O.V. -- THE DOE",
+            "It slows and stops, scanning the area, warily catching its",
+            "breath, listening. She turns to stare DIRECTLY at Abigail.",
+            "Sensing danger, the doe lopes away through the woods.",
+            "A GUN RAISES on Abigail's shoulder, a 7 by 57 ROBERTS,",
             "GARRET JACOB HOBBS: \"Be patient. Wait for the shot. Abigail Hobbs tracks the doe, squints through the scope, FINGER SQUEEZES the trigger, the GUN FIRES LOUDLY -- On GARRET AND ABIGAIL, waiting with anticipation until they hear a toppling CRASH in the woods. CAMERA PUSHES IN ON Abigail.  She's not as happy about the kill as her father. P.O.V. THROUGH PICKUP TRUCK WINDSHIELD Over the carcass of the fallen DOE, we pull up in front of --\""
+        ]
+    },
+    {
+        "heading": "3       EXT. RUSTIC HUNTING CABIN - DAY 1                          3",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "RUSTIC HUNTING CABIN  1",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "Abigail and her father, Jacob, park in front of the cabin and",
+            "climb out of the pickup, beginning to untie the DOE."
         ]
     },
     {
@@ -36,9 +86,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "RUSTIC HUNTING CABIN - MINNESOTA"
+            "location": "RUSTIC HUNTING CABIN - MINNESOTA",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Abigail and Jacob haul the DOE CARCASS into the room and",
+            "place her carefully on the GUTTING/SKINNING TABLE.",
             "ABIGAIL: \"She was so pretty.\"",
             "GARRET JACOB HOBBS: \"She is so pretty.\"",
             "ABIGAIL: \"Aren't deer supposed to be complex emotional creatures?\"",
@@ -50,10 +103,35 @@
             "ABIGAIL: \"Dad, I could'a killed the deer that was going to solve global warming.\"",
             "GARRET JACOB HOBBS: \"Don't tell your mother. Having successfully secured the doe to the gutting table, Abigail studies it sympathetically a moment.\"",
             "ABIGAIL: \"They are a lot like us. They care about each other, they care about their environment. They tread lightly through underbrush because they don't want to hurt plants.\"",
-            "GARRET JACOB HOBBS: \"They are a lot like us and we will honor every part of her. Her hide is going to be a beautiful rug, her leg bones we can carve into knives. None of her will go to waste. CLOSE ON - ABIGAIL AND JACOB CAMERA FRAME OBSCURES THE DOE. Garret hands his daughter a BUTTERFLY KNIFE and watches as Abigail guts the suspended deer carcass -- all ACTION MOMENTARILY OFF-CAMERA.\"",
+            "GARRET JACOB HOBBS: \"They are a lot like us and we will honor every part of her. Her hide is going to be a beautiful rug, her leg bones we can carve into knives. None of her will go to waste. CLOSE ON - ABIGAIL AND JACOB CAMERA FRAME OBSCURES THE DOE. Garrethands his daughter a BUTTERFLY KNIFE and watches as Abigail guts the suspended deer carcass -- all ACTION MOMENTARILY OFF-CAMERA.\"",
             "GARRET JACOB HOBBS: \"Like we talked about. Start at the sternum, keep the blade pointed up. Damage any organs, ruin the meat. Her blood-soaked hand reaches into the OFF-SCREEN DOE.\"",
             "ABIGAIL HOBBS: \"I don't know how I'm going to feel about eating her after all this. on the cabin wall isn't a doe, but instead is ELISE NICHOLS, one of the Minnesota Shrike's victims seen in EPISODE 101.\"",
             "GARRET JACOB HOBBS: \"Eating her is honoring her. Otherwise it's just murder.\""
+        ]
+    },
+    {
+        "heading": "5       INT. PSYCHIATRIC HOSPITAL - ABIGAIL HOBBS\u2019 ROOM - NIGHT 1  5",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "PSYCHIATRIC HOSPITAL - ABIGAIL HOBBS\u2019 ROOM  1",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "CLOSE ON ABIGAIL, respirator mask over her mouth, eyes rolled",
+            "up, lids fluttering when she SUDDENLY takes a SHARP INTAKE OF",
+            "BREATH.  Her eyes snap wide open and she blinks focus to",
+            "them.  As she takes in her surroundings, WIDEN to see her",
+            "laid out in her hospital bed. Other than the respirator, and",
+            "rapid BEEPING of the heart monitor attached to her, the floor",
+            "seems quiet, deserted. The previous scene was a NIGHTMARE.",
+            "we're in",
+            "BALTIMORE, MARYLAND",
+            "Disoriented, her hands instinctively go to her throat,",
+            "feeling the bandages wrapped around it. Panicked, she yanks",
+            "off the oxygen mask, rips away at the sensors, wires, and",
+            "intravenous lines attached to her, with mounting anxiety"
         ]
     },
     {
@@ -62,11 +140,18 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "MORNING",
-            "location": "WILL GRAHAM\u2019S HOUSE - PATIO - EARLY MORNING 2"
+            "location": "WILL GRAHAM\u2019S HOUSE - PATIO - EARLY MORNING 2",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "WILL GRAHAM steps out onto his porch in boxers and a t-shirt,",
+            "hair tussled from recently getting out of bed. He's followed",
+            "by his PACK OF DOGS. The pooches bound down the stairs toward",
+            "the driveway and Will suddenly realizes he's not alone.",
+            "CAMERA FINDS ALANA BLOOM stepping out of her car to greet the",
+            "dogs as they return the favor. She smiles at Will.",
             "ALANA BLOOM: \"Morning.\"",
-            "WILL GRAHAM: \"I didn't hear you drive up.\"",
+            "WILL GRAHAM: \"I didn'thear you drive up.\"",
             "ALANA BLOOM: \"Hybrid.  Good car for stalking.\"",
             "WILL GRAHAM: \"I'm compelled to go cover myself.\"",
             "ALANA BLOOM: \"I have brothers.\"",
@@ -84,9 +169,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "WILL GRAHAM\u2019S HOUSE - KITCHEN - LATER"
+            "location": "WILL GRAHAM\u2019S HOUSE - KITCHEN",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Will and Alana sit in his kitchen sipping tea as Will's PHONE",
+            "RINGS and RINGS and RINGS and RINGS and finally stops.",
             "WILL GRAHAM: \"Is he going to keep calling?\"",
             "ALANA BLOOM: \"Jack wants you to go see her.\"",
             "WILL GRAHAM: \"And you don't.\"",
@@ -105,9 +193,23 @@
             "WILL GRAHAM: \"I'm not collecting another stray.\"",
             "ALANA BLOOM: \"I told you it was insulting.\"",
             "WILL GRAHAM: \"I get it. I can trust a dog to be a dog, but I can't trust Abigail Hobbs to be who I think she is.\"",
-            "ALANA BLOOM: \"The first person Abigail talks to about what happened can't be anyone who was there when it happened. That means no Dr. Lecter, either.\"",
+            "ALANA BLOOM: \"The first person Abigail talks to about whathappened can't be anyone who was there when ithappened. That means no Dr. Lecter, either.\"",
             "WILL GRAHAM: \"Much less the guy who killed Dad.\"",
             "ALANA BLOOM: \"Let me reach out to her my own way.\""
+        ]
+    },
+    {
+        "heading": "8       INT. PSYCHIATRIC HOSPITAL - HALLWAY - DAY 2                8",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "PSYCHIATRIC HOSPITAL - HALLWAY  2",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "ALANA BLOOM waddles down the corridor, struggling to hold",
+            "onto the SEVERAL SHOPPING BAGS she's carrying."
         ]
     },
     {
@@ -116,9 +218,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "PSYCHIATRIC HOSPITAL - ABIGAIL HOBBS\u2019 ROOM"
+            "location": "PSYCHIATRIC HOSPITAL - ABIGAIL HOBBS\u2019 ROOM",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Alana ENTERS as quietly as possible, given the circumstances,",
+            "to find ABIGAIL HOBBS sitting up in bed, reading a book,",
+            "exhausted, vacant, looking like she just woke up from a coma.",
             "ALANA BLOOM: \"Hi.  I'm Alana Bloom. Alana unloads the shopping bags on the couch.\"",
             "ABIGAIL: \"Are you a doctor?\"",
             "ALANA BLOOM: \"Not medicine. I'm a psychiatrist.\"",
@@ -143,7 +249,7 @@
             "ABIGAIL: \"What're all those?\"",
             "ALANA BLOOM: \"Brought you some clothes. Thought a change would feel good. I guessed your size. Anything you don't want keep the tags on. I'll return it. And I brought you some music, too.\"",
             "ABIGAIL: \"Your music?\"",
-            "ALANA BLOOM: \"If there isn't anything you like, I got a stack of iTunes gift cards. I've got a stack of gift cards. I don't do well redeeming gift cards.\"",
+            "ALANA BLOOM: \"If there isn't anything you like, I got a stack ofiTunes gift cards. I've got a stack of gift cards. I don't do well redeeming gift cards.\"",
             "ABIGAIL: \"Probably says something about you.\"",
             "ALANA BLOOM: \"Probably does.\""
         ]
@@ -154,9 +260,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE  2"
+            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE  2",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Alana Bloom and HANNIBAL sit across from JACK CRAWFORD.",
             "JACK CRAWFORD: \"I have 7 families waiting, let me rephrase, demanding that we find whatever's left of their daughters. Abigail Hobbs is the only person I can ask who might know the truth.\"",
             "ALANA BLOOM: \"You can't ask her right now. We have to create a safe place for her first or you won't get any answers.\"",
             "JACK CRAWFORD: \"I respect your sympathy for her, Doctor Bloom. One day I hope you'll appreciate my lack of it.\"",
@@ -165,7 +273,7 @@
             "HANNIBAL: \"7 sisters, in Abigail's mind. When she learns of her father's crimes.\"",
             "JACK CRAWFORD: \"May already know about them. Her DNA's all over his slaughterhouse.\"",
             "ALANA BLOOM: \"You really think Abigail helped her father kill those girls?\"",
-            "JACK CRAWFORD: \"It is one possibility that needs to be ruled out. If she didn't help her father, she may know who did.\"",
+            "JACK CRAWFORD: \"It is one possibility that needs to be ruled out. If she didn'thelp her father, she may know who did.\"",
             "HANNIBAL: \"How was Abigail? When you saw her?\"",
             "ALANA BLOOM: \"Surprisingly practical.\"",
             "JACK CRAWFORD: \"Suspiciously practical?\"",
@@ -194,18 +302,33 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "F.B.I. ACADEMY - LECTURE HALL  2"
+            "location": "F.B.I. ACADEMY - LECTURE HALL  2",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
-            "WILL GRAHAM: \"Same age, same height, same weight as his daughter Abigail. But there was a ninth victim who fit Abigail Hobbs' profile but Garret Jacob Hobbs didn't murder her. CLICK.  A PICTURE OF CASSIE BOYLE, impaled on the antlers of a severed stag head, her death a grotesque work of art.\"",
+            "Will Graham stands in front of his classroom.",
+            "WILL GRAHAM: \"Same age, same height, same weight as his daughter Abigail. But there was a ninth victim who fit Abigail Hobbs'profile but Garret Jacob Hobbs didn't murder her. CLICK.  A PICTURE OF CASSIE BOYLE, impaled on the antlers of a severed stag head, her death a grotesque work of art.\"",
             "WILL GRAHAM: \"The killer who did wanted us to know he wasn't the Minnesota Shrike. He was better than that. He is an intelligent psychopath. He is a sadist. He will never kill like this again. So how do we catch him? ANGLE TO INCLUDE THE ENTRANCE projection screen bounces off their faces. In hushed tones:\"",
-            "HANNIBAL: \"Giving a lecture on Hobbs' Copy Cat?\"",
+            "HANNIBAL: \"Giving a lecture on Hobbs'Copy Cat?\"",
             "JACK CRAWFORD: \"Need every mind on this we can get. ON WILL GRAHAM\"",
-            "WILL GRAHAM: \"This Copy Cat is an avid reader of Freddie Lounds and TattleCrime.com. He had intimate knowledge of Garret Jacob Hobbs' murders. Motives, patterns. Enough to recreate them and arguably elevate them. To art. CLICK.  A PICTURE OF ABIGAIL and GARRET JACOB HOBBS in happier times on a hunting expedition.\"",
-            "WILL GRAHAM: \"How intimately did he know Garret Jacob Hobbs? Did he appreciate him from afar, or did he engage him? Did he ingratiate himself into Hobbs' life? Did Hobbs know his Copy Cat as he knew him? CLICK.  A PICTURE OF LOUISE HOBBS, her throat sliced open, lying in a dark pool of her own blood.\"",
+            "WILL GRAHAM: \"This Copy Cat is an avid reader of Freddie Lounds and TattleCrime.com. He had intimate knowledge of Garret Jacob Hobbs'murders. Motives, patterns. Enough to recreate them and arguably elevate them. To art. CLICK.  A PICTURE OF ABIGAIL and GARRET JACOB HOBBS in happier times on a hunting expedition.\"",
+            "WILL GRAHAM: \"How intimately did he know Garret Jacob Hobbs? Did he appreciate him from afar, or did he engage him? Did he ingratiate himselfinto Hobbs'life? Did Hobbs know his Copy Cat as he knew him? CLICK.  A PICTURE OF LOUISE HOBBS, her throat sliced open, lying in a dark pool of her own blood.\"",
             "WILL GRAHAM: \"Before Garret Jacob Hobbs murdered his wife and attempted to do the same to his daughter, he received an untraceable call, re-routed through a swatting service. CLICK.  A PICTURE OF GARRET JACOB HOBBS, bloodied and filled with bullets, slumped dead in the corner of his kitchen.\"",
             "WILL GRAHAM: \"I believe the as-yet unidentified caller was our Copy Cat Killer. ON JACK CRAWFORD AND HANNIBAL\"",
             "HANNIBAL: \"Brilliant.\""
+        ]
+    },
+    {
+        "heading": "12      EXT. PSYCHIATRIC HOSPITAL - DAY 2 - ESTABLISHING          12",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "PSYCHIATRIC HOSPITAL  2 - ESTABLISHING",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "TIME-LAPSE."
         ]
     },
     {
@@ -214,9 +337,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PSYCHIATRIC HOSPITAL - ABIGAIL HOBBS\u2019 ROOM  2"
+            "location": "PSYCHIATRIC HOSPITAL - ABIGAIL HOBBS\u2019 ROOM  2",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Abigail sits upright in bed, senses on alert.",
             "ABIGAIL: \"So you're not a doctor or a nurse or a psychiatrist? CAMERA REVEALS FREDDIE LOUNDS standing across from her.\"",
             "FREDDIE LOUNDS: \"I'm a journalist. I want to tell the truth. Your truth.  Sometimes that involves some deception. But know this, I will never lie to you.\"",
             "ABIGAIL: \"Sounds like what a liar would say.\"",
@@ -243,7 +368,7 @@
             "WILL GRAHAM: \"I'm Special Agent Will Graham. As Freddie is escorted to the door:\"",
             "FREDDIE LOUNDS: \"By Special Agent, he means not really an Agent. He didn't get past the screening process.  Too unstable.\"",
             "HANNIBAL: \"I must insist you leave the room. Before leaving, Freddie offers Abigail a business card.\"",
-            "FREDDIE LOUNDS: \"If you want to talk -- Will snatches the card without saying a word. Freddie doesn't offer any more resistance as the Orderlies escort her out.\"",
+            "FREDDIE LOUNDS: \"If you want to talk -- Will snatches the card without saying a word. Freddie doesn't offer any more resistance as the Orderlies escorther out.\"",
             "WILL GRAHAM: \"Abigail, this is Doctor Lecter Do you remember us?\""
         ]
     },
@@ -253,11 +378,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HOBBS RESIDENCE - KITCHEN (RE-USE EP 1O1)"
+            "location": "HOBBS RESIDENCE - KITCHEN (RE-USE EP 1O1)",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
-            "15      ABIGAIL HOBBS' ROOM - RESUMING                            15",
-            "ABIGAIL: \"I remember you. You killed my dad. That hangs there a moment, a weighted memory, then:\"",
+            "Abigail lies bleeding, gasping, terrified. Will frantically",
+            "kneels besides Abigail and applies pressure to her wound.",
+            "15      ABIGAIL HOBBS'ROOM - RESUMING                            15",
+            "ABIGAIL: \"I remember you. You killed my dad. Thathangs there a moment, a weighted memory, then:\"",
             "HANNIBAL: \"You've been in a bed for 3 weeks, Abigail. Why don't we have a walk?\""
         ]
     },
@@ -267,15 +395,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PSYCHIATRIC HOSPITAL - GARDENS  2"
+            "location": "PSYCHIATRIC HOSPITAL - GARDENS  2",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
             "WILL GRAHAM: \"I'm sorry we couldn't save your mother.  We did everything we could, but she was already gone. Tears sting Abigail's eyes, threatening to spill, but don't.\"",
             "ABIGAIL: \"I know.  I saw him kill her.\"",
             "HANNIBAL: \"You saw it?\"",
-            "ABIGAIL: \"It was sort of like seeing it.\"",
+            "ABIGAIL: \"It was sort oflike seeing it.\"",
             "HANNIBAL: \"There was no vocabulary for your mind to articulate the violence.\"",
-            "ABIGAIL: \"Didn't seem real. He was loving right up until the second he wasn't.  He kept telling me he was sorry and to just hold still. He was going to make it all go away.\"",
+            "ABIGAIL: \"Didn't seem real. He was loving right up until the second he wasn't.  He kept telling me he was sorry and to justhold still. He was going to make it all go away.\"",
             "WILL GRAHAM: \"There was plenty wrong with your father, Abigail, but there's nothing wrong with you. You said he was loving. I believe it. That's what you brought out in him.\"",
             "ABIGAIL: \"It's not all I brought out in him.\"",
             "HANNIBAL: \"Did he tell you about the young women he murdered?\"",
@@ -297,14 +426,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "PSYCHIATRIC HOSPITAL - PARKING LOT  2"
+            "location": "PSYCHIATRIC HOSPITAL - PARKING LOT  2",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "approach and quickly stands, almost respectfully.",
             "FREDDIE LOUNDS: \"Special Agent Graham, I never formally introduced myself.  I'm Freddie Lounds.\"",
             "WILL GRAHAM: \"Trying to salvage this joke from the mouth of madness?\"",
             "FREDDIE LOUNDS: \"Please.  Let me apologize for my behavior in there. It was sloppy and misguided. And hurtful.\"",
             "HANNIBAL: \"Miss Lounds, now isn't the time.\"",
-            "FREDDIE LOUNDS: \"Look, you and I may have our own reasons for being here, but I also think we both genuinely care what happens to Abigail Hobbs.\"",
+            "FREDDIE LOUNDS: \"Look, you and I may have our own reasons for being here, but I also think we both genuinely care whathappens to Abigail Hobbs.\"",
             "WILL GRAHAM: \"You told her I was insane.\"",
             "FREDDIE LOUNDS: \"I can un-do that.\"",
             "WILL GRAHAM: \"You help Abigail see me as more than her father's killer and I help you with online ad sales?\"",
@@ -318,14 +449,16 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE  2"
+            "location": "B.A.U. - JACK CRAWFORD\u2019S OFFICE  2",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Jack sits behind his desk reading off his computer screen:",
             "JACK CRAWFORD: \"\"It's not very smart to piss off a guy who thinks about killing people for a living.\" Know what else isn't very smart? and Alana sit on either side of Will, mutually concerned.\"",
             "JACK CRAWFORD: \"You were there with him and you let those words come out of his mouth.\"",
             "HANNIBAL: \"I trust Will to speak for himself.\"",
             "JACK CRAWFORD: \"Evidently, you shouldn't.\"",
-            "ALANA BLOOM: \"I'm just happy the story wasn't about Abigail Hobbs.\"",
+            "ALANA BLOOM: \"I'm justhappy the story wasn't about Abigail Hobbs.\"",
             "JACK CRAWFORD: \"Then it's a victory. Abigail Hobbs wants to go home. Let's take Abigail Hobbs home.\"",
             "ALANA BLOOM: \"What Abigail wants and what she needs are two different things. Taking her out of a controlled environment would be reckless.\"",
             "JACK CRAWFORD: \"You said she was practical.\"",
@@ -334,7 +467,7 @@
             "JACK CRAWFORD: \"Doctor Lecter?\"",
             "HANNIBAL: \"Doctor Bloom is right, but there is a scenario where revisiting the trauma event could help Abigail heal and actually prevent denial.\"",
             "JACK CRAWFORD: \"We have a difference of opinion, therefore I'm choosing the opinion that best serves my agenda.\"",
-            "ALANA BLOOM: \"Will killed her father to save her life.  If she sees Will as her savior and he doesn't meet her expectations, she could transfer rage toward her father onto him.\"",
+            "ALANA BLOOM: \"Will killed her father to save her life.  If she sees Will as her savior and he doesn't meether expectations, she could transfer rage toward her father onto him.\"",
             "JACK CRAWFORD: \"He'll deal with it. I want to know if Will's right about our Copy Cat.\"",
             "HANNIBAL: \"That the Copy Cat called the Hobbs house before the murders? Jack nods.\"",
             "ALANA BLOOM: \"We have no way of knowing what's waiting for her when she goes home.\""
@@ -346,9 +479,12 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "TBD MINNESOTA COFFEE BAR LOCATION"
+            "location": "TBD MINNESOTA COFFEE BAR LOCATION",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "NICHOLAS BOYLE sits at a table as Freddie Lounds approaches",
+            "with two cups of coffee, sitting one down in front of him.",
             "FREDDIE LOUNDS: \"Thanks again for meeting me. I know this hasn't been easy for you.\"",
             "NICK BOYLE: \"How would you know?\"",
             "FREDDIE LOUNDS: \"I've been writing about Garret Jacob Hobbs. I've spoken to relatives of his other victims.\"",
@@ -361,14 +497,33 @@
         ]
     },
     {
+        "heading": "19      EXT. HOBBS RESIDENCE - DAY 3                              19",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "HOBBS RESIDENCE  3",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "Alana and Abigail step out to consider the Hobbs home.",
+            "REVERSE TO REVEAL in 8-FOOT-TALL LETTERS scrawled across the",
+            "front of the house, graffiti style, the word CANNIBALS.",
+            "OFF Abigail"
+        ]
+    },
+    {
         "heading": "20      EXT. HOBBS RESIDENCE - DAY 3                              20",
         "metadata": {
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOBBS RESIDENCE  3"
+            "location": "HOBBS RESIDENCE  3",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "faded rust-colored stain on the front step, where her mother",
+            "died, her eyes brimming with tears but not overflowing.",
             "ABIGAIL: \"I was sort of expecting a body outline in chalk or tape.\"",
             "WILL GRAHAM: \"They only do that if you're still alive and taken to the hospital before they finish the crime scene. Those words wash over Abigail, she's barely aware of them.\"",
             "ABIGAIL: \"Goodbye, mom.\""
@@ -380,10 +535,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOBBS RESIDENCE - FOYER  3"
+            "location": "HOBBS RESIDENCE - FOYER  3",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "The DOOR OPENS in the darkened space. Alana and Abigail",
             "22      THE KITCHEN                                               22",
+            "Abigail lingers in the doorway. The room is more or less",
+            "scrubbed, thoroughly gone over by CLEANERS.",
             "ALANA BLOOM: \"If you ever want to go, you just have to say so and we will go.\"",
             "ABIGAIL: \"Go where? Back to the hospital?\"",
             "ALANA BLOOM: \"For now. into the kitchen. She notices all the family pictures on the refrigerator have been turned around.\"",
@@ -419,14 +578,17 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOBBS RESIDENCE  3"
+            "location": "HOBBS RESIDENCE  3",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Will, Alana and Abigail scrub with soap and brush the",
+            "bucket of soapy water -- the extent of his hard labor.",
             "ABIGAIL: \"Can you catch somebody's crazy?\"",
             "ALANA BLOOM: \"Folie a deux.\"",
             "ABIGAIL: \"What?\"",
-            "ALANA BLOOM: \"A French psychiatric term. \"Madness shared by two.\" Will's BREATHING and HEART BEAT grow deafening in his ears as he stares at the door when it suddenly OPENS. LOUISE HOBBS, bleeding and wheezing, is shoved onto the doorstep by GARRET JACOB HOBBS, who slams the door behind her. Will SNAPS BACK TO , continuing to scrub the graffiti off the side of the house.\"",
-            "HANNIBAL: \"One can not be delusional if the belief in question is accepted as ordinary by others in that person's culture or subculture. Or family.\"",
+            "ALANA BLOOM: \"A French psychiatric term. \"Madness shared by two.\" Will's BREATHING and HEART BE AT grow deafening in his ears as he stares at the door when it suddenly OPENS. LOUISE HOBBS, bleeding and wheezing, is shoved onto the doorstep by GARRET JACOB HOBBS, who slams the door behind her. Will SNAPS BACK TO, continuing to scrub the graffiti off the side of the house.\"",
+            "HANNIBAL: \"One can not be delusional if the beliefin question is accepted as ordinary by others in that person's culture or subculture. Or family.\"",
             "ABIGAIL: \"My dad didn't seem delusional. He was a perfectionist. After he skinned a deer, he would pluck the loose hair. Most people use a torch.  Dad would remove all the hair by hand. He wanted to make sure he got every one of them.\"",
             "WILL GRAHAM: \"Your dad left almost no evidence.\"",
             "ABIGAIL: \"Is that why you let me come home? To find evidence?\"",
@@ -449,10 +611,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "HOBBS RESIDENCE - BACKYARD - STREAM  3"
+            "location": "HOBBS RESIDENCE - BACKYARD - STREAM  3",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
-            "MARISSA: \"Does it hurt?\"",
+            "Abigail and Marissa walk the stream that runs like a scar",
+            "through the yard. Marissa nods at Abigail's bandaged neck.",
+            "MARISSA: \"Does ithurt?\"",
             "ABIGAIL: \"Sometimes.\"",
             "MARISSA: \"I thought it was TV. But I was watching Applejack and Twilight and they don't scream like that. And then there was all this shooting. Bang-bang-bang-bang-bang-bang. Very surreal, very public. Everybody on the block was on the news and then everybody at school. Whores.\"",
             "ABIGAIL: \"They won't let me online.\"",
@@ -469,7 +634,7 @@
             "MARISSA: \"Both, now that you mention it.  I don't think you did it.\"",
             "MAN'S VOICE: \"I do. The girls look over to see a MAN IN HIS MID-20s named NICK.\"",
             "ABIGAIL: \"This is private property.\"",
-            "NICK BOYLE: \"You were the bait. Is that how it worked?  Lure 'em back to daddy for dinner?  How'd you trap my sister? Chat her up? Say things girls say?\"",
+            "NICK BOYLE: \"You were the bait. Is thathow it worked?  Lure'em back to daddy for dinner?  How'd you trap my sister? Chather up? Say things girls say?\"",
             "MARISSA: \"Piss.  Off. Marissa picks up a rock and throws it at Nick. He sidesteps to avoid her stone, continues to harass.\"",
             "NICK BOYLE: \"You help dad cut my sister's lungs out while she was still using them? Marissa throws another rock, striking Nick across his forehead, leaving a small gash. He stumbles, briefly silenced.  When he looks up, clutching his bloody head wound, his looks right at Marissa, murder in his eyes then he reacts and quickly turns and RUNS. Marissa and the house. Alana and MARISSA'S MOTHER (early 40s) follow immediately behind. Abigail turns, but Nick is already gone.\"",
             "HANNIBAL: \"Who was that?\"",
@@ -485,9 +650,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HOBBS RESIDENCE - ACROSS THE STREAM - MOMENTS LATER"
+            "location": "HOBBS RESIDENCE - ACROSS THE STREAM - MOMENTS",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "looking for Nick Boyle.",
             "WILL GRAHAM: \"He's gone. near the stream. As he turns to meet Will, his foot inconspicuously kicks a few dead leaves to cover the stone.\"",
             "WILL GRAHAM: \"You've never seen him before?\"",
             "ABIGAIL: \"No.  Have you? Will shakes his head \"no.\"\"",
@@ -501,10 +668,51 @@
             "is_dream": true,
             "is_flashback": false,
             "time": "DAY",
-            "location": "WILL GRAHAM\u2019S HOUSE  - DREAMSCAPE"
+            "location": "WILL GRAHAM\u2019S HOUSE  - DREAMSCAPE",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
-            "WILL GRAHAM: \"I'm sorry, Abigail. Please just hold still. Please.  I'm going to make it all go away. Will stares at the BEAST, then cuts Abigail's throat. ARTERIAL SPRAY peppers the grass in large drops. A horrible TONE pierces the air as the BLACK STAG BOLTS. WILL GRAHAM He startles awake in his bed at the abrasive drone of the ALARM CLOCK, drenched with sweat.\""
+            "SLOW MOTION. Will stands outside his home, an eerie moment",
+            "of silence, his CIRCULATORY SYSTEM humming in his ear, then a",
+            "subtle crunching of grass indicates Will is not alone.",
+            "He glances over to see",
+            "A BLACK STAG",
+            "It walks quietly through the meadow toward Will, who holds",
+            "his breath, taking in the surreal vision of this beast. The",
+            "BLACK STAG stops and watches Will.",
+            "ON WILL GRAHAM",
+            "He is now holding ABIGAIL HOBBS with a knife to her throat.",
+            "WILL GRAHAM: \"I'm sorry, Abigail. Please justhold still. Please.  I'm going to make it all go away. Will stares at the BEAST, then cuts Abigail's throat. ARTERIAL SPRAY peppers the grass in large drops. A horrible TONE pierces the air as the BLACK STAG BOLTS. WILL GRAHAM He startles awake in his bed at the abrasive drone of the ALARM CLOCK, drenched with sweat.\""
+        ]
+    },
+    {
+        "heading": "27      INT. MOTEL ROOM - DAY 4                                   27",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "MOTEL ROOM  4",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "Will peels off his wet t-shirt and shuffles to the curtains",
+            "to let a blast of DAYLIGHT into the darkened room."
+        ]
+    },
+    {
+        "heading": "28      EXT. RUSTIC HUNTING CABIN - DAY 4                         28",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "RUSTIC HUNTING CABIN  4",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "down the driveway as they pull in front of the cabin. Once",
+            "Abigail step out of the car, taking in the cabin.",
+            "A LOCAL DETECTIVE and TWO POLICE OFFICERS remove the CRIME",
+            "Alana and Abigail to ENTER. They wait respectfully outside."
         ]
     },
     {
@@ -513,12 +721,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "RUSTIC HUNTING CABIN  4"
+            "location": "RUSTIC HUNTING CABIN  4",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "The DOOR OPENS and Abigail steps inside as Will wads up the",
+            "CRIME SCENE TAPE in a loose ball and tosses it aside.",
             "ABIGAIL: \"He cleaned everything. He said he was afraid of germs but I guess he was just afraid of getting caught.\"",
             "WILL GRAHAM: \"No one else ever came up here with your dad? Except you?  Ever help him make plumbing putty?\"",
-            "ABIGAIL: \"He made everything by himself. Plumbing putty, glue, butter. He sold the pelts on ebay or in town. He made pillows. Carved knives out of leg bones. No parts went to waste.  Otherwise it was murder. Was feeding them to us, wasn't he? No one responds immediately, then:\"",
+            "ABIGAIL: \"He made everything by himself. Plumbing putty, glue, butter. He sold the pelts on ebay or in town. He made pillows. Carved knives out ofleg bones. No parts went to waste.  Otherwise it was murder. Was feeding them to us, wasn't he? No one responds immediately, then:\"",
             "HANNIBAL: \"It's very likely. Abigail crosses to the gutting/skinning table.\"",
             "ABIGAIL: \"Before he cut my throat, he told me he killed those girls so he wouldn't have to kill me.\"",
             "ALANA BLOOM: \"You're not responsible for anything your father did, Abigail.\"",
@@ -531,10 +742,32 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "RUSTIC HUNTING CABIN - ANTLER ROOM  4"
+            "location": "RUSTIC HUNTING CABIN - ANTLER ROOM  4",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "stare at something horrifying. Will speaks to his phone:",
             "WILL GRAHAM: \"I need ERT at the Hobbs Cabin. REVERSE TO REVEAL A YOUNG WOMAN hangs naked, impaled on a RACK OF ANTLERS. Will approaches and slowly lifts the young woman's head. and Alana. Her eyes go wide, realizing what has happened. OFF Abigail's SCREAM\""
+        ]
+    },
+    {
+        "heading": "A31     EXT. RUSTIC HUNTING CABIN - ANTLER ROOM - DAY 4          A31",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "DAY",
+            "location": "RUSTIC HUNTING CABIN - ANTLER ROOM  4",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "POLICE CARS and POLICE OFFICERS everywhere. CAMERA TRACKS",
+            "along the cabin, barely staying ahead of a POLICE OFFICER",
+            "Abigail is being comforted by Alana along the edge of the",
+            "woods as the CRIME SCENE INVESTIGATORS move in and out of the",
+            "HOBBS CABIN. An F.B.I. S.U.V. barrels down the dirt road.",
+            "Abigail and Alana watch as JACK CRAWFORD steps out.",
+            "WILL GRAHAM",
+            "ANTLERS CURL AROUND CAMERA as CAMERA PULLS BACK TO REVEAL"
         ]
     },
     {
@@ -543,9 +776,11 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "DAY",
-            "location": "RUSTIC HUNTING CABIN - ANTLER ROOM  4"
+            "location": "RUSTIC HUNTING CABIN - ANTLER ROOM  4",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "admires the handiwork of her killer.",
             "WILL GRAHAM: \"Do you think she knew him?\"",
             "HANNIBAL: \"Her killer?\"",
             "WILL GRAHAM: \"Abigail. Do you think she knew the guy down by the stream?\"",
@@ -554,11 +789,11 @@
             "HANNIBAL: \"The young woman on the stag head.\"",
             "WILL GRAHAM: \"Cassie Boyle. She had a brother. Nicholas. But Garret Jacob Hobbs didn't kill Cassie Boyle. With gloved hands and plastic tools, Will respectfully levers Marissa's jaw wide. Wielding a LED FLASHLIGHT with ALTERNATIVE LIGHT SOURCE, he shines it into Marissa's mouth.\"",
             "HANNIBAL: \"I know. Garret Jacob Hobbs would have honored every part of her. Jack Crawford climbs the stairs, already frustrated.\"",
-            "JACK CRAWFORD: \"You bring Abigail Hobbs back to Minnesota to find out if she had anything to do with her father's murders and another girl dies. Will tries to ignore Jack's frustrations, pushing forward on the forensic investigation at hand:\"",
-            "WILL GRAHAM: \"There's talcum on her lip. He was wearing gloves when he hit her. Split the latex on her tooth.\"",
+            "JACK CRAWFORD: \"You bring Abigail Hobbs back to Minnesota to find out if she had anything to do with her father's murders and another girl dies. Will tries to ignore Jack's frustrations, pushing forward on the forensic investigation athand:\"",
+            "WILL GRAHAM: \"There's talcum on her lip. He was wearing gloves when he hither. Split the latex on her tooth.\"",
             "JACK CRAWFORD: \"You said the Copy Cat was an intelligent psychopath. No traceable motive. No patterns.  He would never kill like this again.\"",
             "WILL GRAHAM: \"I may have been wrong about that.\"",
-            "JACK CRAWFORD: \"Garret Jacob Hobbs didn't hit girls.  Why would his Copy Cat?\"",
+            "JACK CRAWFORD: \"Garret Jacob Hobbs didn'thit girls.  Why would his Copy Cat?\"",
             "HANNIBAL: \"He was provoked.\"",
             "WILL GRAHAM: \"Scraped his knuckle on her teeth. There's foreign tissue and what could be trace amounts of blood.\"",
             "JACK CRAWFORD: \"Where was Abigail Hobbs when this girl was murdered?\"",
@@ -575,11 +810,11 @@
             "WILL GRAHAM: \"She said she didn't know them.\"",
             "JACK CRAWFORD: \"Doctor Bloom said Abigail Hobbs has a penchant for manipulation. Is she manipulating you, Will?\"",
             "HANNIBAL: \"Agent Crawford.\"",
-            "JACK CRAWFORD: \"You tell me you were wrong about Hobbs' Copy Cat. I want to know what else you were wrong about.\"",
+            "JACK CRAWFORD: \"You tell me you were wrong about Hobbs'Copy Cat. I want to know what else you were wrong about.\"",
             "WILL GRAHAM: \"Whoever killed the girl in the field, killed this girl. I'm right about that. He knew exactly how to mount the body. Wound patterns are almost identical to Cassie Boyle. The same design, same humiliation.\"",
             "HANNIBAL: \"Abigail Hobbs isn't a killer but she could be the target of one.\"",
-            "JACK CRAWFORD: \"I think it's time Abigail Hobbs left home for good. Pack up whatever she needs to pack up and get her out of Minnesota. Now.\"",
-            "JACK CRAWFORD: \"Not you, Will. You stay right here.\""
+            "JACK CRAWFORD: \"I think it's time Abigail Hobbs lefthome for good. Pack up whatever she needs to pack up and gether out of Minnesota. Now.\"",
+            "JACK CRAWFORD: \"Not you, Will. You stay righthere.\""
         ]
     },
     {
@@ -588,9 +823,15 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOBBS NEIGHBORHOOD  4"
+            "location": "HOBBS NEIGHBORHOOD  4",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "The REFLECTION OF POLICE LIGHTS dances across the window",
+            "Abigail's home, Alana Bloom in the passenger seat.",
+            "POLICE OFFICERS part and remove orange cones to allow",
+            "CIRCUS OF REPORTERS and NEWS VANS and LOOKY-LOOS at bay.",
+            "glances back at the CROWD OF REPORTERS and CAMERA MEN.",
             "VARIOUS REPORTERS: \"Abigail. Did you know you were a cannibal? Abigail.  Anything to say to the families of your father's victims? Abigail.  Did your father feed you those girls? Abigail. Abigail and her escorts walk toward the Hobbs Residence, while their eyes regard the Police Line. They finally look away just as Marissa's Mother pushes her way through the crowd.  A POLICEMAN awkwardly tries to hold her back. and steps to intercept Marissa's Mother. He bars her path, grips her arms, his hands soft but firm.\"",
             "MARISSA'S MOTHER: \"Why come back? Why did you come back here? Why did you come back? Abigail can't find her words. Marissa's Mother is so wracked with grief she can barely stand. A Policeman arrives behind Freddie steps out of the shadows near the garage.\"",
             "FREDDIE LOUNDS: \"Abigail.\"",
@@ -610,11 +851,43 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOBBS RESIDENCE - RECREATION ROOM  4"
+            "location": "HOBBS RESIDENCE - RECREATION ROOM  4",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "Abigail sits on the couch, crying quietly, emotionally",
+            "exhausted from the horrors of the day.",
+            "INCLUDE A HANDMADE PILLOW",
+            "Embroidered across the surface, an image of a DEER walks",
+            "across a plane, trimmed in pelt. She clutches it to her",
+            "stomach, needing something to hold. Then it dawns on her.",
+            "Abigail's hands gnarl as she begins pulling at the fabric of",
+            "the pillow, digging her fingernails into it. The pillow",
+            "begins to rip at the seams and Abigail tears it open.",
+            "She begins to shake before CAMERA REVEALS she's removed the",
+            "pillow's stuffing. WADS and WADS and WADS OF HUMAN HAIR.",
+            "Abigail's heartbeat POUNDS IN HER EARS, filling her head with",
+            "a rhythmic, oppressive TONE. She begins to tremble.",
+            "As Abigail reels from this horror, there's A BLUR OF MOTION",
+            "unbeknownst to her in front of the sliding glass doors.",
+            "A slight BREEZE blows through Abigail's hair and SOUND",
+            "RETURNS TO NORMAL. She looks up to see the sliding glass",
+            "doors are NOW OPEN. Standing in front of her: NICHOLAS BOYLE.",
             "NICK BOYLE: \"I'm not going to hurt you. I got to talk to someone. I didn't kill that girl. I swear I didn't. Abigail instinctively goes still. Then BOLTS. Abigail attempts to run. Nick Boyle grabs her, spins her around and forces her against the wall, his hand over her mouth.\"",
             "NICK BOYLE: \"I didn't -- Nick stiffens suddenly, eyes going wide as CAMERA REVEALS Abigail has plunged a kitchen knife into him at his sternum. She pulls it down, gutting him in one horrible motion. Just like her father showed her. Nick stumbles back, already glassy eyed, and the AWFUL WET SOUND that follows can only be his entrails.\""
+        ]
+    },
+    {
+        "heading": "38      EXT. HOBBS RESIDENCE - NIGHT 4                            38",
+        "metadata": {
+            "is_dream": false,
+            "is_flashback": false,
+            "time": "NIGHT",
+            "location": "HOBBS RESIDENCE  4",
+            "episode": "Hannibal_1x03_Potage"
+        },
+        "content": [
+            "street, crossing the Police Line surrounding the Hobbs house."
         ]
     },
     {
@@ -623,12 +896,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HOBBS RESIDENCE - FOYER"
+            "location": "HOBBS RESIDENCE - FOYER",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "toward the kitchen.",
             "ALANA BLOOM: \"Abigail? Before Alana can reach the kitchen, she sees a BLOODIED Abigail walking up the stairs, shell-shocked.\"",
             "ALANA BLOOM: \"Abigail palms the side of her head from behind, SLAMMING her into the wall in one move. Alana is instantly knocked out, collapsing reassures her:\"",
-            "HANNIBAL: \"She'll be alright. Show me what happened.\""
+            "HANNIBAL: \"She'll be alright. Show me whathappened.\""
         ]
     },
     {
@@ -637,9 +912,14 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "UNKNOWN",
-            "location": "HOBBS RESIDENCE - RECREATION ROOM"
+            "location": "HOBBS RESIDENCE - RECREATION ROOM",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "disemboweled corpse of Nick Boyle slumped in the room.",
+            "Abigail doesn't weep, she doesn't appear victimized and",
+            "besides her, putting a steady hand on her shoulder as if to",
+            "rouse her out of a deep sleep. His voice is gentle, fatherly.",
             "HANNIBAL: \"Abigail. Abigail is terrified, traumatized by the blood on her hands.\"",
             "ABIGAIL: \"He was going to kill me.\"",
             "HANNIBAL: \"Was he?  This isn't self-defense, Abigail. You butchered him.\"",
@@ -655,9 +935,13 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HOBBS RESIDENCE  4"
+            "location": "HOBBS RESIDENCE  4",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "CAMERA FINDS Alana in the back of an AMBULANCE, the side of",
+            "her head being bandaged. Will sits on the bench across from",
+            "her; Jack Crawford stands just outside the doors.",
             "ALANA BLOOM: \"I don't remember anything. Maybe a blur out of the corner of my eye, then a big, fat cut to black.\"",
             "JACK CRAWFORD: \"Nicholas Boyle attacked Abigail. You. Struck Lecter across the back of head with a fireplace poker.\"",
             "ALANA BLOOM: \"Where is Abigail?\"",
@@ -665,7 +949,7 @@
             "JACK CRAWFORD: \"Scratched Nicholas Boyle before he ran out the back door. Blood on her hands matches the tissue we pulled from Marissa Schuur's mouth.\"",
             "ALANA BLOOM: \"He got away?\"",
             "WILL GRAHAM: \"He won't go to a hospital. He knows he'll get caught if he does.\"",
-            "JACK CRAWFORD: \"We'll get him one way or another.\"",
+            "JACK CRAWFORD: \"We'll gethim one way or another.\"",
             "ALANA BLOOM: \"What's one way?\"",
             "WILL GRAHAM: \"We'll find his body, bled out. He already lost a lot of blood. Frustrated, Will climbs out of the back of the Ambulance.\"",
             "JACK CRAWFORD: \"Where are you going?\"",
@@ -678,7 +962,8 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE  5"
+            "location": "HANNIBAL\u2019S OFFICE  5",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
             "WILL GRAHAM: \"Sometimes at night, I leave the lights on in my little house and walk across the flat fields. When I look back from a distance, the house is like a boat at sea. It's really the only time I feel safe.\"",
@@ -686,7 +971,7 @@
             "WILL GRAHAM: \"My mind has already been breached.\"",
             "HANNIBAL: \"You view your mentality as grotesque but useful.\"",
             "WILL GRAHAM: \"Like a chair made of antlers.\"",
-            "HANNIBAL: \"You stood in the breathing silence of Garret Jacob Hobbs' home. The very spaces he moved through. Tell me, Will, did they speak to you?\"",
+            "HANNIBAL: \"You stood in the breathing silence of Garret Jacob Hobbs'home. The very spaces he moved through. Tell me, Will, did they speak to you?\"",
             "WILL GRAHAM: \"With noise and clarity.\"",
             "HANNIBAL: \"You could sense his madness. Like a bloodhound sniffs a shirt.\"",
             "WILL GRAHAM: \"I tried so hard to know Garret Jacob Hobbs. To see him past the glint of slides and vials, beneath the lines of police reports, between the pixels of all those printed faces of sad, dead girls.\"",
@@ -708,15 +993,18 @@
             "is_dream": false,
             "is_flashback": false,
             "time": "NIGHT",
-            "location": "HANNIBAL\u2019S OFFICE - LATER THAT NIGHT 5"
+            "location": "HANNIBAL\u2019S OFFICE -  THAT NIGHT 5",
+            "episode": "Hannibal_1x03_Potage"
         },
         "content": [
+            "scribbles in Will's PATIENT NOTEBOOK, adding to observations.",
+            "A CREEK from the balcony above him lifts his pen from page.",
             "HANNIBAL: \"Hello, Abigail. CAMERA REVEALS Abigail standing on the second floor library.\"",
             "ABIGAIL: \"How did you know it was me?\"",
             "HANNIBAL: \"Hospital called. You climbed over the wall. Where else were you to go?  Home is no longer an option. Come down from there. balance as she steps off the last rungs onto the floor.\"",
             "ABIGAIL: \"I don't want to go to sleep.\"",
             "HANNIBAL: \"You can't anticipate your dreams, can't block them, can't repress.\"",
-            "ABIGAIL: \"I didn't honor any part of him. So it's just murder, isn't it?\"",
+            "ABIGAIL: \"I didn'thonor any part of him. So it's just murder, isn't it?\"",
             "HANNIBAL: \"Most would argue self defense.\"",
             "ABIGAIL: \"Then why not tell the truth.\"",
             "HANNIBAL: \"Most would argue. There would still be those who would say you were taking after your father.\"",
